@@ -108,9 +108,8 @@ class nxmlParser():
                     if key == 'fig' or key == 'table-wrap':
                         lab = y.find('label')
                         lab.string = lab.string#+ ': '
+                        lab.string = self.tokenizeCaption(lab.text)
                         label = lab.text
-                        lab.string = self.tokenizeCaption(label)
-    
                         capt = y.find('caption')
                         tokenized_caption = self.tokenizeCaption(capt.text)
 #                        print (tokenized_caption, '\n')
