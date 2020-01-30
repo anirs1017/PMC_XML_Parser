@@ -1,0 +1,984 @@
+
+Medical History, 1997, 41: 182-196
+
+The Immunization of Cattle against Rinderpest in
+
+Eighteenth-Century Europe
+
+C HUYGELEN*
+
+Rinderpest is caused by a morbillivirus closely related to the measles and canine
+distemper viruses. The pathology and symptomatology of the three diseases are very
+similar,1 but in terms of mortality, rinderpest is by far the most lethal; in European cattle
+the death rate often exceeds 80 per cent. The disease was eradicated in Europe over a
+hundred years ago, but in the eighteenth century an estimated 200 million cattle died from
+it, and the rural economy of most European countries was profoundly affected by the
+successive waves of epizootics.2 Many leaders of medical opinion became actively
+involved in the study of these outbreaks, in part out of scientific interest, but also because
+their assistance was requested by their respective governments. In the rural areas several
+medical practitioners and even clergymen took an active interest in rinderpest because
+they were directly confronted with the disastrous losses suffered by farmers. Cattle played
+a key role in rural life not only as producers of meat and milk, but also as the main source
+of manure. The severe losses stressed the need to have trained manpower to handle animal
+disease and stimulated the creation of schools of veterinary medicine in the latter part of
+the eighteenth and beginning of the nineteenth centuries. Most of the work on rinderpest
+referred to in this article was carried out by medical men and some pharmacists, none of
+whom had any specific training in animal diseases.3
+
+Opinions on the cause of rinderpest have been reviewed against the background of the
+mainstream infectious disease concepts of those days by Lise Wilkinson.4 In spite of the
+lack of theoretical knowledge concerning the etiology of infectious diseases, a few
+
+*Dr Vet. Med. C Huygelen, Vossekouter 29, B-3040
+Huldenberg, Belgium.
+
+I wish to thank Drs A H H M Mathijsen, former
+
+librarian, Faculty of Veterinary Medicine, University
+of Utrecht, for his invaluable help in providing most
+of the old Dutch publications, Prof. Dr Angela von
+den Driesch, Director of the Institute fUr
+
+Palaeoanatomie, Domestikationsforschung und
+
+Geschichte der Tiermedizin der Ludwig-Maximilian-
+Universitat, Munich, for giving me access to her
+
+rich collection of rare German veterinary literature,
+
+and Dr G Theves, Veterinary Services, Luxembourg,
+for providing copies of articles from his own
+private collection. I should also like to thank
+
+Professor W F Bynum and the external referees
+for their good advice and criticism; I am also
+
+indebted to Ms Caroline Tonson-Rye for her editorial
+expertise.
+
+1 Kazuya Yamanouchi, 'Comparative aspects of
+pathogenicity of measles, canine distemper and
+
+rinderpest viruses', Japan. J. med. Sci. BioL, 1980,
+33: 41-66.
+
+2 G R Scott, 'Rinderpest virus', in Z Dinter and
+B Morein (eds), Virus infections of ruminants,
+Amsterdam, Elsevier, 1990, p. 343.
+
+3 Leon Moule, 'Du r6le des m6decins dans la
+
+lutte contre les 6pizooties au XVIIIe siecle. Premiere
+partie. Peste bovine', Compt. Rendus 2e Congr int.
+Hist. Me'd., Paris 1921. Evreux, Ch. H6rissey, 1922,
+pp. 237-74. In this article the author gives a long,
+though still very incomplete list of the leaders of
+
+medical opinion involved in rinderpest research with
+brief biographies and short descriptions of their work
+in this field.
+
+4 Lise Wilkinson, 'Rinderpest and mainstream
+infectious disease concepts in the eighteenth
+century', Med. Hist., 1984, 28: 129-50.
+
+182
+
+The Immunization of Cattle against Rinderpest
+
+practical lessons had nevertheless been learned from past experience: isolation and
+sanitary measures, when applied strictly, had been shown to be at least partially effective
+in limiting the spread of human plague, and long experience with smallpox had taught that
+one attack of the disease would protect for life; in addition, artificial smallpox inoculation
+had been shown to provide protection and was becoming more popular towards the middle
+of the century.
+
+Bernardino Ramazzini had been the first to describe rinderpest, in 1712.5 He was the
+principal professor of medicine at the University of Padua. He saw several similarities
+between rinderpest and smallpox and his views were widely accepted. Giovanni Maria
+Lancisi, the Pope's personal physician, recommended the slaughter of all infected and
+exposed animals.6 This policy was undoubtedly the most logical approach to combat the
+rinderpest epizootics, but it understandably met with much resistance and was therefore
+applied only sparingly especially at the beginning; later in the century it would be used
+successfully in several countries. In others, however, the measures were seen as too drastic
+and costly; in addition, their strict application required a strong central authority, which
+was often lacking, as in the United Dutch Provinces for example.
+
+Against this background it was not surprising that attempts were made to apply the
+inoculation principle to rinderpest, as it was extrapolated to measles by Francis Home a
+few years later.7 Both diseases were seen as closely related to smallpox and one attack was
+known to provide lifelong protection. Several of the most fervent and experienced
+smallpox inoculators, like Pieter Camper in the Netherlands, became the most enthusiastic
+promotors of applying the procedure to rinderpest, especially because all attempts to cure
+the disease had failed; the whole range of the then known drugs used in human medicine
+had been tried, all to no avail.8
+
+Initial Inoculations in England and the Netherlands
+
+The first written report of rinderpest inoculation was published as a letter signed "T.S."
+in the November 1754 issue of the Gentleman's Magazine, a journal then widely read by
+educated people not only in Britain, but also on the Continent. This magazine also actively
+supported the progress of smallpox inoculation.9 In this context it was eager to publish
+letters about the applications of the principle to other diseases. The author of the letter
+reported that a Mr Dobson, a gentleman of Yorkshire, had inoculated his cattle and had
+thus preserved nine out of ten of them.10 In the next issue of the journal, a correction
+appeared stating that Mr Dobson was very surprised to see his name mentioned in
+
+5 Bernardino Ramazzini, De contagiosa         9 Genevieve Miller, The adoption of inoculation
+epidemia, quae in Patavino agro, et totafere Veneta  for smallpox in England and France, Philadelphia,
+
+ditione in boves irrepsit, Padua, Conzatti, 1712.  University of Pennsylvania Press, 1957, p. 168. See
+
+6 Giovanni Maria Lancisi, Dissertationes   also Roy Porter, 'Lay medical knowledge in the
+
+historicae de bovilla peste, Rome, Salvieni, 1715.  eighteenth century: the evidence of the Gentleman's
+
+7 Francis Home, Medicalfacts and experiments,  Magazine', Med. Hist., 1985, 29: 138-68, and idem,
+London, A Miller, 1759.                      'Laymen, doctors and medical knowledge in the
+
+8 G Theves, 'De la "maladie des betes a comes"  eighteenth century: the evidence of the Gentleman's
+au Duche de Luxembourg pendant le XVIIIe siecle.  Magazine', in Roy Porter (ed.), Patients and
+
+Traitement et prophylaxie', Ann. M6d. vft., 1994,  practitioners, Cambridge University Press, 1985.
+
+138: 81-8, and Angela von den Driesch, Geschichte  10 Letter signed T.S., Gentleman's Mag., 1754, 24:
+der Tiermedizin, Munich, Callwey, 1989, p. 180.  493.
+
+183
+
+C Huygelen
+
+connection with the procedure. The letter stated that "Mr. Dobson lives in the city of York,
+and is so far from having any stock of cattle, that he does not even keep a cow". The real
+story Dobson had heard, was as follows:
+
+Sir William St. Quintin, of Scampton in Yorkshire, inoculated eight calves, seven of which had the
+distemper from the inoculation, and recovered, and were afterwards turned into a herd of infected
+cattle, without being infected a second time; the other case was of an old ox, which was inoculated
+at Malton, which had the distemper from inoculation, and recovered, and was afterwards turned into
+a herd of infected cattle, but did not receive the infection a second time. Mr. Dobson had the
+foregoing account from an eminent physician in Yorkshire, who told him the method of performing
+the operation, and of treating the beast in distemper, which is as follows: First bleed the beast, and
+from that time keep him from hay, and all dry meat, till he is quite recovered; and in order to keep
+his body open, give him scalded bran, or chaff. At the end of three days make an incision in the
+dewlap, into his wound put a piece of tow, dipped in the morbid matter discharged from the nostrils,
+or eyes, of an infected beast, then stitch up the wound, and let the tow remain until the symptoms of
+distemper appear, when the tow must be taken out; after turn the beast out to grass.11
+
+In almost all later literature on rinderpest the first inoculations have been erroneously
+attributed to Dobson, probably because the second letter went unnoticed; in addition, most
+authors misspelled his name: "Dodson". Many also gave the incorrect date of 1744 instead
+of 1754; few appear to have checked the original publications. Alois Kohl wrongly
+attributed the first rinderpest inoculations to Ramazzini in 1711, followed by "Dodson" in
+1744! 12
+
+The letters in the Gentleman's Magazine inspired Stefan Weszpremi to write his
+Tentamen de inoculanda peste. Weszpremi was a Hungarian physician, living in England,
+who saw St Quintin's experiments as proof that inoculation could be applied successfully
+to diseases other than smallpox, and who proposed to widen the field of application to
+measles and to human plague.'3 As mentioned above, the first actual measles inoculations
+were performed by Home three years later. 14
+
+Johann Christian Polykarp Erxleben, professor at the Georg Augustus University and
+the Royal Institute for Historic Sciences at Gottingen, briefly mentioned some rinderpest
+inoculations in Brunswick in 1746 in which 9 out of 19 cattle survived,15 but I have been
+unable to find any further details or reports on these trials, and other German authors, like
+Claus Dethloff von Oertzen, do not mention them at all.'6
+
+After the initial limited experiments in England, the focus of activity shifted to the
+Netherlands. In early 1755 funds were raised there for the purpose of purchasing cattle for
+an inoculation experiment, to be carried out in Beverwijk by Corneel Nozeman, Agge
+Roskam Kool and Jan Tak. Nozeman was a teacher in Haarlem and the two others
+physicians in Leiden. In the preface to their publication the authors stated that neither
+before nor during their experiment had they had any knowledge of the report in the
+
+" Letter to Mr Urban, Gentleman's Mag., 1754,  15 Johann Christian Polykarp Erxleben,
+
+24: 549.                                     Praktischer Unterricht in der Vieharzneykunst,
+
+12 Alois Kohl, Encyklopadie der gesammten  Gottingen and Gotha, J C Dieterich, 1771, p. 205-23.
+Thierheilkunde, Vienna and Leipzig, M Perles, 1891,  16 Claus Dethloff von Oertzen, Oeffentliche
+
+vol. 8, p. 468.                              Bekanntimachung der nunmehr sattsam erprobten
+
+13 Stephanus Weszpr6mi, Tentamen de inoculanda  und in Mecklenburg allgemein gewordenen
+
+peste, London, J Tuach, 1755.               Inoculation der Rindviehseuche, Hamburg, C W
+
+14 Home, op. cit., note 7 above.           Meyn, 1779.
+
+184
+
+The Immunization of Cattle against Rinderpest
+
+Gentleman's Magazine. They described their trials in great detail: in most cases they used
+a thread or a wick soaked in the nasal or conjunctival secretions of infected animals; with
+a needle they pierced the skin between two incisions in the buttocks and left the thread
+under the skin; in some of their animals they used the contents of the omasum as
+inoculum. Of the seventeen inoculated animals only three survived and one of these had
+had the disease previously. In their publication the authors also mentioned another
+experiment that had been done by Binkhorst in Leiden; no information was given about
+the latter, except that he loved research; he had inoculated three one-year-old calves with
+secretions from a recovering animal: all three had died. The authors concluded from these
+disastrous results that inoculation could not be recommended; they tried to find an
+explanation for their failure and wondered whether it would be possible to make the
+operation less lethal by using a "weaker" inoculum. They referred to smallpox in which
+inoculators always tried to take material from patients with a mild form of the disease.
+They also wondered whether the disease could be made milder by adequate treatment of
+the inoculated animals.17
+
+In the April 1755 issue of the Gentleman's Magazine a letter appeared on the Dutch
+experiments; it was signed 0.0. The author referred to a first trial in which a young ox
+survived inoculation and was later shown to be immune. Thereupon the seventeen animals
+mentioned above were purchased and the experiment carried out as described. The
+investigators were not mentioned by name.18
+
+Martinus Wilhelm Schwencke, professor of anatomy and surgery at the Hague, also
+sent a report to the same magazine. He referred to the trial by Nozeman and others without
+mentioning them, making it sound, perhaps unintentionally, as if he had done the trial
+himself. He then continued: "However by varying the experiment I fell at last upon a
+method which I think likely to answer, as far as I may judge by the success I had this
+summer with six young beasts of between one and two years old, all of which being
+inoculated at the same time, had the distemper in a mild degree and perfectly recovered
+from it."19 He attributed his success to the use of Epsom salt. Schwencke later published
+the results of some further trials in 1757.20
+
+In a footnote to Schwencke's letter, the editor of the Gentleman's Magazine regretted
+that in the meantime he had received no further details of the early trial in England, and
+that no additional trials had been reported in his own country; he then remarked: "Upon
+the first appearance of our magazine in Holland, the Dutch merchants at Amsterdam
+instanfly set on foot a subscription for the purchase of a number of cattle all of which they
+caused to be inoculated".21
+
+A few further trials were in fact performed in England. Daniel Peter Layard, Fellow of the
+Royal Society and at the time a medical practitioner in Huntingdon, in a letter read to the
+Royal Society on 2 February 1758 referred to an experiment by the Dean of York on "five
+
+17 Corneel Nozeman, Agge Roskam Kool and Jan  inoculating homed cattle', Gentleman's Mag., 1755,
+Tak, Eerste proefneeming over de uitwerkingen van  25: 464.
+
+de inentinge der besmettende ziekte in het rundvee  20 M W Schwencke, 'Proeven op het vee door
+gedaan in de Beverwijk, Amsterdam, K van der Sys  inenting', Bremisches Mag. zur Ausbreitung der
+
+and K de Veer, 1755.                     Wissensch., 1757, 1(47): 406, quoted by Camper, op.
+
+18 O.O.: Letter from Amsterdam, Gentleman's  cit., note 31 below, p. 62.
+Ma'. 1755, 25: 160.                       21 Ibid.
+
+l M W Schwencke, 'Letter on the subject of
+
+185
+
+C Huygelen
+
+beasts inoculated by means of a skein of cotton dipped in the matter and passed thro' a hole,
+like a seaton, in the dew-lap." One of them, a pregnant cow, died, but the four others survived
+and resisted reinfection when herded with diseased animals. A Mr Bewley, a surgeon of
+repute in Lincolnshire, inoculated three animals; all three recovered after a mild disease and
+were shown to be immune. Layard advocated inoculation, except for young calves and
+pregnant cows, and made detailed recommendations on how to proCeed.22 TWO years
+previously he had published a book on rinderpest in which, like most other authors, he had
+stressed the analogy between the disease and smallpox.23 In the meantime the epizootic had
+begun to recede in England and, consequently, the interest in inoculation declined. When in
+the 1760s the epizootic caused enormous damage on the Continent, the English government
+called upon Layard for advice; he recommended killing the affected animals and burying
+them immediately. However, he still praised inoculation as a valuable prophylactic treatment,
+based on his assumption that rinderpest was an eruptive fever of the variolous type. The total
+number of inoculations in England appears to have been very limited and after 1780 the
+English interest in rinderpest disappeared for nearly a century;24 almost all further
+experimentation was done in the Netherlands, Northern Germany and Denmark.
+
+Independently of the above mentioned early Dutch trials, Eelko Alta, a Friesian
+clergyman in Boosum, had also started a trial on his own cattle in 1755, but all the
+inoculated animals had died. Alta was not too discouraged, because he realized that he had
+done his trial in a stable in which naturally infected animals were housed and that
+therefore no valid conclusions could be drawn from these results. He interrupted his trials
+for some time, but resumed them on two animals in December 1759. After blood-letting
+and thorough purgation, he inoculated them with a very small amount of nasal discharge
+from diseased cattle using a thread and a needle to perforate the skin, as he had done in
+his first experiment. Both animals became ill, but survived. However, when exposed to
+naturally infected cows, they became sick again, but less severely. Alta thought that
+because he had used a small amount of inoculum the animals had been unable to get rid
+of the virulent substance in their bodies. He published the results of his two trials in a book
+on rinderpest, in which he refuted the ethical and theological objections to inoculation.25
+
+In the Netherlands, as in most other European countries, the debate for and against
+smallpox inoculation was very much alive in those years. The various aspects of this
+debate have been thoroughly reviewed by Genevieve Miller, and more specifically for
+France by Jean-Francois de Raymond and for the Netherlands by Jan Willem Buisman.26
+The main arguments against inoculation were (a) medical: inoculation maintained the
+disease in a given area because of spread from inoculated persons to others in the
+neighbourhood; (b) ethical: nobody had the right to inflict intentionally a disease on
+
+22 Daniel Peter Layard, 'A discourse on the  25 Eelko Alta, Verhandeling over de natuurlijke
+
+usefulness of inoculation of the homed cattle to  oorzaken der ziekte onder het rundvee, Leeuwarden,
+prevent the contagious distemper among them',  W Wigeri, 1765.
+
+Philos. Trans., 1759, 50: 11.               26 Miller, op. cit., note 9 above, pp. 100-33; Jean-
+
+23 Idem, Essay on the nature, causes, and cure of  Fran,ois de Raymond, Querelle de l'inoculation,
+
+the contagious distemper among the horned catle,  Paris, J Vrin, 1982, pp. 55-6; Jan Willem Buisman,
+
+London, Rivington, 1757.                  Tussen vroomheid en Verlichting, Zwolle, Waanders,
+
+24 Charles F Mullett, 'The cattle distemper in  1992, pp. 129-55.
+mid-eighteenth century England', Agric. Hist., 1946,
+20: 144-65.
+
+186
+
+The Immunization of Cattle against Rinderpest
+
+somebody else; and (c) theological: since disease was a divine punishment, trying to
+prevent it by inoculation was acting against God's will.
+
+In the rinderpest debate in Holland and elsewhere, very much the same arguments were
+used by opponents of inoculation, with somewhat less emphasis on the ethical aspect,
+since animals, not people, were involved. The proponents of inoculation considered
+rinderpest inoculation to be medically justified since the disease had become enzootic and
+all cattle ran a great risk of contracting it anyway by natural infection. As far as the
+theological objections were concerned, Alta asked his opponents if they saw other
+scourges of mankind, such as floods, also as divine punishments, and if so, why they
+reinforced the dykes in order to prevent them.
+
+In a postscript to his book, Alta referred to an article by Johannes Grashuis published in
+1758, which he had not seen before. Grashuis was a physician in Hoorn, the author of several
+scientific publications and a member of a number of local and foreign learned societies.
+Grashuis had induced only a mild disease, but his animals were not protected, and four out
+of six died when exposed later to natural infection.27 Alta's conclusion from his own limited
+experience and that of Grashuis was that one could inoculate "too lightly" or "too heavily".
+He remained optimistic and thought that with adequate inoculation procedures, it would be
+possible to create gradually a more resistant breed of cattle, that would eventually replace
+the more susceptible animals: he had noticed the higher resistance of calves from so-called
+"gebeterde koeien", i.e. cows which had recovered from the disease.28
+
+In the early 1760s Jan Engelman published an article on rinderpest, which is of interest
+because he was probably the first author to observe the close similarity between rinderpest
+and measles. He was a physician in Haarlem and one of the first members of the Dutch
+Society of Sciences there. He described in detail fifteen points of analogy between the two
+affections. Engelman thought that there were no solid arguments in favour of rinderpest
+inoculation, because it was not caused by a "pox poison"; he added however the following
+remark: "Suppose for a moment it was caused by a measles poison, and if one could safely
+inoculate against rinderpest, would this mean that one could safely inoculate this measles
+poison and, although no experiments in humans have been done, would one not be
+inclined to inoculate human beings with it, and especially children?".29 At the time he
+wrote this, Engelman was obviously unaware that Home had already published his results
+of measles inoculation in Scotland.
+
+Further Trials in the Netherlands
+
+The interest in inoculation sharply increased again towards the end of the 1760s as a
+result of severe losses in several parts -of the country. Some of the biggest names in Dutch
+medicine became involved in the struggle against the epizootic, among them Pieter
+
+27 J Grashuis, 'Berigt van de in-enting der  waar in het vaderland zig door de ziekte van het
+
+besmettelijke ziekte onder het rund- vee', Uitgezogte  rundvee thans bevind, van zeer veel nut kunnen zijn,
+Verhandelingen uit de Nieuwste Werken van de  Leeuwarden, H A de Chalmot, 1769.
+
+Societeiten der Wetenschappen in Europa, 1758, 3:  29 J Engelman, 'Nader verhandeling over de
+246-51.                                     rundveesterfte betreklijk tot de waarneemingen
+
+28 Eelko Alta, Nodige raadgevingen aan    vervat in't VI de deel, II e stuk', Verhand. Holl.
+overheden en ingezetenen dewelke in het bijzonder  Maatsch. Wetenschap., 1763, 7: 247-318.
+voor den boer in deeze akelige omstandigheden,
+
+187
+
+C Huygelen
+
+Camper, a professor at Groningen at the time. He was well known both in the Netherlands
+and abroadi and a member of a long list of domestic and foreign learned societies.30 He
+was a great advocate of smallpox inoculation and had written several publications on this
+subject. He and his colleague Wouter van Doeveren, professor of physiology, pathology,
+clinical medicine and chemistry at Groningen, had come to the conclusion that rinderpest,
+like smallpox, would remain endemic, and that in this context, quarantine, isolation and
+slaughtering policies would be ineffective; prophylactic inoculation remained the only
+valid alternative.
+
+In February 1769 Camper gave a series of four lectures in the Theatrum Anatomicum
+in Groningen. In the first three he described the- anatomy of ruminant stomachs, and his
+fourth lecture was devoted to rinderpest; he stressed the need for inoculation trials. In the
+preface of his publication he stated that, at the time he started his experiments, he had been
+unaware of Alta's work published four years before. Camper thought that one should not
+be too discouraged by the negative results of early trials, because when smallpox
+inoculation had started in England earlier in the century, morbidity and mortality had also
+been high, mainly because the incisions were made too deep. With experience
+accumulated over the years, inoculators had learned to make very small wounds and to use
+minute amounts of infectious material and the results had improved significantly.31
+
+In April 1769 Camper started a trial with van Doeveren in Groningen on 75 cows. The
+results published by van Doeveren, were not very encouraging: 39 animals died and 36
+recovered.32 Camper himself lost interest in the Groningen trial, apparently because of its
+slow progress, and decided to start an experiment in Friesland, where a violent epizootic
+was raging. This trial was supervised by Wijnold Munniks, who would later be a professor
+at, and three times rector of, Groningen University, and the results were published the
+same year.33 A total of 112 yearlings were inoculated, of whom 45 survived. The authors
+found no difference between the mortality rates of those which had received an inoculum
+from animals that had died of the disease, and those which had been inoculated with
+material from animals which were recovering at the time it was taken. The surviving
+yearlings proved to be immune when exposed to naturally infected cattle. The authors
+were encouraged by their results and claimed that after natural infection only 20 to 28
+animals would have survived instead of 45. From the practical viewpoint, they
+recommended the use of nasal or conjunctival secretions as inoculum rather than saliva,
+soaking a seven to eight inch thread in it and sticking it through the skin of the buttocks
+or elsewhere, the inoculation site being of little importance; on the fifth or sixth day the
+animals were to be given a purgative.
+
+Independently, several others performed some trials in the same period. Two medical
+doctors, G M Schutt and E J Romer, assisted by two surgeons, P Van Lankom and G
+
+30 A Lange, 'Petrus Camper (1722-1789) en zijn  gemakkelijke, onkostbare en voordeelige manier te
+betekenis voor de diergeneeskunde', Argos, 1990, no.  doen', in Eduard Sandifort (ed.), Natuur- en
+
+2: 27-9.                                  Geneeskundige Bibliotheek, s'Gravenhage, P van
+
+31 Pieter Camper, Lessen over de thans zweevende  Cleef, 1769, vol. 6, pp. 436-42.
+
+veesterfte openlijk gehouden ... in het Theatrum  33 Petrus Camper and Wynold Munniks,
+
+Anatomicum te Groningen, Leeuwarden, H A de  Voorloper van waarneemingen omtrent den uitslag
+Chalmot, 1769.                            van de inentinge der besmettelijke veeziekte,
+
+32 W van Doeveren, 'Raadgevingen om de  Leeuwarden, H A de Chalmot, 1769.
+inentinge der ziekte van't rundvee, op eene
+
+188
+
+The Immunization of Cattle against Rinderpest
+
+Greeve, obtained disastrous results in five experiments in the province of Utrecht. When
+they heard of Camper's experiments, they published an open letter to him reporting their
+data in detail.34 Johan Spruit, a surgeon, also carried out a few experiments with variable
+results.35 In June 1769 Johannes de Vries, a provincial surgeon in Leeuwarden, started
+inoculation trials in Langweer at the request of the authorities; his results were disastrous:
+39 out of 53 inoculated animals died, but he had apparently been experimenting in a
+contaminated environment. In various experiments performed in Friesland between
+November 1769 and January 1770 a total of 330 animals were inoculated and 156 of them
+recovered.36 Faced with all these negative results, with both inoculation and various other
+types of treatment, the Friesian authorities concluded in November 1769 that the cause of
+rinderpest was God's displeasure with the sinful behaviour of the Friesian people, and 15
+November was proclaimed a day of prayer and fasting.
+
+As a direct consequence of the negative results recorded in different parts of the
+country, the interest in rinderpest inoculation declined sharply in the Netherlands.
+Henricus Vink, professor of anatomy and surgery at the Rotterdam Medical School, gave
+a series of lectures in Rotterdam in October 1769; he was opposed to inoculation and
+strongly disagreed with Camper and Munniks. The latter had claimed that even if the post-
+inoculation losses were high, the farmers gained by it, because the recovered animals
+fetched a much higher price. This led to fraud, however, and quite a few fully susceptible
+cows were sold as having recovered. Vink also questioned the calculations made by
+Camper and Munniks on the comparative mortality rates of inoculated animals versus
+those which would have succumbed if exposed to natural infection, claiming that under
+natural conditions 100 per cent of the animals would in no circumstances have been
+infected.37
+
+Reinders' Experiments in the Netherlands
+
+In this climate of discouragement and scepticism, Geert Reinders, a farmer in the
+province of Groningen and a self-taught man, decided to continue the experiments.38 He
+contacted Camper, and in collaboration with Munniks, carried out several trials with
+variable success in the 1769-1770 period. In some cases the mortality rate after
+inoculation was extremely high, in others the animals did not become resistant to
+subsequent infection, or developed severe local infections at the inoculation site. The
+authors tried different inoculation procedures and a variety of treatments to alleviate the
+symptoms, all of them without any measurable effect. Out of the 150 inoculated cattle 86
+
+34 G J Schutt, E J Romer, P van Lanckom and  Friesland gedurende de 18 de eeuw', Argos, 1994,
+G Greeve, Brief aan den Hoog Geleerden Heere  no. 10: 315-23.
+
+Petrus Camper beheizende eenige proeven omtrent  37 H Vink, Lessen over de herkauwing der
+
+de inentinge der besmettelijke veeziekte, genomen in  runderen en tans woedende veeziekte, Rotterdam,
+de Vrijheid van Utrecht, Utrecht, G B Timon van  Arrenberg, 1770, pp. 86-101.
+
+Paddenburg, 1770.                              38 A van der Schaaf, 'Geert Reinders
+
+35 Johan Spruit, 'Brief van den Heer Joh. Spruit,  (1737-1815). A founder of the practical application
+Heelmeester te Nichtwegt, aan den Schrijver,  of immunology in the fight against infectious
+
+behelzende eenige waarneemingen over de inenting  diseases in animals', Hist. Med. vet., 1978, 3: 89-98,
+van de ziekte der runderen', in Sandifort, op. cit.,  and L H Bruins, Geert Reinders, Leven en werk van
+note 32 above, p. 899.                       de grondlegger van de inmmunologie, Assen, van
+
+36 J de Vries, 'De bestrijding van de runderpest in  Gorcum, 1951.
+
+189
+
+C Huygelen
+
+recovered and 64 died. They reached three conclusions from their work: (a) infectious
+material taken from a diseased animal on the second, third or fourth day of sickness,
+always produced rinderpest; (b) inoculated animals which had shown typical symptoms,
+were always immune to reinfection even when the symptoms had been mild; and (c) the
+mode of inoculation and the various therapies used had no impact on the results.
+
+Reinders resumed his experiments in 1774, concentrating on the inoculation of calves
+from cows that had recovered from rinderpest. He was in all probability the first to make
+practical use of maternally derived immunity. In rinderpest most, but not all, calves lose
+their colostrum derived antibodies by the age of nine to ten months; some lose theirs at a
+much earlier age.39 As for other morbillivirus diseases, there is great individual variation
+related directly to the antibody titres of the individual mothers.
+
+In an open letter to Camper and Munniks, Reinders reported his observation that calves
+from immune dams did not become susceptible to the contagion before they were put out
+in the open air in the spring. He had discussed this phenomenon with them several times
+between 1769 and 1774, but had not been able to generate much interest on their part. He
+had therefore decided to embark upon trials on his own and had inoculated calves from
+cows which had had the disease five years previously; the calves had been inoculated
+when six to eight weeks old and while still indoors; they had shown only very mild
+reactions. Some of them had been reinoculated after they had been out in the pastures for
+four to five weeks and had shown some very mild symptoms on the sixth day after
+inoculation; they were later shown to be resistant to natural infection. Reinders invited
+Camper and Munniks to repeat his experiments.40 The detailed results of his trials were
+published in 1776 and reprinted in 1777 together with his 1774 letter to Camper and
+Munniks"41 Reinders had gone through a difficult time while carrying out these trials: he
+had been attacked by zealots who accused him of atheism because he acted against God's
+will.
+
+Although Alta had briefly referred to the higher resistance of calves from recovered
+cows, he had attributed it to a kind of hereditary resistance. Reinders came much closer to
+the true explanation with his observation that the resistance of the calf depended only on
+the immune status of the dam and was not influenced by that of the bull. He had also
+noticed that once a cow had recovered from the disease, all the calves she bore afterwards
+were initially resistant, irrespective of the time since her recovery. He also noticed that,
+after having spent half a year in the open air, these calves became as susceptible as calves
+from non-immune dams. Since virtually all calves were born in the early part of the year,
+they would have lost their maternally derived immunity and become susceptible towards
+the end of the summer. Initially, Reinders had wrongly attributed this decline of resistance
+to exposure to the open air, but he soon realized that this factor was unrelated.42
+
+39 R D Brown, 'Rinderpest immunity in calves-a  41 Idem, Waarneemingen en proeven meest door
+review', Bull. epizoot. Dis. Afr. 1958, 6: 127-33; W  inentinge op het rundvee gedaan, dienende ten
+
+Plowright, 'Rinderpest virus', in S Gard, C Hallauer  bewijze, dat wij onze kalvers van gebeterde koejen
+and K F Meyer (eds), Virology Monographs No. 3,  geboren, door inentinge tegen de veepest kunnen
+
+Vienna and New York, Springer, 1968.       beveiligen, Groningen, L Huisingh, 1776 (reprinted
+
+40 Geert Reinders, Brief aan den Wel Edelen  1777).
+
+Hooggeleerden Heere Petrus Camper en aan ...  42 Interference of maternally derived antibodies
+Wyn. Munnicks weegens eene voorname ontdekkinge  with active immunization using parenterally
+
+door inentinge op het rundvee gedaan, Groningen, L  administered live attenuated virus vaccines is a well
+Huisingh, 1774.                            known problem today, especially in measles and
+
+190
+
+The Immunization of Cattle against Rinderpest
+
+Reinders found out that in order to increase his chances of success, he had to inoculate
+the calves two or three times at different ages. He predicted, rather optimistically, that with
+his method of repeated inoculations, a resistant cattle population could be created, not
+only in his own country, but throughout Europe. The main problem he foresaw, was the
+supply of enough infectious matter to keep inoculating.
+
+His inoculation procedure did not differ much from what had been used previously:
+infectious material was obtained from nasal discharge on the second to fourth day of
+illness, a thread was soaked in it and then with a needle drawn through a fold of loose skin,
+usually in the buttocks; the thread was removed 4 to 5 days later. He recommended three
+inoculations routinely: the first one in the stable, preferably at the age of six weeks, the
+second when the calves had been outdoors for three or four weeks and the third in August
+or September. Reinders' chances of success may have been greatly increased because of
+unintentional contact of the inoculum with the nasal and oral mucosae of the calves
+through licking of the wounds or otherwise.
+
+Reinders' example was followed by Jan Hendrick Stolte, a local physician in Zwolle,
+using 120 calves from immune dams: 20 of them died, but 4 of these were presumed by
+the author to have succumbed to an intercurrent disease; of the other 100 animals 48 were
+inoculated a second and a third time without showing signs of illness.43
+
+The publication of Reinders' work generated renewed interest in inoculation, because
+his results were much better than those obtained previously in other cattle.44 In 1780 the
+Amsterdamsche Maatschappij ter Bevordering van den Landbouw (Amsterdam Society
+for the Advancement of Agriculture), published the results of a survey: 1,829 inoculated
+animals had survived, i.e. 90 per cent.45 The total figures for the period 1777 to 1781
+showed 3,373 survivors out of 3,796 inoculated animals, i.e. 89 per cent.46 These figures
+compared very favourably with the survival rate after natural infection in the 1769-1776
+period, i.e. only 126,307 out of 438,045, 29 per cent. In 1784 more than half the calves
+born in some parts of Friesland were inoculated.47
+
+Judging from a publication in 1778, Reinders' trials appear to have been well
+organized: in this document he stipulated the "Conditions under which the Inoculation
+Society, established at Garnwert, proposes to supply calves which have recovered from
+
+canine distemper. The young cannot be immunized
+as long as the antibodies have not declined below a
+certain threshold; the age at which this threshold is
+reached is entirely dependent on the initial titre,
+
+which in turn depends on the titre of the mother; this
+leads to wide individual variation in the ages at
+
+which infants or young animals can be successfully
+immunized. The problem can be partially overcome
+by increasing the number of vaccinations, thus
+
+enhancing the chances of injecting the vaccine at a
+
+time when the antibodies have sufficienfly declined.
+Another possible approach is to administer the
+
+vaccine via the nasal mucosa, but this approach is
+greatly hampered by the decreased tropism of
+
+attenuated measles and distemper viruses for this
+
+mucosa. In rinderpest Brown demonstrated in 1958
+(op. cit., note 39 above) that after parenteral
+
+inoculation of live caprinised (= goat-adapted) virus
+
+all calves with a neutralizing antibody titre of 100.7
+or less responded actively; those with titres of 100.7
+
+to 102.2 could sometimes be infected, sometimes not.
+
+43 Johan Hendrick Stolte, Schreiben wegen
+Einimpfung des jungen Rindviehes, dated 1
+
+November 1777 and published with Schumacher's
+book, see note 53 below.
+
+44 Geert Reinders, Bericht uit Holland, Friesland
+en de provintie van Stad en Lande, wegens de
+
+inenting der kalveren van gebeterde koejen voor den
+jaare 1776, Groningen, L Huisingh, 1777.
+
+45 Eelko Alta, 'Bericht van de inenting der
+
+kalveren', Verhand. Maatsch. ter bevordering van
+den Landbouw, Amsterdam, 1780, 2 (Iste stuk):
+125-64.
+
+46 J M G van der Poel, Heren en Boeren,
+Wageningen, Veenman, 1949.
+
+4 Van der Schaaf, op. cit., note 38 above.
+
+191
+
+C Huygelen
+
+the disease versus non-immune ('ongebeterde') calves". Not only were the financial
+conditions clearly spelled out, but also the required age and other specifications.48
+
+Reinders' results were summarized by Camper in a paper to the Societ6 Royale de
+Medecine in Paris, but no reference was made to Reinders.49 According to Camper, apart
+from secretions, meat, blood or a piece of skin could also be used as inoculum. He also
+presented a lengthy paper to the Berlin Gesellschaft Naturforschender Freunde, again
+without giving due credit to Reinders.50 Camper made a plea for generalized
+immunization and recommended to governments the creation and maintenance at their
+expense of non-immune herds to serve as a reservoir for the production of the inoculum.
+His recommendations met with little success in the majority of European countries
+because they were already applying the eradication method.
+
+In the Netherlands the interest in rinderpest inoculation declined in the 1780s because
+the epizootic itself decreased in intensity. When it reappeared in 1797 in Gelderland,
+Rudolph Forsten, a professor of medicine at Harderwijk, recommended inoculation under
+certain conditions, but stated in the same article that killing affected animals could be very
+efficient, as shown by the results in other countries.51
+
+Inoculation in Other Countries
+
+Apart from the United Dutch Provinces, Northern Germany and Denmark were the only
+other regions where inoculation was used to any significant level. The situation in 1779
+was reviewed in detail by Claus Dethloff von Oertzen52 and by W Schumacher.53 The
+former was "Oberhauptmann" in the dukedom of Mecklenburg-Schwerin; the latter was
+also an officer in the same dukedom and member of the Konigliche Grossbrittanische
+Landwirtschaftsgesellschaft (Royal British Agricultural Association) in Celle. Von
+Oerzen quotes extensively an anonymous article published in Brunswick in 1763, in
+which inoculation was advocated because, even if the losses were high, the quarantine
+period could be much shortened because all animals would go through the disease at the
+same time, whereas in a naturally occurring epizootic these measures had to remain in
+place for several months.54
+
+During the epizootic of the late 1770s Mecklenburg became the focus of inoculation
+experiments in Germany. The trials started on a large estate owned by Herr von Bulow,
+Royal Danish Kammerunker, after the rinderpest invasion of 1776. On some farms the
+
+48 Geert Reinders, Conditien op welke de
+Inentings Societeit, te Garnwert opgeregt,
+
+presenteert, kalveren welke van de besmeuelijke
+veeziekte zijn gebeterd, te leveren, tegens
+
+ongebeterde kalvers, Garnwert, 16 June 1778
+
+(published as a supplement to his earlier book, see
+note 41 above).
+
+49 Petrus Camper, 'M6moire sur l'epizootie de la
+Hollande', Soc. roy. Med., 12 Aug. 1777.
+
+50 Petrus Camper, 'Ueber die wahre und
+
+eigentliche Ursache der Krankheiten, die unter dem
+grossen und kleinen Viehe als ansteckende Seuchen,
+wiuthen', Besch4ft. d. Berlinischen Gesellsch.
+Naturforsch. Freunde, 1779, 4: 95-166.
+
+51 R Forsten, De vee-pest welke zich in het
+
+Quartier van Nymegen geopenbaart heeft ... waar
+bij gevoegd is voorbehoed en geneeskundig advys
+over dezelve vee- pest, uitgebragt door de
+
+Geneeskundige Faculteit te Harderwyk, Anhem, van
+Goor, 1797.
+
+52 Von Oertzen, op. cit., note 16 above.
+
+53 W Schumacher, Die sichersten Mittel wider die
+Gefahr beym Eintritte der Rindvieseuche aus
+
+Erfahrungen und Urkunden bestatiget 1777, 2nd ed.
+Berlin, Oemigke, 1793.
+
+54 Anon., Versuch einer ndhern Erklaerung der
+
+Hornviehseuche nebst einigen Wahrnehmungen aiber
+die Einpropfung derselben, Braunschweig, 1763
+(quoted by von Oertzen, op. cit., note 16 above).
+
+192
+
+The Immunization of Cattle against Rinderpest
+
+disease was associated with relatively low mortality and neighbours brought their cattle to
+these farms to be infected with this "mild" form. Von Bulow started doing inoculation
+trials in 1777 using this benign inoculum. In the first experiments the mortality was high,
+but von Biilow persevered and in one of the subsequent trials 22 of 25 cattle survived. He
+continued his trials in 1778 and also observed that calves from immune dams reacted only
+slightly or not at all, even when they were inoculated three times. He was probably aware
+of the Dutch experience.
+
+Von Oertzen attributed the relatively favourable results obtained by von Billow to the
+benign nature of the infection; the inoculated animals became sick on only the ninth or
+tenth day instead of the fifth day when inoculated with more virulent material. A total of
+135 out of the 177 cattle inoculated by von Billow had survived when von Oertzen started
+his own experiment with "benign" material, and generally, but not always, with good
+results.
+
+Inoculations became more and more generalized in Mecklenburg and "insurance
+companies" were created which provided inoculation in special "institutes" on the
+following conditions: the owners were invited to estimate the value of their cattle; the
+animals were then placed in inoculation stables and inoculated; if an animal died the
+owner received the estimated price as compensation; if it survived, the farmer had to pay
+half the value before he received it back after recovery. Von Oertzen mentioned that at the
+time he was writing his book, the "insurance companies" had already reduced their price
+to one third of the value. According to Worseck the inoculation institutes in Mecklenburg
+were private initiatives created with full encouragement from the authorities.55
+
+Both von Oertzen and Schumacher described in detail the procedures to be used for
+inoculation. These corresponded roughly to those used in the Netherlands, but von
+Oertzen insisted in particular on the choice of a benign inoculum. Pregnant cows and
+calves under six months were excluded. Between 15 and 40 healthy cattle were brought
+together in the inoculation stables and usually inoculated by an incision in the upper part
+of the flank; threads infected with nasal secretions were laid in the wound, which was then
+covered with a plaster; care was taken to prevent the animals from licking the wound; the
+threads were removed on the sixth day.
+
+Storage of the inoculum was a problem: in summer it could not be held for more than
+an average of five or six days, in winter two weeks; von Oertzen wrapped the infected
+cotton or linen threads up in wax paper and put them in an apothecary's box. Schumacher
+recommended burying them in a dry place in the ground.
+
+A survey in Mecklenburg on the mortality post inoculation demonstrated that the
+overall results were good, even when the less successful experiments were included. In
+total 3,241 of 4,075 inoculated cattle fully recovered; 438 died and 290 were still sick at
+the time of the survey, but 106 of them only slightly.56 Apart from von Billow and von
+Oertzen, Jacob Brackenwagen also carried out several successful trials. He was a farmer
+on royal estates in Glambeck.57 Schumacher's book contains several practical
+recommendations and contributions by Brackenwagen.58
+
+55 M Worseck, 'Die Bekampfung der Rinderpest  57 H Kilian, 'Die Bekaimpfung der Rinderpest in
+vor 200 Jahren in Mecklenburg', Mh. Vet. Med.  Mecklenburg-Strelitz (1769- 1780)', Inaugural
+1977, 32: 182-4.                       Dissertation Veterinary Medicine, Berlin, 1934.
+
+56 Von Oertzen, op. cit., note 16 above.  58 Schumacher, op. cit., note 53 above.
+
+193
+
+C Huygelen
+
+The Mecklenburg experience with inoculation stables was watched with interest by
+neigbouring states: Prussia authorized some experiments in the years 1779-178 1, but
+inoculation apparently never became widespread there.59 In a series of articles in a local
+magazine in Hanover inoculation was promoted and an appeal made to create a state-
+owned inoculation institute.60 In 1779, J A Kersting, a veterinarian at the Hanover
+Veterinary School, which had been created the year before, was sent on an official mission
+to Gartau to study the procedures used in Mecklenburg. He wrote a detailed report which
+was published after his death.61 During his stay 135 animals were inoculated of which 7
+died. In his recommendations, which followed closely those of von Oertzen and
+Schumacher, Kersting insisted on taking the nasal secretions of the individual animals
+separately, on noting carefully the name or the number of the donor animal and on always
+using material from an animal that had shown mild symptoms; he also stressed the
+importance of using only animals in good health for the propagation of the inoculum.
+Overall, the losses in the inoculation institutes in Mecklenburg did not exceed 10 per
+cent.62
+
+In the German-speaking countries many remained opposed to inoculation. Johann
+Gottlieb Wolstein was against it; he was a professor and director of the Animal Hospital
+in Vienna and founder of the Vienna Veterinary School; he was also opposed to
+slaughtering but did not come up with a clear viable alternative.63 Others claimed that
+there was no difference between benign and severe epizootics and that the whole outcome
+depended on the circumstances and on the constitution of individual animals.
+
+Rinderpest had virtually disappeared from Mecklenburg by 1792 when Schumacher
+wrote the preface to the second edition of his work; he thought it useful to re-edit his
+recommendations, however, since the epizootic was still raging in other regions.64 During
+the Franco-German wars at the end of the century rinderpest reinvaded Germany but little
+use was then made of inoculation. It could only be applied by special permission.65
+Gottfried Christian Reich, professor of pharmacy at Erlangen, was probably one of the last
+advocates of inoculation. In his own experiment almost all the inoculated animals
+survived.66
+
+In Denmark a first series of inoculation experiments was done at royal expense in the
+years 1770 to 1772 and reported in detail by Johann Clemens Tode, a doctor of pharmacy
+and professor at the University of Copenhagen; most trials were done on the island of
+Avnoe.67 In the first year 61 animals were inoculated, most of which succumbed to the
+infection; in 1771 160 were inoculated, of which 91 became infected, one died, and 68 did
+
+59 W Dieckerhoff, Geschichte der Rinderpest und  Seuchen, Vienna, J E von Kurzbeck, 1782.
+ihrer Literatur. Beitrag zur Geschichte der    " Schumacher, op. cit., note 53 above.
+vergleichenden Pathologie, Berlin, Enslin, 1890.  65 J J Kausch, Kameralprinzipien aber
+
+0H M Wens, 'Beitrag zu der Inoculation der  Rindviehsterben, Berlin, 1793 (quoted by
+Rinderpest nach den Anweisungen von J.A. Kersting  Dieckerhoff, op. cit., note 59 above).
+
+in den Jahren 1779 bis 1781', Dtsch. tierdrztl.  66 Gottfried Christian Reich, Richtige und
+
+Wschr., 1987, 94: 559-62.                    gewissenhafte Belehrung fur den Landnann aber die
+
+61 Gunther jun, 'Kersting, uber die Einimpfung  Rindviehseuche und die Inoculation derselben,
+der Rinderpest', Mag. f die ges. Thierheilk., 1858,  Nurnberg, Raspesche Buchhandlung, 1797.
+
+24: 1-42.                                      67 Johann Clemens Tode, Geschichte der
+
+62 Schumacher, op. cit., note 53 above.    Einimpfungen der Hornviehseuchen welche in den
+
+63 Johann Gottlieb Wolstein, Annerkungen iiber  Jahren 1770, 71 und 72 in Danemark auf konigliche
+die Viehseuchen in Oesterreich nebst einer   Kosten angestellet worden, Copenhagen, Rothen,
+Abhandlung gegen das Umbringen der Thiere in  1775.
+
+194
+
+The Immunization of Cattle against Rinderpest
+
+not show any symptoms; in 1772 169 animals were inoculated, 123 of them recovered, 2
+died and 44 showed no signs of disease. Extensive trials were started in 1777 under the
+supervision of Peter Christian Abildgaard, later Dean of the Copenhagen Veterinary
+School.68 Out of 1199 inoculated cattle 38 remained healthy, 580 became ill and
+recovered, and 581 died. His results corresponded roughly to those reported by Camper in
+the Netherlands.
+
+In Sweden inoculation was strongly opposed by the well-known scientist Peter Jonas
+Bergius, a botanist and doctor of medicine, and professor of natural history at Stockholm,
+who claimed that rinderpest was similar to human plague; since plague could infect a
+human being several times over, it would be impossible to protect cattle by inoculation.69
+In France, F6lix Vicq d'Azyr, who became very actively involved in the struggle against
+rinderpest, carried out a trial, but almost all the inoculated animals died.70 In the majority
+of European countries the struggle against the disease was based upon stamping it out,
+sometimes with minimal losses, in other cases with heavy sacrifices. This method was
+applied successfully in, for example, England and the Austrian Netherlands (roughly
+today's Belgium).71
+
+In the nineteenth century rinderpest inoculation was no longer practised in Western or
+Central Europe, but for several decades it remained popular in parts of Russia.72
+
+Conclusions and Comments
+
+Inoculation was not a valid solution to the immense problem created by the rinderpest
+invasion of Europe in the eighteenth century. Not only were the losses after inoculation in
+many instances too high, but, even more importantly, the procedure perpetuated the
+circulation of the causal agent in the cattle population. From the scientific point of view,
+however, the inoculation pioneers made some significant contributions to our knowledge
+in those very early days of active immunization against infectious diseases.
+
+The rinderpest experience proved that smallpox was not unique in being preventable by
+inoculation and that the procedure provided lifelong protection. It confirmed the concepts
+of those who saw infectious diseases as caused by specific etiological agents; in this
+context Camper's statement sounded very modern when he wrote
+
+that each kind of contagious epizootic in cattle comes from a specific germ or material, which
+always causes the same attacks of disease and that this matter is spread everywhere by the air as a
+general vehicle and through inhalation to the lungs, sometimes also with the nasal mucus or with the
+saliva, or with the intake of food, it is brought into the body and mixes with the blood.73
+
+" Peter Christian Abildgaard, 'Abhandlung uber  maladies pestilentielles des bites a' comes, Paris,
+die allgemeine Rindviehseuche in vorztiglicher  Mrigot, 1776.
+
+Hinsicht auf ihre Einfalle in Danemark und die  71 R De Herdt, Bijdrage tot de geschiedenis van
+daselbst angestellten Impfversuche' in Erich Viborg,  de veeteelt in Vlaanderen, inzonderheid tot de
+
+Sammlung von Abhandlungen fur Thierdrzte und  geschiedenis van de rundveepest 1769-1785, Leuven
+Oekonomen, vol. 1, Copenhagen, Prost, 1795.   and Ghent, Belgisch Centrum voor de Landelijke
+
+69 Peter Jonas Bergius, Bedenklichkeiten bei der  Geschiedenis, 1970.
+
+Einimpfung der Hornviehseuche Gottingen, 1772  72 Peter Jessen, Ueber die ganzliche Ausrottung
+(quoted by Dieckerhoff, op. cit., note 59 above).  der Rinderpest, Dorpat, H Laakmann, 1852.
+
+70 Felix Vicq d'Azyr, Exposi des moyens curatifs  73 Camper, op. cit., note 50 above.
+et preservatifs qui peuvent etre employes contre les
+
+195
+
+C Huygelen
+
+The observation by Reinders and Stolte, that calves from recovered cows were resistant
+represented probably the first recognition in any species of the phenomenon of maternally
+derived immunity. Reinders noticed that this resistance was not of hereditary origin, that
+it depended solely on the immunity of the dam, that it subsided with the increasing age of
+the calf and that this happened much earlier in some calves than in others; he also noticed
+that the immunity gradually disappeared leaving the calves just as susceptible as those
+from dams who had not had the disease. He took advantage of this temporary resistance
+to inoculate calves with minimal risk and he realized that he increased his chances of
+successful inoculation by repeating the procedure at different ages, because in some of the
+calves the first inoculation would not produce a "take".
+
+It is interesting to note that for two morbillivirus infections the same procedures would
+be "reinvented" a century and a half later. In 1915 Charles Herrman, Attending
+Paediatrician to the Lebanon Hospital in New York, tried to develop a practical
+immunization method against measles by inoculating a naturally occurring virus into
+infants with maternally derived immunity,74 and in 1924 Doutresoulle, a French veterinary
+surgeon in Niger, inoculated rinderpest in calves from immune dams.75 Neither method
+had any widespread application because of the wide variation in immune status of the
+individual infant or calf.
+
+Naturally occurring rinderpest virus strains are known to have a variable degree of
+virulence.76 The Mecklenburg investigators apparently used this phenomenon with some
+success by systematically selecting less virulent material in their inoculation institutes.
+Also, as a rule, they used material derived from previously inoculated animals. The total
+number of passages, however, probably remained very limited and it seems unlikely that
+this would have resulted in any significant further attenuation of the virus, as suggested
+by Wens.77
+
+The idea of inoculation against rinderpest and later against measles, was based upon the
+presumed similarity of these diseases with smallpox; in the latter disease inoculation in
+most cases would produce a skin eruption and, relatively speaking, less involvement of the
+respiratory tract and, hence, much less morbidity and mortality than in natural disease. It
+was hoped that for rinderpest and measles a similar strategy could be developed, but
+morbilliviruses behave in a very different way from poxviruses and in spite of many
+attempts the dermal inoculation principle has never found any general application for
+either of these two diseases.78 For both of them reliable attenuated virus vaccines did not
+become available before the second half of the twentieth century.
+
+74 Charles Hernnan, 'Immunization against  77 Wens, op. cit., note 60 above.
+
+measles', Arch. Pediatr., 1915, 32: 503-7.   78 C Huygelen, 'The long prehistory of modem
+
+75 Doutresoulle, 'Rapport sur la recherche d'une  measles vaccination', in S A Plotkin and B Fantini
+m6thode d'immunisation active des veaux non  (eds), Vaccinia, vaccination, vaccinology,
+
+sevres, provenant de meres refractaires h la peste  International Meeting on the History of Vaccinology,
+bovine', Rec. Med. vet., 1924, 100: 464-8.  Marnes-la-Coquette, 6-8 Dec., 1995, Amsterdam,
+
+76 Scott, op. cit., note 2 above.         Elsevier, 1996, pp. 257-63.
+
+196

@@ -1,0 +1,1343 @@
+
+Medical History, 1988, 32: 301-313.
+
+DR MARC D'ESPINE'S STATISTICAL NOSOLOGY
+
+by
+
+F. M. M. LEWES*
+
+THE BACKGROUND
+
+Nosologies, lists of diseases or causes of death, have been compiled from quite early
+times, usually in connection with medical research or teaching. The one illustrated and
+discussed here was constructed in Geneva by Dr Marc d'Espine during the first half of
+the nineteenth century for "statistical" purposes, that is, for the analysis of causes of
+death as registered in the Canton. In its time it was of some importance, for it was one
+of the two contenders for use as an international standard which were offered to the
+International Statistical Congress, which held nine meetings between 1853 and 1876.
+The other nosology was that presented by the Englishman William Farr.
+
+Jacob Marc d'Espine was born in Geneva on 29 April 1806,' but his family later
+moved to Odessa.2 From there he went in 1826 to Paris to study medicine, remaining
+until 1833.3 Afterwards he acknowledged his debt to two of the great Parisian teachers
+of the time: Gabriel Andral (1797-1872) and, more particularly, Pierre-Charles Louis
+(1787-1872). Indeed, in 1832, he was one of six Genevans among the thirteen members
+of Louis's 'Societe Medicale d'Observation'4 devoted to the study of disease by
+"numerical analysis". Farr, who was nineteen months Marc d'Espine's junior, was
+coincidently in Paris between 1830 and 1832 and mentions the same teachers.
+
+In the late 1830s both men were independently analysing information on causes of
+death; and in the first account of his work, each explained how he had found existing
+nosologies unsatisfactory and had to construct one for himself.5 At the time they were
+the only two men in Europe carrying out such a task and both continued to do it
+successfully for many years. Others had tried and failed. As early as 1764, Frederick II
+of Prussia, prompted by Siissmilch,6 had such an exercise initiated, using fifty-six causes of
+
+*F. M. M. Lewes, University of Exeter, Department of Economics, Amory Building, Rennes Drive, Exeter
+EX4 4RJ. The Leverhulme Trust has generously assisted the publication of this article.
+
+I There are notes on Marc d'Espine's life in Constant Picot and Emile Thomas, Centenaire de la Societ
+
+medicale de Geneve, 1823-1923: notice historique, Geneva, Sonor, 1923, p. 129; and in 'Jacob Marc d'Espine',
+Medecins suisses celebres no. 26, Medecine et hygiene, June 1978. Dr Roger Mayer of Geneva very kindly
+sent photocopies of these.
+
+2 M. Pierre Marc d'Espine kindly supplied this information on his family's history.
+
+3 Erwin H. Ackerknecht and Heinrich Buess, Kurze Geschichte der grossen schweizer Arzte, Bonn, Huber,
+1975, p. 54; and Eduard-Rudolf Mullener, 'Genfer Medizinalstatistik und Hygiene in der ersten Halfte des
+19. Jahrhunderts', Gesnerus, 1964, 21: 162.
+
+4 Erwin H. Ackerknecht, Medicine at the Paris Hospital 1794-1848, Johns Hopkins University Press,
+1967, p. 104.
+
+5 Marc d'Espine mentioned the nosologies of Stahl, Brown, Boerhaave, Cullen, Girtanner, Reich,
+Broussais, des Sauvages, and Pinel.
+
+6 Jacqueline Hecht, 'La vie et l'oeuvre de Johan Peter Siissmilch', in Johan Peter Siissmilch, L'ordre divin:
+aux origins de la demographie, Paris, Institut national d'etudes demographiques, 1979, p. 123.
+
+301
+
+F. M. M. Lewes
+
+death, but had soon abandoned it. As late as 1831, the Swedish registration system
+gave up recording causes of death, apart from four specific causes, because of the
+unreliability of the information as reported by the clergy.7 Both Marc d'Espine and
+Farr were breaking new ground and although their results differed, one must not
+overlook the magnitude and importance of their achievement.
+
+Marc d'Espine's work was restricted to the small canton of Geneva, but it was not
+unknown elsewhere, nor did he labour in isolation. There survive seventeen letters he
+wrote between 1845 and his death in 1860 to Adolphe Quetelet, the famous Belgian
+astronomer and founder of the International Statistical Congress.8 Louis-Rene
+Villerme, a well-known French writer on the effects of industrialization, presented a
+paper for him in Paris.9 Marc d'Espine continued to correspond with his former
+teacher Pierre-Charles Louis.10 Mullener attributes twenty-six publications to
+him.11
+
+In 1839, Farr published an analysis of causes of death based on the first six months of
+civil registration of deaths in England and Wales, that is from July to December 1837.12
+The following year saw Marc d'Espine's first report.'3 It was, of course, on a far
+smaller scale: 1,323 deaths in a year in Geneva, against a hundred times that many in
+six months in England and Wales. In an appendix, he commented on the start of
+registration in England and Wales: "an immense step forward and one which does
+them the greatest credit". After summarizing Farr's results, he gave details of the
+nosological classification used, and criticized its main division of diseases into
+"epidemic" and "sporadic", preferring instead that of "acute" and "chronic".
+Nevertheless, he concluded that England could not have made "a better choice of a
+doctor to establish a statistical nosology than someone as enlightended as Dr Farr".
+
+Farr replied promptly in a long footnote in the next Annual report of the
+Registrar-General.'4 He described Marc d'Espine's work approvingly, but rebutted his
+criticisms of the nosology. Finally he suggested that should France start collecting
+information on causes of death, they could find no one better qualified to analyse it
+than Marc d'Espine. After this exchange each continued to use his own nosology,
+although when Farr revised his in 1842, he seems to have noted some of Marc
+d'Espine's suggestions, notably that tubercular diseases should form a single group,
+irrespective of site. On the other hand, he remained firmly opposed to the
+acute/chronic division. Marc d'Espine continued annual analyses with minor changes,
+
+7 Erland Hofsten and Hans Lundstrom, 'Swedish population history', Urval 1976, 8: 44.
+
+8 These letters are the property of the Academie Royale de Belgique in Brussels. I am most grateful for the
+Academy's permission to consult and use them, and also to the Leverhulme Research Trust for funding my
+trip.
+
+9 'Rapport verbal de M. Villerme sur un memoire de M. Marc d'Espine intitule "Influence de l'aisance et
+de la misere sur la mortalite" ', Seanc. Trav. Acad. Sci. morales et politiques, 1847, 12: 242-8.
+
+10 Private communication from Dr Roger Mayer, Geneva.
+1 Mullener, op. cit., note 3 above, p. 163.
+
+12 William Farr, 'Letter', First annual report of the Registrar-General of births, deaths and marriages in
+England; [Parliamentary Papers, House of Commons Session 1839, vol. XVI, pp. 63-71].
+
+3 Jacob Marc d'Espine, 'Essai statistique sur la mortalite du Canton de Geneve pendant l'annee 1838',
+Annls Hyg. publ. Mthd. leg., 1840, 23: 111.
+
+14 William Farr, 'Letter', Second A.R.R.G.; [PP, 1840, XVII, Appendix, p. 8].
+
+302
+
+Dr Marc d'Espine's statistical nosology
+
+but publication was sporadic.15 They took the form of large, poster-sized sheets, like
+that illustrated here (see fig. 1, insert), although that for 1844-5 included an
+explanatory booklet in which he again complained about Farr's system. There is
+evidence that they exchanged publications.'6
+
+In September 1853, the two men met in Brussels at the first Session of the
+International Statistical Congress. "Cause of death" was not specifically on the
+agenda, although Marc d'Espine had written about the subject to Quetelet, who
+organized the session and its agenda.17 However, Congress passed a resolution that
+"there is a need to formulate a uniform nomenclature of causes of death which would
+be applied in all countries. This nomenclature, whose importance cannot be
+exaggerated, will be the subject of future studies and will be agreed at the next
+Congress".'8 The two men were asked to agree upon and present a solution.
+
+At that time Farr was well advanced in the preparation of a revised nosology which
+appeared in 1856 in the Sixteenth annual report, relating to 1853. He presented this to
+Congress with a long, similarly classified list of illnesses not normally fatal. This
+new nosology differed considerably from the earlier ones, but conceded nothing to
+Marc d'Espine's acute/chronic distinction. Marc d'Espine's contribution differed little
+from that presented in this article. Both forms were put before the Paris Congress in
+1855 because, as the Commission organisatrice cynically remarked, "As perhaps could
+easily have been predicted, the two learned Doctors, having exchanged a certain
+number of written communications between London and Geneva, had to renounce
+any hope of agreement."'9
+
+However disagreement was not total. The "nomenclature," that is, the names by
+which the diseases were to be known, was agreed during the Session, and aided by
+Doctors Rayer, Bertini, Virchow, Meding and Hubertz, Marc d'Espine and Farr
+presented a concordance of 139 names of diseases in Latin, French,
+Italian, English, German, Swedish and Danish. The list was "classified" in the sense
+that it grouped causes of death roughly, but not in accordance with either of the two
+proposals: its two main classes were "well-defined diseases" and "incompletely-
+defined diseases". Congress left the choice of classification system unresolved.
+
+The next session took place in Vienna in 1857. It seems probable that the Tableau
+presented here was intended as a contribution. The Austrian Preparatory Commission
+presented a paper which took neither side. Indeed they avoided the issue, or perhaps
+did not understand it. The matter was discussed fairly briefly. Marc d'Espine was not
+there, possibly because of illness, and Farr forebore to press the point. It must be
+admitted that at both Paris and Vienna there was considerable opposition to the
+
+15 For example, the Annuaire de la mortalite genevoise pendant l'ann&e 1842, and the Annuaire de la
+mortalite genevoise, annees 1844-45.
+
+16 Letter from Marc d'Espine to Quetelet, 24 Nov. 1853. Cf. note 8 above.
+17 Letter from Marc d'Espine to Quetelet, 26 Aug. 1853. Cf. note 8 above.
+
+18 International Statistical Congress, Compte rendu des travaux du congres general de statistique reuni a
+Bruxelles, Brussels, 1853, p. 146.
+
+19 Jacob Marc d'Espine, 'Projet de classification des causes de mort physiologiques, accidentelles et
+morbides, 'a l'usage de la statistique mortuaire de tous les pays; prepare pour le Congres International de
+Statistique de Paris', Compte rendu de la deuxieme session du Congres International de Statistique, Paris, 1856,
+p. 133.
+
+303
+
+F. M. M. Lewes
+
+desirability, or even possibility, of a standard list of causes of death. Some doctors
+present argued that statisticians had no right to dictate to medical men; that even a
+purely medical congress would find it impossible to agree on such a list; and that it
+would be an obstacle to progress and an infringement of their freedom to name diseases
+as they chose. Again Congress reached no conclusion.
+
+After the Vienna Session, presumably because the issue was still open, Marc
+d'Espine wrote an entire book to support his case.20 In the introduction he gave three
+main reasons for writing. First, he pressed the need for 'me'decins verifcateurs'to check
+the causes of death entered by general practitioners. Second, he argued again for his
+nosology. Third, he tried to combat "the doubts manifested by some members [of
+Congress] of both the possibility and utility of the enquiry". He also pointed out that,
+however carefully observations were made in hospitals, as in Paris, or by general
+practitioners, they could not be compared with the total population at risk and
+therefore would not reveal aetiological factors. He hoped that his book would show
+that this information had already proved useful and important. The book is rather
+wordy but presents what is, given the limitations of the data, a remarkable analysis of
+causes of death and their background. The Tableau discussed here is dated earlier and
+bibliographers normally list it separately, but it may also be found folded in a
+back-cover pocket in copies of the book, which was presumably intended as a
+contribution to the Congress's fourth session in London in July 1860. Farr organized
+its agenda, but omitted cause of death, explaining that this had already been discussed
+sufficiently. In the event, this did not matter, as Marc d'Espine had died on 15 March
+1860, four months before the session opened.
+
+The International Statistical Congress held another five full sessions before its
+sudden collapse in 1878, but the subject of a standard international nosology was never
+raised again. Farr presumably felt it unnecessary to re-open the issue and no one else
+thought fit to challenge a system which was working well in Britain and was gradually
+spreading, if with considerable amendment, to other countries.
+
+THE DOCUMENT
+
+The Tableau in which the nosology appeared is reproduced as figure 1 (insert).2' As
+the history above has shown, it was the last of a series of similar tables, although this
+1854-55 one was for a particular purpose. It is a handsome document, measuring
+633mm by 944mm, possibly intended for display22 and probably produced by
+lithography. The top section, about a fifth of the whole, contains three elements: the
+title, describing its purpose and Marc d'Espine's qualifications for the task; the
+Explication (appendix A); and six subsidiary tables. These cover: the population at the
+
+20 The full title would appear to be: Essai analytique et critique de statistique mortuaire compar&e renfermant
+les monographies etiologiques des accidents et de la plupart des maladies mortelles et expliquant les lois
+ge'nerales de la mortalite des peuples, par les influences combinees des diverses causes de mort, Paris, Joel
+Cherbuliez, 1858.
+
+21 The photograph of the Tableau reproduced here was taken from that folded into the back of the copy of
+ibid., in the Library of Glasgow University. I am most grateful to the Librarian for photographing it, and
+granting permission for publication.
+
+22 This item is recorded as "Presented by H. M. The Queen. Sheet framed and glazed" in the Royal Statistical
+Society, Catalogue of the Library of the Statistical Society of London, London, E. Stanford, 1884.
+
+304
+
+Dr Marc d'Espine's statistical nosology
+
+census of 1843 and projected to 18 5 5, births, marriages, the weather in 1 8 54 and 18 5 5, and
+the surface areas of various parts of the Canton.
+
+The main section, below this, is not a conventional table but a statistical worksheet. At
+the left margin is a list of causes of death classified according to Marc d'Espine's
+nosology. In the centre are twenty-four columns, one for each month of the two-year
+period 1854-1855. In the spaces representing each combination of cause of death and
+month are symbols, one for each death recorded, showing the characteristics of the
+deceased. The system is explained in the Explication (appendix A). In this way it is
+possible to discover, for any death, its cause and the aetiological factors: the
+month of occurrence, and the age, sex, residence (urban or rural), and occasionally
+relative affluence of the deceased. At the right margin and underneath the table, are,
+finally, the totals from the rows and columns of symbols. Curiously, the row totals are
+given for individual causes of death only. Despite the grouping of causes used in the
+nosology, there is no attempt at aggregation.
+
+It is clear from its title that this presentation formed part of Marc d'Espine's
+submission. Individual details for each death were given because, as he wrote in the
+explanation, this "facilitated the derivation of all imaginable secondary tables". He
+presumably used this layout to construct the tables in his own book, but this option was
+also available for others.
+
+The Tableau can be criticized for its rigidity. It would be difficult to use if replicated
+many times, as Marc d'Espine suggested for larger countries, or divided, as it would need
+to be if information were presented for a number of small areas within a country rather
+than with the broad urban/rural division indicated here. It would seem impractical to
+introduce such new forms of personal classification as occupation, the effect of which
+Farr was already investigating.
+
+We do not know much about the ways in which large amounts of data were handled in
+the days before mechanical counting machines. Sheets ofthis size were certainly used and,
+as Marc d'Espine himself showed in the Essai analytique, analyses of remarkable
+complexity could be made. The system itself had been used for many years, and must
+therefore have seemed satisfactory for a population the size of Geneva's. The Tableau is
+ingenious and elegant, although possibly expensive to print. It was certainly admired and
+used by contemporaries.
+
+In the Explication, Marc d'Espine also mentions that each death was classified on the
+basis of two reports, one from the deceased's own doctor and one from a "visiting"
+doctor. Both at the Congress and in his writing he insisted on the need for such
+verification. The small numbers of deaths in Geneva and the opportunity to discuss
+individual cases no doubt revealed how often disagreements took place. Marc d'Espine
+was therefore not proposing merely a nosology, but also a system of gathering
+information on cause of death and a form of presentation which would facilitate its
+analysis.
+
+THE NOSOLOGY
+
+The "numerical method" practised in Paris was confined to information on hospital
+patients and therefore needed large institutions. These did not exist in "little" Geneva,23
+
+23 Ackerknecht and Buess, op. cit., note 3 above, p. 54.
+
+305
+
+F. M. M. Lewes
+
+so Marc d'Espine turned to the population as a whole. The registration system in
+Geneva, established over three hundred years earlier, worked well, although it made no
+direct provision for recording causes of death. As mentioned above, Marc d'Espine
+obtained these by getting two reports on each death registered, one from the deceased's
+practitioner and another from a "visiting doctor". In a town the size of Geneva, with
+about 1500 deaths a year, it was possible to discuss individual cases and indeed to
+involve his colleagues in the construction of a nosology. In this way, the nomenclature
+of causes was allowed to evolve without any predetermined doctrine.24 He himself tells
+us that he was at first reluctant to formalise his system, preferring to let it develop in
+response to medical needs. He was later to write, however, that "the nomenclature of
+fatal diseases must be set up in advance and known to all doctors".25 In the event, the
+classification grew from an initial 90 items to 143 items in 1855.
+
+Farr's situation differed greatly. We do not know exactly when he was appointed,
+but on arrival in the General Register Office, or soon after, he must have been faced
+with a great mass of certificates (150,000 in the first six months) on which causes of
+death, sometimes diagnosed by a doctor, sometimes guessed by an informant, were
+entered. His first hurried attempt to sort these into a systematic nosology was soon
+replaced when, after discussion with the medical profession, a more considered version
+was constructed. Fifteen years later a third version, the result of increased experience
+and medical knowledge, was introduced and this was the one presented to the
+International Statistical Congress. Towards the end of his forty-year tenure of office he
+experimented with a fourth, based on the ideas of the Royal College of Physicians.26
+Once in use, a nosology was seldom subject to major amendment. With over 300,000
+deaths a year, the practical problems of training and overseeing coding clerks were
+immense.
+
+It will now be useful to follow Congress's example and consider separately the
+'nomenclature', or terminology used, and the 'classification' or method of grouping.
+Full details of the former are in figure 2 and appendix B. At the Paris session of 1855, as
+mentioned above, doctors from six countries were able to agree on this nomenclature
+in their various languages. They seem to have worked primarily on the basis of the
+Geneva list-most of the doctors present probably found Marc d'Espine's French
+more familiar that Farr's English, and thought Marc d'Espine the more qualified of
+the two. The fact that this degree of agreement was possible suggests that the Genevan
+and English terminologies were reasonably compatible and made sense to doctors
+elsewhere. They contained roughly the same number of entries. Indeed the words used
+by Marc d'Espine, while sometimes old-fashioned, are seldom obscure even today.
+
+24 Marc d'Espine, 'Essai statistique', op. cit., note 13 above, pp. 13, 102, 118; Mullener, op. cit., note 3
+above, p. 167.
+
+25 Marc d'Espine, Essai analytique, op. cit., note 20 above, p. 121.
+
+26 John M. Eyler, Victorian social medicine. The ideas and methods of William Farr, Baltimore and London,
+Johns Hopkins University Press, 1979, pp. 53-60. Farr explained his position at length in his 'Letters' to the
+Annual reports, especially in the First, Fourth, Fifth, and Sixteenth, and in his paper to the Paris session:
+'Projet de classification [des causes de mort physiologiques, accidentelles et morbides]', Compte rendu de la
+deuxieme session du Congres International de Statistique, Paris, 1856, pp. 147-68. For comments on both
+
+306
+
+Dr Marc d'Espine's statistical nosology
+
+There is one general difference in the terminology, namely Marc d'Espine's use of
+two- and three-word entries, against Farr's single word ones. Sometimes this is difficult
+to explain. Why "tetanos spontane" and "epistaxis en particulier" when no other forms
+of te'tanos or epistaxis are listed? In other instances, Marc d'Espine's terminology
+seems to reflect his ideas. Thus, by making the primary distinction between "chronic"
+and "acute" in the classification, he was forced to use these words in many of his
+entries. However, it is probably correct to say that, with possible minor exceptions,
+both tables contain all the main causes of death as distinguished at the time, without
+redundant entries. Differences in the number of entries used, and the form they took,
+seem to have arisen from the classification systems used, from differences in the
+characters of the two men and from the systems whereby the information on cause of
+death was collected. Fifteen years of experience indicated that in both places doctors
+were able to supply information on what caused their patients to die in a form which
+could be entered into the respective nosologies. Doctors present at the Congress
+suggested that this was true elsewhere, in towns if not in the country. Despite the minor
+differences in terminology, it was therefore possible for a group of doctors, led by Marc
+d'Espine and Farr, to put an agreed nomenclature before the Congress for its approval.
+It was Marc D'Espine who presented this and moved its adoption.
+
+The classification was a different matter, for here the two nosologies differed widely
+Marc d'Espine proposed grouping causes of death in eight primary classes (see
+appendix B for details):
+
+I     Still births
+
+II    Indeterminate deaths
+III   Violent deaths
+
+IV    Deaths by morbid accidents
+V     Deaths from acute diseases
+
+VI    Deaths from chronic diseases
+VII   Congenital malformations
+VIII Old age
+
+There was no real difficulty with groups I, II, III, VII, or VIII. It was in the field of
+"morbid causes" that the differences lay. Part III of the Essai analytique, which is
+devoted to these, gives a clear account of Marc d'Espine's views. "The duration" he
+wrote "and the nature-simple inflammation or specific-of morbid causes of death
+are the two ideas upon which my whole classification of fatal diseases depends".27
+"Duration" he divided into three types: deaths from morbid accidents, that is sudden
+but not violent deaths (group IV); deaths from acute diseases (group V); and deaths
+from chonic diseases (group VI). He defines "acute" as lasting "several hours, days or
+weeks" and "chronic" as "some months or years".
+
+Marc d'Espine adhered firmly to this primary system of classification by duration.
+Muillener suggests this was Genevan practice.28 "The first question-how did this
+death occur? accident? accident-like occurrence? acute or chronic sickness?"
+
+nosolgies by a not uncritical friend of Farr, see H. W. Rumsey, Essays and papers on some fallacies of
+statistics . . ., London, Smith, Elder & Co., 1875, ch. 1.
+
+27 Marc d'Espine, Essai analytique, op. cit., note 20 above, p. 121.
+28 Mullener, op. cit., note 3 above, p. 169.
+
+307
+
+F. F. M. Lewes
+
+Interestingly, W. P. Alison, a Scottish doctor, made a similar proposal when criticizing
+Farr's first nosology. Mullener points out that until 1800 most Genevan doctors had
+trained in Edinburgh, and that Genevan medicine in Marc d'Espine's time was a
+"synthesis of Anglo-Saxon and French ideas".
+
+MARC D ESPINE'S ACUTE AND CHRONIC DISEASE CLASSIFICATIONS
+
+Acute diseases
+
+Morts par maladie -
+aigue (55)
+
+Chronic diseases
+
+Morts par maladie -
+chronique (68)
+
+Simple acute inflammations
+
+Inflammations aiguesfranches (22)
+
+Specific acute diseases
+
+Maladies aigues specifiques (28)
+
+_ Special acute diseases
+
+Maladies aigues speciales (5)
+
+Constitutional
+
+Constitutionelles (4)
+
+Miasmatic, infectious, contagious
+Miasmatiques, infectueuses
+contagieuses (21)
+Virulent
+
+Virulentes (3)
+
+Chronic inflammations
+
+Inflammations chroniques (27)
+
+Chronic defects or dispositions
+
+- Vices ou diatheses chroniques (41) -
+
+Scrophulous
+
+Scrophuleuses (6)
+Tuberculous
+
+Tuberculeuses (5)
+Cancerous
+
+Cance'reuses (5)
+
+Rheumatic, calculus
+
+Rhewnat. Calculeus (3)
+_ Nervous
+
+Nerveuses (6)
+Verminous
+
+Vermineuses (2)
+
+Blood, albumin, diabetic
+
+Hematiq. Albumin. Diabet. (7)
+_ Syphilitic
+
+Syphil. (3)
+
+Chronic poisons
+
+Empoison't chroniq' (4)
+
+Figure 2
+
+308
+
+Dr Marc d'Espine's statistical nosology
+
+Acute and chronic diseases were further sub-divided according to the system shown
+in figure 2. One sub-group is common to both acute and chronic diseases. This is
+"inflammations" which are "diseases peculiar to each of the functions or parts of the
+body ... and which a mechanical or chemical irritation can reproduce artificially".
+These "have as many forms as there are functions or organs". In the classification,
+there are twenty-two acute, and twenty-seven chronic inflammations. Each relates to a
+separate function or organ of the body, altough this is often specified through the name
+of the disease, for example "nephritis" rather than "inflammation of the kidneys."
+
+The other large sub-group in the group of acute diseases is called "specific diseases".
+Marc d'Espine explained that "it is impossible to reproduce these by irriation". This
+sub-group is sub-divided in turn. Most of the "specific acute diseases", (twenty-one out
+of twenty-eight) are entitled "miasmatic, infectious and contagious"; these are
+essentially the "infective and parasitic diseases" of the present international
+classification. Both Marc d'Espine and Farr had very similar lists in this section. Farr
+called such diseases "epidemic, endemic and contagious" in his submission to the Paris
+meeting. This was the era of the great miasma controversy, when the ways in which
+these diseases were caused and spread were hotly debated. In their nosologies, both
+men seem to have avoided committing themselves.29 Besides this large sub-division
+within "specific acute diseases", Marc d'Espine had two smaller ones: "constitutional"
+and "virulent". There is also a small sub-group of "special acute diseases", mainly
+concerned with childbirth.
+
+Among chronic diseases, those not subsumed as inflammations, namely the
+"chronic defects or dispositions", were divided into nine sub-divisions, starting with
+the "scrophulous", "tuberculous", and "cancerous". These pathological conditions
+are recognized, broadly speaking, today. Within each sub-group the diseases listed
+mainly relate to site. A rather unexpected entry is "chronic poisons". Curiously, the
+Essai mentioned one further type, "psoric [itches] and herpetic" (psorique et
+herpetique), not included in the Tableau.
+
+In describing his system, Marc d'Espine made a number of comments which help to
+explain why he and Farr came to adopt such different methods of classification. For
+Marc d'Espine, both "epidemic, endemic and contagious diseases" and the "site"
+played a minor role, because his Paris training in pathological anatomy had led him to
+concentrate on pathological aspects. In the Essai analytique he wrote that it was
+"impossible to find a differential element more important pathologically, more in
+accord with modern medical philosophy and at the same time more discriminating,
+more practical, more easily applied and more favourable to aetiological research than
+that which I have adopted for dividing acute diseases into two groups".30 Commenting
+on the figures for 1844-5, he stated that "General causes act differently according to
+the nature of the disease rather than according to the organs affected." He particuarly
+objected to the use of "epidemic" or "sporadic" as a form of classification, writing that
+one must not "attribute in advance and irrevocably to every disease an epidemic or
+sporadic label without knowing whether one day a certain disease, whether acute or
+
+29 Eyler, op. cit., note 26 above, ch. 5, discusses Farr's views on this.
+30 Marc d'Espine, Essai analytique, op. cit., note 20 above, p. 137.
+
+309
+
+F. M. M. Lewes
+
+chronic, will not be found to be epidemic in a certain country under certain conditions
+but sporadic in another country where these conditions do not apply"..3'
+
+For Farr the priorities were quite different. Of his "epidemic, endemic and
+contagious", or "zymotic", diseases he wrote in his first 'Letter' to the Registrar-
+General that they were "the index of salubrity", and that of "the utility of keeping this
+class of disease distinct in a practical sanatory report there can be no question".32 In
+submitting his proposed nosology to the Paris meeting he commented at length: "They
+decimate armies, they destroy fleets, in ravaging prisons they kill men who often justice
+has not condemned", but essentially "they are. . . in some way under public control
+and it is possible to arrest their development by a combination of well-conceived
+sanitary measures."33 For Mullener, Farr's nosology was "for studying public health",
+Marc d'Espine's was a "research instrument".34 Despite the latter's claim in the
+Explication to have based his classification on aetiological principles, the classification
+was essentially pathological. The difference of opinion stemmed from a fundamental
+difference of approach and was never resolved.
+
+Marc d'Espine and Farr had both given much thought to the systems they were
+proposing, and which had been in use in their countries with worthwhile results for
+many years. Both nosologies contain quirks, but each was governed by a sound
+internal logic. The differences were very clear to the two men, but less so to others, even
+in Paris where the local organizers did not provide an agenda paper themselves,
+although they were shortly to publish some statistics based on their own nosology.35 At
+the Vienna session there was great confusion. One can wonder whether, if Marc
+d'Espine's system had been chosen, it would have survived the changes which were to
+come in medical knowledge. One cannot deny that it was a serious contender for
+submission to the Congress.
+
+THE AFTERMATH
+
+Although the International Statistical Congress did not discuss nosologies after
+Marc d'Espine's death, the publicity the debate had caused amongst statisticians, and
+the general recognition of the need for better information for medical and
+public-health purposes, led to the collection of cause-of-death statistics in a growing
+number of countries. The difficulties which arose were seldom those of classification.
+Around 1860, the very active Paris Statistical Office regretted that the "results of their
+effort were too often paralysed by the obstinate refusal of a notable part of the medical
+profession".36 It was only in 1906 that all French doctors not without some reluctance,
+accepted their responsibility to report cause of death.37 The Belgian system started in
+
+31 Ibid., p. 138.
+
+32 Farr, 'Letter', First A.R.R.G., op. cit., note 12 above, p. 93; quoted in Eyler, op. cit., note 26 above, p. 55.
+33 Farr, 'Projet de classification', op. cit., note 26 above.
+34 Mullener, op. cit., note 3 above, p. 172.
+
+35 Statistique de la France, second series, vol. XI, Mouvement de la population pendant les annees 1858,
+1859 et 1860, Strasburg, 1863. Their nosology, like Farr's, covered first "fevers", and was thereafter mainly
+based on site. It had 178 categories.
+
+36 Ibid.
+
+37 Jean-Noel Biraben, 'Sur la population franqaise au XVIIIe et XIXe siecles', in Hommage d Marcel
+Reinhard, Paris, Societe de D6mographie Historique, 1973.
+
+310
+
+Dr Marc d'Espine's statistical nosology
+
+1867 with 116 categories, but these were reduced to thirty-three in 1874, because of
+problems of collection.38 Many English-speaking countries, among them the British
+colonies, followed Farr, or his successor William Ogle's amended version.
+
+In 1893 the matter of an international classification was again raised, this time in the
+International Statistical Institute, an organization set up in 1885 to replace the
+Congress which had collapsed seven years earlier. The proponents were the father and
+son L. A. and J. Bertillon, working in the Paris Statistical Office. Although they did not
+acknowledge it, Farr's system provided the basis of their proposal.39 The resulting
+International Classification, now in its ninth revision, starts with "infectious and
+parasitic diseases", moves to the "neoplasms" of all sites, and then groups diseases
+entirely by site, thus firmly following Farr's original. Perhaps for this reason, Marc
+d'Espine's nosology looks curiously clumsy and old-fashioned today.
+
+38 Belgium, Ministere des Affaires Economiques, Demographie de la Belgique de 1821 ai 1939, Brussels,
+1943, p. 193.
+
+39 Michel Dupaquier, 'La famille Bertillon et la naissance d'une nouvelle science sociale: la demographie',
+Population, 1984, no. 2.
+
+APPENDIX A
+
+MARC D'ESPINE'S EXPLICATION
+
+Each symbol separated from the following one by a comma indicates a death. Its position
+indicates the year and month when it took place and the accidental or morbid cause which
+produced it. The symbols with a circumflex (eg. m.30) relate to deaths of inhabitants of the town
+of Geneva: those without a circumflex to those of inhabitants of the rest of the Canton. The
+number in the symbol designates the age of the deceased in years if no letter follows and in
+months, weeks, days or hours if it is followed by the letters m, s, j or h. The letters m orf which
+precede the number indicate the masculine or feminine sex and the letter r, which precedes the
+letter indicating sex in some instances, means death of persons who had lived all their lives in
+wealth or great affluence.
+
+I must make it clear that the nomenclature of causes of death conforms in detail and as a whole
+to that which was agreed at the International Congress at Paris. I have confined myself to
+classifying the main divisions of types of morbidity according to the aetiological principles
+whose adoption I proposed to Congress, but on which they did not wish to come to a definite
+decision, postponing to the next session the adoption of a classification of fatal diseases. As it
+stands the table lends itself to all statistical research on deaths which relates how conditions of
+age, sex, seasonality, place of residence and degree of affluence or social position affect various
+fatal diseases or accidents.
+
+I therefore put forward my table as a specimen for reports on mortality in the various states
+which have adopted the nomenclature of causes of death decreed at the Paris session. Its layout
+combines clarity, accuracy and brevity with the advantage of allowing the derivation from the
+report of all imaginable secondary tables. One can concentrate into a table of the present size the
+annual deaths in a population of 150,000 souls. Belgium and Piedmont could include all their
+annual deaths on twenty-five such sheets, Bavaria and Prussian on 100 sheets and France on 200,
+and such tables would allow all desirable research without the necessity of going back to original
+data. In this way the original facts are copied and laid out in a manner which concentrates them
+in the smallest possible space and in an order which allows any part to be extracted with a great
+economy of time.
+
+311
+
+F. M. M. Lewes
+
+The extraction of information from medical notes which has permitted the construction of
+this table has been done with great care and after the examination of two reports given in each
+case by the medical practitioner and a visiting doctor. My honourable colleague and friend
+Doctor Duval has gladly carried out this extraction with me, and I take the opportunity of
+expressing my gratitude.
+
+APPENDIX B
+
+MARC D'ESPINE'S FULL NOSOLOGY, AS USED FOR 1854-1855
+
+MORTS-NtS
+
+1. Mort-nes
+
+MORTS INDfTERMINtES
+
+2. Morts indeterminees
+MORTS VIOLENTES
+
+3. Suicide 4. Homicide 5. Execution juridique 6. Accidents involontaires
+7. Mort violente de cause inconnue
+MORTS PAR ACCIDENTS MORBIDES
+
+8. Apoplexie cerebrale foudroyante 9. Apoplexie pulmonaire 10. Syncope
+11. Hemorrhagie foudroyante 12. Epistaxis en particulier 13. Mort subite
+MORTS PAR MALADIE AIGUE
+
+INFLAMMATIONS AIGUES FRANCHES
+
+14. Meningo-Encephalite franche 15. Myelite aigue 16. Peri et endo-cardite aigue
+
+17. Arterite gangrene senile 18. Oedeme de la glotte 19. Bronchite et Bronchiolite aigue
+20. Pneumonie 21. Pleuresie aigue 22. Glossite aigue 23. Mugeut et aphtes essentielles
+24. Gastrite aigue 25. Enterite aigue 26. Perityphlitis 27. Peritonite aigue franche
+
+28. Ileus et invagination 29. Hernie etranglee 30. Hepatite aigue 31. Nephrite aigue
+32. Cystite aigue 33. Metrite aigue (non puerperale) 34. Phlegmon (voies urinaires)
+35. Phlegmon local quelconque
+MALADIES AIGUES SPECIFIQUES
+
+Constitutionelles
+
+36. Cephalite et meningite tuberculeuse 37. Tuberculisation aigue
+
+38. Croup membraneux (endemiq. sans dypht.) 39. Rhumatisme aigue
+Miasmatiques, infectieuses, contagieuses
+
+40. Variole (naturelle) 41. Varioloide (apres vaccine) 42. Miliaire (suette)
+43. Rougeole 44. Coqueluche 45. Scarlatine 46. Angine dyphteritique
+
+47. Stomatite gangreneuse (noma.) 48. Oreillons 49. Fievre intermittente
+50. Fievre remittente des enfants 51. Fievre typhoide
+
+52. Grippe ou Influenza 53. Dyssenterie 54. Cholera indigene
+
+50. Cholera asiatique 56. Cholera infantile 57. Pyemie et Phlebite
+58. Tetanos spontane 59. Erysipele 60. Anthrax
+Virulentes
+
+61. Pustule maligne. Charbon 62. Rage 63. Morve
+MALADIES AIGUES SPECIALES
+
+64. Avortement (suites) 65. Accouchement (suites) 66. Fievre puerperale
+67. Eclampsie de la grossesse 68. Sclereme
+
+MORTS PAR MALADIE CHRONIQUE
+
+INFLAMMATIONS CHRONIQUES
+
+69. Inflammation cerebrale chronique 70. Paralysie 71. Myelite chronique
+
+72. Paraplegie 73. Maladie organique du coeur 74. Maladie organique des gros vaisseaux
+75. Pneumonie chronique 76. Pleuresie chronique 77. Hydrothorax
+
+312
+
+au66n6traIddssD6     tcbsdu CANT$tNBEUNE"VtpoUrIles aln&185k et 55,
+
+91     2         to 2v s n o t n 4 Z w   3ev  cc  aaca ,se ;  J  8 0t  no ytt  ctio
+
+-~~~~~~ A
+
+crinflie ? ton?:?a Xu?aminX 4t Skn?isXi?xe &c hns.
+
+a9ecirnen   ?     %  ?         ?"' ?    ne  .4-epre..4en/es  an  (%i!,yres
+
+- par leDntlarc DEspine
+
+et,?n. 2%4.4n.6t1 ?, Ycwn4 %? C.hZM,4?4        44                   ?        v.4
+
+-a ?344  4?t*4W0tO?44n44 .4
+
+\V4%  41,4444        -.?.x                                                                                                                                                                  44444 ..4?.
+
+?               ?4?R5W                  . 444.44.4.44  4$.4?  4444                         -?n"               44444v%k?w%3'4''n'4.44-44444..,4                                        an-'nA
+
+444 ?                          4       4                                                                                                                                       -:;m.w.
+
+4              -                            ??'44'-'w  ?
+
+'.S4                                                            r777ru,4.44?.44,,k?b?                  -                                                  -     1 ?
+
+44 5,.,.4r?                                                                                                                                              - .4<      ?944?,   .?flg
+
+'-.44                           '?4.wt      /                                                           '4.4
+
+-               ?f"                                                                  ?      /4-7d,?  '47.-fl flg/J              .      -4.4                -
+
+4                                               41.4-  #3763  nus    or,      .?.                                                '$2 9'I   -1736    ,/3 .1c6
+
+-,     4 -"'-?'-4.4$Da?A44.44  ? .4 4444                                                         j.11j?J?                                                               r   ''?  ?           ?
+
+?A4-444h.44,a4,,Ja                                                                a4                       L                                      ,,           45-.'?    4.- ?'    '"
+
+?n,.44-4,444 n..4""-'-'                                                                                                                                        ?         7-4 4      '406
+
+4''"             -.?Jgf444.-b.4/4.4444444444.4d..4J                                                              ?   I$235   7
+
+--4.4.4--..       44                           ?44    .,4444-4.4444?.4.444 44444               _________      -rtr--1  j                                                   '?'?     ?        ?h%
+
+?         a??,4'4.4'--?-?- ?4? 4-444-44-44444-44/?4. 44.4444 <?  4               444    ?.4'? ' /4444  378*7  I            ''                 4                   - - .-q   47?/, ?'k9S5?
+
+.44444S 4  544*44-            *-44?-I--'743?73    s44O                                          (44             ?;.-     74734   ?/676   I
+
+'P'     .4                      44  .4.44-44--.-.,4-444,.444  -     4                       44-    3.4-   373P(flR    J                       4444?     44                             74 655 ?7?'kJjF?
+
+4        ..,...4,?a-..t.....                                                                                              7,7 ,i    nscgf +
+
+7444.4 2"" .4r.            4 .444.44-44444,4444444.44.4,? .44  .4 4./.4.44.4 44?4.4    ____                                                                      ?'?-?'    '?'.?"  ? ?'
+
+-.44-                                                                                                                                   /             '#513     74457    +   V
+
+*n..?-v-                                          J              7.z7o4K?  7-ti41     9*4%j
+
+S444.4,44k4,?4-4 -49447-4                                                                                              I
+
+?      ?       S...                 '?"t3Y?-??'- ??        zr     ?tS7. 4k..      , 4 ?A.,                                                                 4
+
+-                                 4                                             ?-"?  44'6-/4n.4.-.
+
+4',.'       /                                                 ?4             ?   -'                                            -? 4
+
+44                                                                        -4.4       .4
+
+? a "Ck4PS.4 7 44a$-4f 6
+
+444'            4-                            "it                         1g,JT            _____                         I              -          -
+
+4                                                  ______                                                                                                            1d?'4 1 /665.    1854.   /855 .   7884
+
+444                                                                                                          'i,,                1.
+
+444 44L4,1.A  44?4.,,,  .  .- I-4f                                   I        444444.45444.44,d4&?444..441  n4n.s.'5 4444143/? 444?9
+
+-4.44       4           ,..?                                                                                                                          1
+
+4?M %fli&ttLwitr       -?       ,*?     ,*          1854    '?       ?       ?       7fl?          4          ;3;.J&       Tid5?,?                         iSA:____      14.44          \cxAnn??-n  ,   &CIO(44Z       X9c
+
+7b..56fX-. at'3.'1  $ '*5  .6 50-43jfyj  4                 4.4.444  -    pi   54                             '''   i?6      4-44 pO       ?,7 741 114A3'   41n     Ia
+
+r                  5.1*               44/ ?f-44.4
+
+'X7O1X)4tO?4flXt4                                            ?i        "                                        4?q54   ?               -             '?'??      '    r4:?:"? ?wt.:.?j'Iy?              Z-b
+
+C Wnt4?ts        ?'    ?                 -2        4,3     ?                 4          '7?t?7?? 4?J? ? ?        5/?' 4                           "'                   ?         '73j? S'$2tt?ra,;
+1'             CC4fl.444444./44047444  ,,          I         ?                        44?4
+
+h'                                 is'? fb-53-?. -       .44
+
+444A 44?5                                                                                                 4444.44.444 -?M1#s.   ?444
+
+4                                                                                        1.,,j
+
+? ?                            -'7,                              ?                      I ?''                   K'                          4.4 "?               -'??n?i        iy?? ifInf56
+
+4
+
+'8??                                                                                     4
+
+1                                                                                1
+
+'4...tflIt    4       .?                          44?                444   44'4                         11.444                                   .Zn.444?41'.4,134)S??.  i$n1444.4TfjlnU
+
+444)       '44  -13 .-           4443                           4                                         ?144.3I44
+
+444.           9.4n.44.6.e,4                                          &Mk.,$..   -                       r'?,                             ?       Ybwn'4
+
+Sc? S.MA p44.
+
+.'444        .4.1                                                                                                                                                                        44/44
+
+?, 4' 1
+
+44                                                       1
+
+-   4-  '-4,
+
+4.0.4.45t44  3.' 4).444.4444?44.44X  fl'4.44'?44  t  [.Or4A,..  -    - /?..jIq?:      4Z             4444             4)      7,,            -4                                        /;.4?,   44
+
+??2ij                                       2.'                                                  4           - ?      '?    h?t?     7      *??-                                   I                         ?
+
+.447  7;41.,??sl3e  .4444.4  14444
+
+?$44.454 4'                                  H'
+
+4   444,44,4. .4?44h4?'
+
+5-4.r4? /      -
+
+.4 444? fl7 44.44 4 4
+
++                                                                                 4
+
+3tffU?tt?             4              4.'?      I                           4.4  ?     '44F,-?4                    4        ?         444-                                                             4
+
+4.                                                                44/                              4.
+
+-          1.          -     44                1.z.4gj44s                                            .41                                              ?/     45 4443-4?94-?94f       A.mtk
+
+-.44                1                                                                                                                                                  "j&,,i5                  -
+
+0                               4                                                                                        _                                                                       ?
+
+.4-             4                                                                          --                                                                             2
+
+i5?  $?04444s.-t-.-.,   4   4  4                                 4 4                                                                                                                      j
+
+I?                ?2A1                                  :.         '                                       K-?                                   4                                      .?.        I                                      -44444                  4447/        -.2                                    ?4?4
+
+'?;s.4.J'-o4i--              SnS,                                                                                                                                                                                                           4           4           4           -            4             4
+
+4     .44  4   .444.4                                                            4             4            4          4    -       4            4                         4           4                                                              4           4           4                                      4
+
+444 I.'%   ?,,         -                                                   4            4             4          4                         4                                                                                                                4          4                         -
+
+6?1     tt.41E44441.5444/fl.                                      4        -             4            4          4            4            4                                     4              4                                                          I                        I
+
+4                                                                                   44?           4
+
+11                                                                              4  44    -                                                       -
+
+8)   65                  44.447   4444.44444             4,           4?        '             44          4           444          4  .         44                        4-1        4 44                      -                                    -           4           '4
+
+*59    .L-.'.-.Z                                                                                                                                                                                                                                                                          44      /4,          ?.uo
+
+4   .44/44   .44'.S4?7.'y4.4flW                                                                                                                                                                                                                                                 1
+
+.44              4,44.4
+
+1,3 4-/
+
+4.4444                                                                                                      .4-     4'    .44?.4   -                                                          44    '.                                    44444.4,  444           ?-'-1                   47?        .?754?44441
+
+?44    4.4 44
+
+444*                                                            44.4
+
+4   44444   444?                                                      '     4                                       4-.1   '-??-';s--'                                          4444
+'?-?'*r                44144414$ 3,,4-4t4-.4&4.                                              44 4444-                  .Y                                              4.      .         44 44
+
+1' .?                                                           4"        ? 44444-444
+
+94444.4444.44                             4                                                                                                                                                                                                             '4..4.4?47'7         11P'v't3      4
+
+4                   ..4-84448?44??.4               "Jltro-f.                                                            :[.   ?.              4               -          444?                  4               44?;'       -'
+
+4                                       --Jr--                                                                                                                             4*/n
+
+1-     a??4  -4-
+
+$?    .4-/4.44?    .4444444444.4                    4,44,      -4
+
+.4/3 444,44/4.4
+
+-?                                   74.4 .4.4.44-4.4.4           4           444                     4               44
+
+-4.                                                 4-                         -44            4        4            444?
+
+'04.4 ?      , , -                        .?-4         4 44        44 .                    4
+
+4                  ?                               *? '.4 1                  44       ,
+
+4               ?             **                         4
+
+8'
+
+.44 44;  ?,4/44f4 -                                                           444 4,
+
+4                                        44.4                           -444??7?*.'  4?44        *14.-444.       444        .44?*
+
+/4449.44.4                               )?.7*        4444                                 4  -
+I                   '4                 4           44534-4                 4           .44
+
+*                          ;'-t?;';4<?-t                                  4 4
+
+444,44444        444  4?.4                                      44.4
+
+4       4          ,,          4            4           4             44?4,
+
+4                                      4444      .4      4445444
+
+4                          1  ?4     /4.4434   '44?44*44..4444.4              ?.44444444/44f/44?.4444?
+
+- i F ?                                         ?                                                                   4
+
+'?11 *?b;,&4?."? 44446444'J?
+
+I             -*-'1                   4.4444.4.4-                                              44?44.4444
+
+}?
+
+4                 444.444.444                                   "?ttL'??                 j43          1
+
+vOl    '4                                                                I
+
+A44          ?  44434', 5.444/k4                                  I
+
+446*4...414.47                                         4.444
+
+70,         oL.,,.?/        4'444/444   4444/4.44.4         4?,     4449
+
+44          I?g?                                                                                                           1.
+
+?'       /
+
+St4      , / 4/44.?y?.4 ?
+
+434     44.4.4.4.444
+
+- - ??'t?i? ? 4
+
+44.4.44                                              4
+
+I?.4
+
+4444..                  4,40$2't''4                    '?       1<                                       445%  /3
+
+14444?/.4444'.4h{
+
+-,   ,..-4d-.4-4  .4444.4  454.4  .4?.4 ?.  .5         ,         144//           ?4      ?            1                       1    -?
+
+I                 ..49c?.w      /4            1'     ?     44?4?17    .4.44/-4/4
+
+444?4444                                              ......444444,444444-44444....1.-'4'-? 1*aw9'?''?
+
+?4444.-444Wflt9  ?                    4.
+
+44                                    1'?            *
+
+-                         ?                  4 4                                                       44
+
+4.4           44                4                 1'?1
+
+.44           4?           Jt4-.-.?-?4.                                  4    4     4
+
+444        44                           .4 - 4/
+
+-,            "69
+
+4,        444,4344
+
+444 44
+
+'4 44414
+
+.4?74 4444*,4  4.444
+
+?.1
+
+45,. 4 7J0?.'74 ?t42..a
+
+44..4
+
+.44.4      44444 ?#4454344444.        $.4--?
+
+I?                      ' 4t,'       1.4.4
+
+I :4*4514
+
+I  ''        I
+
+444/4 44444
+
+44.4               4                             44
+
+.4 -4
+
+744             j4/4.44/.4    4474..?   44
+
+44    44 ,4      4?7 //-   471477.-.4'.44        '4
+
+-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:e . 5  ]
+
+4.1;; 4415      M    "1".{ 7  .43o,rZt .4 44*t ; 5
+4.             i  '^ 341'.9 7*  - is  j, 44  5  /:) 7
+.17  *  X{  ;' s  Ji,~   '7  ! i*K r ,   /4 Z1  -U.0 7
+
+.'/     44   4444  /6  9 i8  ^-'S J /  s   3.   4 4
+
+,,4  ;.1/   444 -'1f .' T, ;i r   /S  /0 f   J : o
+.1          Ce ,  7   :  .  7  cOZ !  . .4 '  7 ] vs
+
+44/            0  y;  #444  1 i: .4 ' tfri 7*i+
+44/8 . t  tjf  a ,4,  >73   . ;4.  /6  /0e  t
+
++ 4  i44  4.4t4' s   4'4 ?444ps 7mh  4  d 1 j .
+
+4vX 04/  (4,  4h4 4io 4;  s fl4..K44A.O .4nn.t4 f1
+
+"crnkc  t7 &t)cc, nL t  4 ?c 4i 9 / lbSi .  /53t 8
+
+t;  /606 --   -   -  -  -  -  -S  -  . 444 7 X2  '
+
+? 3J   4;.'O46jV 444  't  8  83 60  37 J9 81r
+
+*' J ,,,,,,,,,>t.,,,,, 16 4_ 75 416 /1
+
+i1@oerto 4e r h3.  att.m   16 1ww   171734   37fef  < :c
+
+W~~~~  ~          1  4>Zf  *  3ts . $ v   t 2   i s 4 t { t B o r > P z e 4 t i
+
+I ..~t 'i!#m. 4 *367
+
+tve,;,  |  @cos^sWe   4St*11  4442444  44  44
+
+b I X.45 Ia-+  |  St6 .44'1  1.* >*{ .-  Il4,
+
+.,-    -"1X   -  4  44  5  61y
+
+*7- ft;0*nS.  K?4  iiSt  30l /1 1 1  1  ;1  37 1#
+
+57      1 nil  54  70  76  /l  4  /  301
+* 1   1   1   I  I  I /444  I4-- 4  I 11
+
+l    |1'  ]/   __ t'"1L4  - < .-3/  231 444  fl3   it
+
+*7"C 3.4440444  41441 (J56  025.21,  *5 0 1 65 f 5 31  16  151
+
+..~~~~~ *I          4I    I .,...w 11It
+
+|  I  I    1 31  41-14     6 H:
+t.s6r;  (fT;iia5   Sm,k,3  --  VS  #63  4  T1 10  41  i i
+
+I I IAF2>r Ii       I1- III1R
+
+^^R^>rrafJ m614J   4X1S  -Sf4 ];ljl> 5  ?4
+
+*4  I  --4--  ~e t-1  ~ 41  1  1  1
+
+X   |   &   i~~~~31   4. -?  4'  .1t v
+
+I414.7 I5          3  1i  6 1o j1 X   1 41
+
+"8   ! ^      ; 1  - --7 . -  1K  1
+
+|   '   |   1 31  @1  6-  4  4.  41 1  1f   j
+
+L |1/4;I.3Ti/1f454   4I I4  -I  41 n  -  117  4
+
+:   1   j   | t! ~~~ ~~ ~~-|   1 95 //  83 _1  I |
+
+ge 47r  T   g   11 - t  t?1  Y  |  l  f 1  3  1]  5  4
+
+1t:-~~~ ~/4  14  5  t| 6f_ <I
+
+|   14', 74 rh 75  -1m ; 1/4  /1,   70  44 j ~ 4  7f  33 l65J|
+
+3~~~~~~~ --.-4  31 i9~   4
+
+4         4          .                                                                /79j .4463
+
+I            .           .                  ,      44-47n,q,                                           4455.44J4?4O
+
+4.-    4               4           4         4'                  -,
+
+4       4444      4                                                   I
+
+4                            .444444             -                                                  1?
+I                                          - .                                                          '924*/SI
+
+*  4'                            '                                                  .?i   Ii.7O      14445       443       41.4444144
+
+4444.                          I?'?-
+
+4'" 4''
+
+4                         '.0-'                                  .      ?44    444 444/4*4    444*444 -75 ,44*4
+
+4 ,   ..  4                        4(44:.1044.H../?97' ? 444 /4 /?4 ?              44 4.444j;? 444447 444 IJ/,.w*C4448.'  4n** 47.4
+
+.444??44     44   4.4   44444     .4.4.    7;4'"        &j34 ?           44-1                      ?7RL94.j:?4*U   ?                444'
+
+-41... 4. -:      ?1 141         4..U44?'                                                     ?"44?r?'U             ?5N' ??'
+
+p44                        1.i4%      ,g?      .4    -a'.           .44   ?44n    ?4  444   .41ev
+
+.44                             '.,4   4                                                              1'"
+
+1444       4
+
+.4!,,'               Ills
+
+4444                                                        14,76
+
+144994                 is. 'a                   I         j                      41269      31m47/47.425.fS*. '54/68.
+
+V         1819                         1     5f"                       7                               4          1,4.44444444
+
+/44.4      flu                 I                     ji'19fD4 K'4"*'
+
+'444          1
+
+1-'  .
+
+'4444?4 .444. 444?                 *44 #4                                      1.4.44 )4444            -4-44.     4         4
+
+K"7'       k.   (.43/              .44    j44444      44.47'5/
+4                    1                     4         4
+
+I                                                               1
+
+414                                             I:                              iilI7, tT?? KZsu>I
+
+.4           44                                                                                        3-
+
+4         4        44       1
+
+1          97
+
+:91       44         47        ?          444        444?1     44,4      44?
+
+4-i                  '                  4444       4?  '                444444     4
+
+444              ?                      4       4.44       72                              44?4       4944
+44         44 , ?'4t7t7?i177t,                                                 -4.4                       4 444
+
+4 '        4          1               444441           '              1
+
+44  -4?44444?44?   44444444?44??44*44444444'4444'444
+
+4'-.   7.
+
+s1  i  4
+
+v.7     3s
+
+-'O4.      .4
+
+341
+
+54 * -
+
+-34
+
+'4
+
+F
+
+A
+
+4444
+3,
+
+4/
+
+44
+
+/34
+
+7
+
+FIGURE 1: Marc d'Espine's table of the nosology and details of deaths in Geneva, for 1854-55, reproduced
+with the permission of the Librarian, Glasgow University Library.
+
+I
+
+T I-
+
+4.' ' , . _'
+
+:P
+
+4'
+
+*
+
+.4,
+
+44t~   t, I_ .;  *
+
+h 1; is) 1f7-1 9' 6 14J
+4 t 6  J fl  6|i 4* 1 1
+
+3 p/  4  $1 -t ,4  77
+
+7  70   4 ?  44 3J ' I  /j 4
+'Is 1   /  /1  -  a
+
+. _ i  .7  '     C
+
+7 -14 1\
+
+ptlfz3.4* *^ X
+
+44 _--:t        44+73
+
+i  39t  }  t J~ 1.1*4 ;e4t
+
+I
+
+.;
+
+.
+
+I
+
+Dr Marc d'Espine's statistical nosology
+
+78. Catarrhe ou bronchite chronique 79. Emphyseme pulmonaire 80. Asthme
+
+81. Calculs biliaires 82. Hepatite chronique 83. Ictere 84. Tumeurs abdominales
+85. Tumeurs des ovaires 86. Ascite 87. Enterite chronique 88. Diarrhee
+89. Maladies de la Rate 90. Nephrite chronique 91. Cystite chronique
+92. Maladies de la Prostate 93. Hydropisie 94. Gangrene 95. Polypes
+VICES OU DIATHESES CHRONIQUES
+
+Scrophuleuses
+
+96. Scrophules 97. Tumeur blanche 98. Maladie de Pott 99. Rachitisme 100. Goitre
+101. Cretinisme
+Tuberculeuses
+
+102. Phthisie tuberculeuse 103. Peritonite tuberculeuse
+
+104. Entero-mesenter tuberculeuse 105. Autres tubercules partiels
+106. Diathese tuberculeuse
+Cancereuses
+
+107. Cancer: bouche, phar. oesoph. face, sens
+108. Cancer: gastr. pancr. intest. rect. foie
+
+109. Cancer: uterin, vessie, scrot. test. penis
+
+110. Cancer: sein, cotes, gland. cerveau, membres
+111. Diathese cancereuse
+Rhumat calculeus
+
+112. Rhumatisme chronique 113. Goutte 114. Calculs vess. reins
+Nerveuses
+
+115. Hysterie 116. Choree 117. Epilepsie 118. Diathese convulsive
+119. Asthme thymique 120. Alienation
+Vermineuses
+
+121. Vers 122. Hydatides
+
+Hematiq. Albumin. Diabet.
+
+123. Scorbut. 124. Purpura 125. Fongus hematodes 126. Anhemie 127. Chlorose
+128. Albuminurie 129. Diabetes
+Syphil.
+
+130. Syphilis, ulcer. larynyx, pharynx 131 id. exotoses, caries
+132. id. autres sympts. consecutifs
+Empoison.s chroniq.s
+
+133. Iodisme 134. Alcoolisme. Delirium tremens 135. Autres Saturations
+136. Febris afame. Inanit. chronique
+
+MORTS PAR VICE DE CONFORMATION OU DEBILITE CONGENIALE
+
+137. Faiblesse congeniale 138. Hydrocephalie 139. Cyanose 140. Spina bifida
+141. Imperforation de l'anus 142. Autres vices de conformation
+MORTS PAR VIEILLESSE
+143. Marasme senile
+
+313

@@ -1,0 +1,919 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+	<?properties open_access?>
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">BMC Infect Dis</journal-id>
+			<journal-title>BMC Infectious Diseases</journal-title>
+			<issn pub-type="epub">1471-2334</issn>
+			<publisher>
+				<publisher-name>BioMed Central</publisher-name>
+				<publisher-loc>London</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="pmid">12069694</article-id>
+			<article-id pub-id-type="pmc">116597</article-id>
+			<article-id pub-id-type="publisher-id">1471-2334-2-10</article-id>
+			<article-id pub-id-type="doi">10.1186/1471-2334-2-10</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research Article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Kinetics of maternal immunity against rabies in fox cubs (<italic>Vulpes vulpes</italic>)</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib id="A1" corresp="yes" contrib-type="author">
+					<name>
+						<surname>M&#x000fc;ller</surname>
+						<given-names>Thomas</given-names>
+					</name>
+					<xref ref-type="aff" rid="I1">1</xref>
+					<email>thomas.mueller@wus.bfav.de</email>
+				</contrib>
+				<contrib id="A2" contrib-type="author">
+					<name>
+						<surname>Selhorst</surname>
+						<given-names>Thomas</given-names>
+					</name>
+					<xref ref-type="aff" rid="I2">2</xref>
+					<email>thomas.selhorst@wus.bfav.de</email>
+				</contrib>
+				<contrib id="A3" contrib-type="author">
+					<name>
+						<surname>Schuster</surname>
+						<given-names>Peter</given-names>
+					</name>
+					<xref ref-type="aff" rid="I3">3</xref>
+					<email>Peter.Schuster@idt-direct.de</email>
+				</contrib>
+				<contrib id="A4" contrib-type="author">
+					<name>
+						<surname>Vos</surname>
+						<given-names>Ad</given-names>
+					</name>
+					<xref ref-type="aff" rid="I3">3</xref>
+					<email>ad.vos@idt-direct.de</email>
+				</contrib>
+				<contrib id="A5" contrib-type="author">
+					<name>
+						<surname>Wenzel</surname>
+						<given-names>Ulf</given-names>
+					</name>
+					<xref ref-type="aff" rid="I4">4</xref>
+					<email>drhelgawenzel@aol.com</email>
+				</contrib>
+				<contrib id="A6" contrib-type="author">
+					<name>
+						<surname>Neubert</surname>
+						<given-names>Andreas</given-names>
+					</name>
+					<xref ref-type="aff" rid="I3">3</xref>
+					<email>andreas.neubert@idt-direct.de</email>
+				</contrib>
+			</contrib-group>
+			<aff id="I1">
+				<label>1</label>Institute for epidemiological Diagnostics, Federal Research Centre for Virus Diseases of Animals, WHO Collaborating Centre for Rabies Surveillance and Research, D-16868 Wusterhausen, Germany</aff>
+			<aff id="I2">
+				<label>2</label>Institute for Epidemiology, Federal Research Centre for Virus Diseases of Animals, WHO Collaborating Centre for Rabies Surveillance and Research, D-16868 Wusterhausen, Germany</aff>
+			<aff id="I3">
+				<label>3</label>IDT GmbH, PO Box 214, D-06855 Rosslau, Germany</aff>
+			<aff id="I4">
+				<label>4</label>Fur Animal Breeding station, Nerzfarm Gleinerm&#x000fc;hle, D-06774 S&#x000f6;llichau, Germany</aff>
+			<pub-date pub-type="collection">
+				<year>2002</year>
+			</pub-date>
+			<pub-date pub-type="epub">
+				<day>11</day>
+				<month>6</month>
+				<year>2002</year>
+			</pub-date>
+			<volume>2</volume>
+			<fpage>10</fpage>
+			<lpage>10</lpage>
+			<ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2334/2/10"/>
+			<history>
+				<date date-type="received">
+					<day>8</day>
+					<month>3</month>
+					<year>2002</year>
+				</date>
+				<date date-type="accepted">
+					<day>11</day>
+					<month>6</month>
+					<year>2002</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>Copyright &#x000a9; 2002 M&#x000fc;ller et al; licensee BioMed Central Ltd. This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.</copyright-statement>
+				<copyright-year>2002</copyright-year>
+				<copyright-holder>M&#x000fc;ller et al; licensee BioMed Central Ltd. This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.</copyright-holder>
+			</permissions>
+			<abstract>
+				<sec>
+					<title>Background</title>
+					<p>In previous experiments, it was demonstrated that maternal antibodies (maAb) against rabies in foxes (<italic>Vulpes vulpes</italic>) were transferred from the vixen to her offspring. However, data was lacking from cubs during the first three weeks post partum. Therefore, this complementary study was initiated.</p>
+				</sec>
+				<sec sec-type="methods">
+					<title>Methods</title>
+					<p>Blood samples (n = 281) were collected from 64 cubs (3 to 43 days old) whelped by 19 rabies-immune captive-bred vixens. Sera was collected up to six times from each cub. The samples were analysed by a fluorescence focus inhibition technique (RFFIT), and antibody titres (nAb) were expressed in IU/ml. The obtained data was pooled with previous data sets. Subsequently, a total of 499 serum samples from 249 cubs whelped by 54 rabies-immune vixens were fitted to a non-linear regression model.</p>
+				</sec>
+				<sec>
+					<title>Results</title>
+					<p>The disappearance rate of maAb was independent of the vixens' nAb-titre. The maAb-titre of the cubs decreased exponentially with age and the half-life of the maAb was estimated to be 9.34 days. However, maAb of offspring whelped by vixens with high nAb-titres can be detected for longer by RFFIT than that of offspring whelped by vixens with relatively low nAb-titres. At a mean critical age of about 23 days post partum, maAb could no longer be distinguished from unspecific reactions in RFFIT depending on the amount of maAb transferred by the mother.</p>
+				</sec>
+				<sec>
+					<title>Conclusions</title>
+					<p>The amount of maAb cubs receive is directly proportional to the titre of the vixen and decreases exponentially with age below detectable levels in seroneutralisation tests at a relatively early age.</p>
+				</sec>
+			</abstract>
+		</article-meta>
+	</front>
+	<body>
+		<sec>
+			<title>Background</title>
+			<p>Campaigns of oral vaccination of foxes (<italic>Vulpes vulpes</italic>) against rabies have shown to be a powerful tool in vulpine rabies control [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B2">2</xref>]. However, in some areas (temporarily) setbacks have been observed. Partially, these have been linked with a low vaccination coverage of the young fox population, which is possibly a result of maternally transferred immunity interfering with active oral immunization of fox cubs [<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>]. However, until recently, no experimental evidence was available to support this hypothesis. Recently, after more than 20 years of oral vaccination campaigns, it was finally demonstrated that maternally transferred immunity in fox cubs does occur after oral immunization of vixens against rabies [<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B6">6</xref>]. During previous studies on maternal antibodies (maAb) against rabies in foxes, blood samples were taken only from animals aged 23 days or older [<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B6">6</xref>] hampering insights into the kinetics of rabies maAb. To overcome this shortcoming, in the present study blood samples from fox cubs were collected during the first six weeks after birth. By merging these results on rabies virus neutralising antibodies (nAb) with those obtained during previous experiments in 1998 and 1999 [<xref ref-type="bibr" rid="B5">5</xref>], it was possible to quantify the temporal decline of maAb against rabies in fox cubs in general. This decline was examined in relation to one of the most important parameters influencing the initial level of maAb: the rabies nAb-titre of the mother animal. Furthermore, we tried to answer the question at which age maAb are no longer distinguishable from unspecific reactions in the seroneutralisation test used.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Material and methods</title>
+			<p>In Spring 2000, 64 cubs whelped by 19 vixens at the Fur Animal Breeding station 'Gleinerm&#x000fc;hle' (S&#x000f6;llichau, Germany) were included in this study. The vixens were orally vaccinated with the attenuated rabies virus vaccine, SAD B19, shortly before mating or during early pregnancy. All vixens received 1.5 &#x02013; 2.0 ml SAD B19 (10<sup>6.7</sup> FFU/ml) by direct oral instillation. The cubs and vixens were marked individually by electronic identification (Indexel<sup>&#x000ae;</sup> Iso Transponder, Rhone-Merieux GmbH, Laupheim, Germany). Blood samples (n = 281) were taken up to 6 times per cub at different ages ranging from day 3 to 43 days post partum. The study was performed according to the German Animal Welfare Act (Tierschutzgesetz) of 25 May 1998 and the experimental design was approved by the appropriate authorities.</p>
+			<p>For ethical reasons, depending on the general constitution of the new-born cubs, only a small number of cubs (n = 6) were bled between day 3 to 5 post partum. These six animals were euthanised using 1 ml of a 105 mg/ml barbiturate, Eunarcon<sup>&#x000ae;</sup> (Parke-Davis, Freiburg; Germany). From those animals, blood samples were taken from the heart during necropsy whilst from the others blood samples were taken by puncturing of the Vena safena. The serum samples were tested for the presence of nAb using the Rapid Fluorescence Focus Inhibition Test (RFFIT) as described by Smith et al. [<xref ref-type="bibr" rid="B7">7</xref>], with the modifications of that method as described by Cox &#x00026; Schneider [<xref ref-type="bibr" rid="B8">8</xref>]. Prior to testing, sera were heat inactivated for 30 minutes at 56&#x000b0;C. The nAb-titres were determined as described elsewhere [<xref ref-type="bibr" rid="B9">9</xref>] and were converted to International Units (IU) by comparison with an international standard immunoglobulin (2nd human rabies immunoglobulin preparation, National Institute for Standards and Control, Potters Bar, UK) adjusted to 0.5 IU/ml which served as a positive control [<xref ref-type="bibr" rid="B10">10</xref>].</p>
+			<p>The obtained data was pooled with the results obtained during 1998 and 1999. A Kruskal Wallis Test [<xref ref-type="bibr" rid="B11">11</xref>] was performed to test if these data sets could be merged. In accordance with Gooding &#x00026; Robinson [<xref ref-type="bibr" rid="B12">12</xref>] and Krakowka et al. [<xref ref-type="bibr" rid="B13">13</xref>], we assumed an exponential decline of maAb of fox cubs (y) with time (i.e. age [days] of cubs [x]). We further assumed that maAb titres of newborn fox cubs depend on the nAb-titre of the mother animal (VT)) in a non-linear way. Thus:</p>
+			<p>y(VT,x) = VT<sup>a</sup>e<sup>(b-nx)</sup>. &#x02003;&#x02003;&#x02003; (1)</p>
+			<p>The pooled data sets were used to estimate the model parameters. Subsequently, model (1) was used to calculate the half-life of maAb in fox cubs which is given by ln(2)/n and the age of fox cubs (critical age) when maAb are below the threshold of 0.5 IU/ml. The critical age (<italic>x</italic>
+				<sub>
+					<italic>c</italic>
+				</sub>) when maAB equals 0.5 IU/ml is given by</p>
+			<p>
+				<inline-graphic xlink:href="1471-2334-2-10-i1.gif"/>
+			</p>
+			<p>The parameters of model (1) are estimated using SAS V8.1 Procedure NLIN (SAS-Institute, Cary, NC 27513, USA).</p>
+		</sec>
+		<sec>
+			<title>Results</title>
+			<p>Prior to whelping, the Geometric Mean Titre (GMT) of the 19 vaccinated vixens (21 days post vaccination) was 11.32 IU/ml. In Spring 2000, of the 64 cubs born of rabies-immune vixens, 61, 57, 58, 56, 34 and 15 of the 64 cubs born of rabies-immune vixens were bled 1, 2, 3, 4, 5 and 6 times, respectively, during the first 43 days post partum. Serum samples of 3 cubs could not be assigned to the respective litters due to dysfunction of the transponder. Ninety (32.02%) of 281 sera had maAb-titres &#x02265; 0.5 IU/ml; the GMT of all blood samples collected was 0.41 IU/ml. There was a great individual variation in maAb-titres of cubs, especially in the first days of their life ranging from 0.1 to 10 IU/ml. However, this variance in maAb-titers declined with age up to 43 days. This diminishing variance was particularly obvious in those cubs having maAb-titres above the threshold of 0.5 IU/ml (Fig. <xref ref-type="fig" rid="F1">1</xref>).</p>
+			<fig position="float" id="F1">
+				<label>Figure 1</label>
+				<caption>
+					<p>Individual maternal antibody (maAb) titre (n = 282) of the 64 fox cubs born to vaccinated vixens during the experimental study conducted in 2000.</p>
+				</caption>
+				<graphic xlink:href="1471-2334-2-10-1"/>
+			</fig>
+			<p>The comparison of the serological data of the 13-day overlap period (day 31&#x02013;43 post partum) of the studies conducted in 1998&#x02013;2000 showed that they were not statistically different (Kruskal-Wallis Test, P&#x0003e; 0.09). The data was therefore pooled and comprised of 499 serum samples taken from 249 cubs whelped by 54 rabies-immune vixens. The majority of the cub sera (369 of 499) had maAb titres below the threshold of 0.5 IU/ml. A regression line was fitted to the data, with significant linear (p &#x0003c; 0.0001) decrease of log(maAb) with increasing age (Figure <xref ref-type="fig" rid="F2">2</xref>).</p>
+			<fig position="float" id="F2">
+				<label>Figure 2</label>
+				<caption>
+					<p>Maternal antibody (maAb) titres (n= 499) of the combined data sets of the years 1998&#x02013;2000 together with the linear regression line indicating the overall trend in the development of log(maAb) of cubs with age [days].</p>
+				</caption>
+				<graphic xlink:href="1471-2334-2-10-2"/>
+			</fig>
+			<p>The estimates of the models' parameters (1) are: a = 0.314, b = 0.329 and n = 0.0727. The model predictions are given in Figure <xref ref-type="fig" rid="F3">3</xref>. The calculated half-life of maAb against rabies is 9.34 days. Maternal antibodies of offspring whelped by vixens with high nAb-titres can be detected longer in RFFIT then those of offspring whelped by vixens with relatively low nAb-titres. Using equation (2) the critical mean age when cubs' titres equal 0.5 IU/ml in RFFIT was 23 days (range: 14 &#x02013; 38 days) depending on the nAb-titre of the immunised vixen (Figure <xref ref-type="fig" rid="F4">4</xref>).</p>
+			<fig position="float" id="F3">
+				<label>Figure 3</label>
+				<caption>
+					<p>Non-linear regression model fitted to the combined data set (1998&#x02013;2000) showing the maternal antibody (maAb) titre of cubs in dependency on the neutralizing antibody (nAb) titre of the mother animal (VT) and the age of the cubs (days).</p>
+				</caption>
+				<graphic xlink:href="1471-2334-2-10-3"/>
+			</fig>
+			<fig position="float" id="F4">
+				<label>Figure 4</label>
+				<caption>
+					<p>Relation between the neutralizing antibody titre (nAb) of the vixen and the time (age) when maAb of cubs disappear (&#x0003c;0.5 IU/ml) in RFFIT.</p>
+				</caption>
+				<graphic xlink:href="1471-2334-2-10-4"/>
+			</fig>
+		</sec>
+		<sec>
+			<title>Discussion</title>
+			<p>Detailed knowledge of the kinetics of maAb in fox cubs against rabies was missing, but is essential to optimise the timing of oral rabies vaccination campaigns in spring in order to achieve maximum vaccination coverage of the fox population [<xref ref-type="bibr" rid="B14">14</xref>]. The study presented here completes previous experiments conducted in 1998 and 1999 [<xref ref-type="bibr" rid="B5">5</xref>,<xref ref-type="bibr" rid="B6">6</xref>,<xref ref-type="bibr" rid="B9">9</xref>,<xref ref-type="bibr" rid="B15">15</xref>] by providing data on maternal antibodies in fox cubs during the first weeks post partum. Obtaining blood samples from cubs at such an early age is not without risks. It is known that vixens are very sensitive during the first days after birth and frequent manipulations during this period can lead to behavioural disorders, which often results in the loss of complete litters. However, during this study it was shown that blood samples can be taken from cubs aged 6 days or older without complications.</p>
+			<p>At first sight, the relatively low (&#x0003c;0.5 IU/ml) maAb titers observed during the first three weeks after birth were surprising. The great variance in individual maAb-titres during the first three weeks of cubs (Fig. <xref ref-type="fig" rid="F1">1</xref>) was similar to that observed in older fox cubs (Fig. <xref ref-type="fig" rid="F2">2</xref>). Large differences in maAb-titres were observed even among littermates; these could be a result of difference in suckling behaviour among the cubs [<xref ref-type="bibr" rid="B16">16</xref>]. The initial level of maAb is influenced by many factors; e.g. quality and quantity of colostrum and milk-intake as well as body constitution (condition, birth-weight) [<xref ref-type="bibr" rid="B16">16</xref>-<xref ref-type="bibr" rid="B19">19</xref>]. In another canids species, the domestic dog (<italic>Canis familiaris</italic>), major transfer of maAb takes place during ingestion of colostrum and milk by the new-born [<xref ref-type="bibr" rid="B16">16</xref>,<xref ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B20">20</xref>]. In these animals, a limited transfer of maAb also occurs in utero [<xref ref-type="bibr" rid="B13">13</xref>,<xref ref-type="bibr" rid="B16">16</xref>]. Additional studies have been initiated to clarify whether or not this also takes place in foxes. Unfortunately, these and other possible factors are, most of the time, extremely difficult to assess, mainly due to the previously-mentioned extreme susceptibility of the vixen to disturbance immediately prior and after parturition. Pollock &#x00026; Carmichael [<xref ref-type="bibr" rid="B21">21</xref>] mentioned that increasing dog litter-size negatively influenced maAb-levels in puppies. This effect, however, could not be observed in foxes [<xref ref-type="bibr" rid="B9">9</xref>]. The model presented here clearly identified another important parameter determining maAb-levels: the nAb-titre of the mother animal. A direct proportional relationship between the serum titre of the mother and her offspring has been identified in many studies on maternally derived immunity [<xref ref-type="bibr" rid="B18">18</xref>,<xref ref-type="bibr" rid="B20">20</xref>-<xref ref-type="bibr" rid="B22">22</xref>]. Our results indicate that the subsequent disappearance rate of maAb in fox cubs was independent of the nAb-titre of the vixen. The exponential decline of maAb against rabies in foxes corresponded with the maAb-decline observed for other viruses in canine animal species, whereby maAb persist for up to 8&#x02013;10 weeks on average [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B13">13</xref>,<xref ref-type="bibr" rid="B16">16</xref>]. The half-life of maAb against rabies in foxes was estimated to be 9.34 days, and is similar to that observed for maAb against canine distemper virus (8.4 days) and canine parvovirus (9.7 days) [<xref ref-type="bibr" rid="B13">13</xref>,<xref ref-type="bibr" rid="B21">21</xref>]. However, the disappearance of maAb is also linked with the sensitivity of the serological techniques and the threshold to distinguish between positive and negative used (Fig. <xref ref-type="fig" rid="F4">4</xref>). At an international level nAb at concentrations &#x0003c; 0.5 U/ml representing an arbitrarily defined threshold are considered positive whilst such nAb below this threshold cannot be distinguished from unspecific reactions [<xref ref-type="bibr" rid="B10">10</xref>]. Following rabies vaccination of female dogs, maAb in puppies could be detected up to 6&#x02013;7 weeks post partum, on average [<xref ref-type="bibr" rid="B16">16</xref>]. Taking an estimated mean time period of 23 days into account during which maAb can be distinguished from unspecific reactions in RFFIT (nAb-titre &#x02265; 0.5 IU/ml) after birth, there is evidence that maAb-titres in fox cubs are not as high as in puppies and therefore appear to decrease more quickly than in dogs. Further considering spring whelping activity, maternal immunity against rabies in young foxes is very difficult to detect under field conditions. Thus, the percentage of 9&#x02013;20% of young foxes having nAb following spring vaccination campaigns [<xref ref-type="bibr" rid="B23">23</xref>-<xref ref-type="bibr" rid="B25">25</xref>], may result exclusively from active immunization by bait-uptake. It has been shown, however, that the detection of rabies maAb by immunoblotting is much more sensitive than the RFFIT, and consequently, by using the former method, maAb could be detected for a longer period of time (M&#x000fc;ller, unpublished results). The relatively longevity of maAb at a low level results in an interference between passively and actively acquired immunity up to 8 weeks post partum which affected more severely the ability of fox cubs to resist a virus challenge [<xref ref-type="bibr" rid="B9">9</xref>]. Taking this into account, concerning spring vaccination campaigns baits should not be distributed in previously baited areas before most cubs are more than 8 weeks of age. Therefore, to reach optimal immune response in young foxes, depending on the geographical region vaccination campaigns should be adjusted accordingly. In areas vaccinated for the first time, however, baits can be distributed earlier, while 5 weeks old cubs are already immunocompetent [<xref ref-type="bibr" rid="B14">14</xref>].</p>
+		</sec>
+		<sec>
+			<title>Conclusions</title>
+			<p>The kinetics of maAb against rabies in fox cubs is similar to that observed in dog puppies; the amount of maAb cubs receive is directly proportional to the titre of the vixen and the former decreases exponentially with age below detectable levels in seroneutralisation tests. Thus, antibody-titres detected in sera of young foxes submitted for investigation after spring oral vaccination campaigns are most likely a result of active immunization by bait-uptake. Young foxes without detectable levels of rabies nAb-titres are either whelped by non-immunized vixens or maAb-titres already dropped below the level of detection.</p>
+		</sec>
+		<sec>
+			<title>Competing interests</title>
+			<p>None declared.</p>
+		</sec>
+		<sec>
+			<title>Authors' contributions</title>
+			<p>TM was responsible for the examination of the blood samples and for the final interpretation of the obtained data. TS carried out the statistical analysis. PS conceived the study and collected the blood samples together with UW, who was furthermore responsible for the care taking of the animals. AV and AN participated in the design of the study and in the evaluation of the results.</p>
+			<table-wrap position="float" id="T1">
+				<label>Table 1</label>
+				<caption>
+					<p>Number of fox cubs born to vaccinated vixens and the blood sampling scheme used in the years 1998&#x02013;2000.</p>
+				</caption>
+				<table frame="hsides" rules="groups">
+					<thead>
+						<tr>
+							<td align="center">Year</td>
+							<td align="center">Vixens (n)</td>
+							<td align="center">Cubs (n)</td>
+							<td align="center">Blood sampling (days post partum)</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td align="center">1998</td>
+							<td align="center">21</td>
+							<td align="center">114</td>
+							<td align="center">31&#x02013;60</td>
+						</tr>
+						<tr>
+							<td align="center">1999</td>
+							<td align="center">14</td>
+							<td align="center">71</td>
+							<td align="center">23&#x02013;71</td>
+						</tr>
+						<tr>
+							<td align="center">2000</td>
+							<td align="center">19</td>
+							<td align="center">64</td>
+							<td align="center">3&#x02013;43</td>
+						</tr>
+						<tr>
+							<td colspan="4">
+								<hr/>
+							</td>
+						</tr>
+						<tr>
+							<td align="center">Total</td>
+							<td align="center">54</td>
+							<td align="center">249</td>
+							<td align="center">3&#x02013;71</td>
+						</tr>
+					</tbody>
+				</table>
+			</table-wrap>
+		</sec>
+		<sec>
+			<title>Pre-publication history</title>
+			<p>The pre-publication history for this paper can be accessed here:</p>
+			<p>
+				<ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2334/2/10/prepub"/>
+			</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<sec>
+				<title>Acknowledgements</title>
+				<p>The authors wish to thank Jeanette Burow, Astrid Schameitat, Elke Pommerening, Kathrin Teske and Doris Balan for their skilful technical assistance and patience during these long lasting experiments.</p>
+			</sec>
+		</ack>
+		<ref-list>
+			<ref id="B1">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>St&#x000f6;hr</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Meslin</surname>
+							<given-names>FX</given-names>
+						</name>
+					</person-group>
+					<article-title>Progress and setbacks in the oral immunisation of foxes against rabies in Europe.</article-title>
+					<source>Vet Rec</source>
+					<year>1996</year>
+					<volume>139</volume>
+					<fpage>32</fpage>
+					<lpage>35</lpage>
+					<pub-id pub-id-type="pmid">8839488</pub-id>
+				</citation>
+			</ref>
+			<ref id="B2">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>M&#x000fc;ller</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Schl&#x000fc;ter</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<article-title>Oral immunization of red foxes (<italic>Vulpes vulpes</italic>) in Europe &#x02013; A review.</article-title>
+					<source>J Etlik Vet Microbiol</source>
+					<year>1998</year>
+					<volume>9</volume>
+					<fpage>35</fpage>
+					<lpage>59</lpage>
+				</citation>
+			</ref>
+			<ref id="B3">
+				<citation citation-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Breitenmoser</surname>
+							<given-names>U</given-names>
+						</name>
+						<name>
+							<surname>Kaphegyi</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Kappeler</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Zanoni</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>Significance of young foxes for the persistence of rabies in northwestern Switzerland.</article-title>
+					<source>Immunbiology of viral infections. Proceedings of the 3rd Congress of the European Society of Veterinary Virology</source>
+					<year>1995</year>
+					<fpage>391</fpage>
+					<lpage>396</lpage>
+				</citation>
+			</ref>
+			<ref id="B4">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bruyere</surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>Vuillaume</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Cliquet</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Aubert</surname>
+							<given-names>MFA</given-names>
+						</name>
+					</person-group>
+					<article-title>Oral rabies vaccination of foxes with one or two delayed distributions of SAG2 baits during spring.</article-title>
+					<source>Vet Res</source>
+					<year>2000</year>
+					<volume>31</volume>
+					<fpage>339</fpage>
+					<lpage>345</lpage>
+					<pub-id pub-id-type="pmid">10863950</pub-id>
+					<pub-id pub-id-type="doi">10.1051/vetres:2000123</pub-id>
+				</citation>
+			</ref>
+			<ref id="B5">
+				<citation citation-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>M&#x000fc;ller</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Schuster</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Wenzel</surname>
+							<given-names>U</given-names>
+						</name>
+						<name>
+							<surname>Vos</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Selhorst</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Neubert</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Maternal immunity and the immune response of fox cubs (<italic>Vulpes vulpes</italic>) to oral vaccination against rabies.</article-title>
+					<source>Proceedings of the 10th Annual Rabies in the Americas Meeting, Novenber 14&#x02013;19, San Diego, USA.</source>
+					<year>1999</year>
+					<fpage>83</fpage>
+				</citation>
+			</ref>
+			<ref id="B6">
+				<citation citation-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cliquet</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Barrat</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Brochier</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Pastoret</surname>
+							<given-names>PP</given-names>
+						</name>
+						<name>
+							<surname>Aubert</surname>
+							<given-names>MFA</given-names>
+						</name>
+					</person-group>
+					<article-title>Kinetics of rabies immune response of young foxes (<italic>Vulpes vulpes</italic>) orally vaccinated with VRG vaccine.</article-title>
+					<source>Proceedings of the 11th International Meeting on Research Advances and Rabies Control in the Americas, October 18&#x02013;21, Lima, Peru.</source>
+					<year>2000</year>
+					<fpage>50</fpage>
+				</citation>
+			</ref>
+			<ref id="B7">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Smith</surname>
+							<given-names>JS</given-names>
+						</name>
+						<name>
+							<surname>Yager</surname>
+							<given-names>PA</given-names>
+						</name>
+						<name>
+							<surname>Baer</surname>
+							<given-names>GM</given-names>
+						</name>
+					</person-group>
+					<article-title>A rapid reproducible test for determining rabies neutralizing antibody.</article-title>
+					<source>Bull World Health Organiz</source>
+					<year>1973</year>
+					<volume>48</volume>
+					<fpage>535</fpage>
+					<lpage>541</lpage>
+				</citation>
+			</ref>
+			<ref id="B8">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cox</surname>
+							<given-names>JH</given-names>
+						</name>
+						<name>
+							<surname>Schneider</surname>
+							<given-names>LG</given-names>
+						</name>
+					</person-group>
+					<article-title>Prophylactic immunization of humans against rabies by intradermal inoculation of human diploid cell culture vaccine.</article-title>
+					<source>J Clin Microbiol</source>
+					<year>1976</year>
+					<volume>3</volume>
+					<fpage>96</fpage>
+					<lpage>101</lpage>
+					<pub-id pub-id-type="pmid">1254722</pub-id>
+				</citation>
+			</ref>
+			<ref id="B9">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>M&#x000fc;ller</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Schuster</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Vos</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Selhorst</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Wenzel</surname>
+							<given-names>U</given-names>
+						</name>
+						<name>
+							<surname>Neubert</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Effect of maternal immunity on the immune response of young foxes (Vulpes vulpes) to oral vaccination against rabies with SAD B19.</article-title>
+					<source>Am J Vet Res</source>
+					<year>2001</year>
+					<volume>62</volume>
+					<fpage>1154</fpage>
+					<lpage>1158</lpage>
+					<pub-id pub-id-type="pmid">11453495</pub-id>
+				</citation>
+			</ref>
+			<ref id="B10">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<collab>WHO/IABS</collab>
+					</person-group>
+					<article-title>Developments in Biological Standards.</article-title>
+					<source>Symposium on the standardization of rabies vaccines for human use produced in tissue culture (Rabies III)</source>
+					<year>1978</year>
+					<volume>40</volume>
+					<fpage>268</fpage>
+					<lpage>270</lpage>
+				</citation>
+			</ref>
+			<ref id="B11">
+				<citation citation-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sokal</surname>
+							<given-names>FJ</given-names>
+						</name>
+						<name>
+							<surname>Rohlf</surname>
+							<given-names>FJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Biometry.</article-title>
+					<source>3rd edition W H Freeman and Company, New York</source>
+					<year>1995</year>
+				</citation>
+			</ref>
+			<ref id="B12">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gooding</surname>
+							<given-names>GE</given-names>
+						</name>
+						<name>
+							<surname>Robinson</surname>
+							<given-names>WF</given-names>
+						</name>
+					</person-group>
+					<article-title>Maternal antibody, vaccination and reproductive failure in dogs with parvovirus infection.</article-title>
+					<source>Austr Vet J</source>
+					<year>1982</year>
+					<volume>59</volume>
+					<fpage>170</fpage>
+					<lpage>174</lpage>
+				</citation>
+			</ref>
+			<ref id="B13">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Krakowka</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Long</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Koestner</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Influence of transplacentally acquired antibody on neonatal susceptibility to canine distemper virus in gnotobiotic dogs.</article-title>
+					<source>J Inf Dis</source>
+					<year>1978</year>
+					<volume>137</volume>
+					<fpage>605</fpage>
+					<lpage>608</lpage>
+					<pub-id pub-id-type="pmid">659917</pub-id>
+				</citation>
+			</ref>
+			<ref id="B14">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vos</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>M&#x000fc;ller</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Selhorst</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Schuster</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Neubert</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Schl&#x000fc;ter</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<article-title>Optimising of spring oral vaccination campaigns of foxes against rabies.</article-title>
+					<source>Dtsch tier&#x000e4;rztl Wschr</source>
+					<year>2001</year>
+					<volume>108</volume>
+					<fpage>55</fpage>
+					<lpage>59</lpage>
+				</citation>
+			</ref>
+			<ref id="B15">
+				<citation citation-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>M&#x000fc;ller</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Vos</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Selhorst</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Schuster</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Wenzel</surname>
+							<given-names>U</given-names>
+						</name>
+						<name>
+							<surname>Neubert</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Dynamics of SAD B19 derived maternal immunity in fox cubs (<italic>Vulpes vulpes</italic>).</article-title>
+					<source>Proceedings of the 11th International Meeting on Research Advances and Rabies Control in the Americas, October 18&#x02013;21, Lima, Peru</source>
+					<year>2000</year>
+					<fpage>50</fpage>
+					<lpage>51</lpage>
+				</citation>
+			</ref>
+			<ref id="B16">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Winters</surname>
+							<given-names>WD</given-names>
+						</name>
+					</person-group>
+					<article-title>Time dependent decreases of maternal canine virus antibodies in newborn pups.</article-title>
+					<source>Vet Rec</source>
+					<year>1981</year>
+					<volume>108</volume>
+					<fpage>295</fpage>
+					<lpage>299</lpage>
+					<pub-id pub-id-type="pmid">6262993</pub-id>
+				</citation>
+			</ref>
+			<ref id="B17">
+				<citation citation-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Banks</surname>
+							<given-names>KI</given-names>
+						</name>
+						<name>
+							<surname>McCuire</surname>
+							<given-names>TC</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Edited by Haliwell REW, Gormon NT</surname>
+						</name>
+					</person-group>
+					<article-title>Neonatal immunology.</article-title>
+					<source>Veterinary Clinical Immunology</source>
+					<year>1989</year>
+					<publisher-name>W.B. Saunders, Philadelphia,</publisher-name>
+					<fpage>193</fpage>
+					<lpage>204</lpage>
+				</citation>
+			</ref>
+			<ref id="B18">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schunck</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Truyen</surname>
+							<given-names>U</given-names>
+						</name>
+					</person-group>
+					<article-title>Fallbeschreibung: Einflu&#x003b2; maternaler Antik&#x000f6;rper auf die Impfung gegen das canine Parvovirus.</article-title>
+					<source>Tier&#x000e4;rztl Praxis</source>
+					<year>1995</year>
+					<volume>23</volume>
+					<fpage>185</fpage>
+					<lpage>186</lpage>
+				</citation>
+			</ref>
+			<ref id="B19">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wesumperuma</surname>
+							<given-names>HL</given-names>
+						</name>
+						<name>
+							<surname>Perera</surname>
+							<given-names>AJ</given-names>
+						</name>
+						<name>
+							<surname>Pharoah</surname>
+							<given-names>PO</given-names>
+						</name>
+						<name>
+							<surname>Hart</surname>
+							<given-names>CA</given-names>
+						</name>
+					</person-group>
+					<article-title>The influence of prematurity and low birth weight on transplacental antibody transfer in Sri Lanka.</article-title>
+					<source>Ann Trop Med Parasitol</source>
+					<year>1999</year>
+					<volume>93</volume>
+					<fpage>169</fpage>
+					<lpage>177</lpage>
+					<pub-id pub-id-type="pmid">10474642</pub-id>
+					<pub-id pub-id-type="doi">10.1080/00034989958654</pub-id>
+				</citation>
+			</ref>
+			<ref id="B20">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gillespie</surname>
+							<given-names>JH</given-names>
+						</name>
+						<name>
+							<surname>Baker</surname>
+							<given-names>JA</given-names>
+						</name>
+						<name>
+							<surname>Burgher</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>The immune response of dogs to distemper virus.</article-title>
+					<source>Cornell Vet</source>
+					<year>1958</year>
+					<volume>48</volume>
+					<fpage>103</fpage>
+					<lpage>125</lpage>
+					<pub-id pub-id-type="pmid">13537578</pub-id>
+				</citation>
+			</ref>
+			<ref id="B21">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pollock</surname>
+							<given-names>RVH</given-names>
+						</name>
+						<name>
+							<surname>Carmichael</surname>
+							<given-names>LE</given-names>
+						</name>
+					</person-group>
+					<article-title>Maternally derived immunity to canine parvovirus infection: transfer, decline, and interference with vaccination.</article-title>
+					<source>JAVMA</source>
+					<year>1982</year>
+					<volume>180</volume>
+					<fpage>37</fpage>
+					<lpage>42</lpage>
+					<pub-id pub-id-type="pmid">7056660</pub-id>
+				</citation>
+			</ref>
+			<ref id="B22">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Spencer</surname>
+							<given-names>JA</given-names>
+						</name>
+						<name>
+							<surname>Burroughs</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>Decline in maternal immunity and antibody response to vaccine in captive cheetah (Acinonyx jubatus) cubs.</article-title>
+					<source>J Wildl Dis</source>
+					<year>1992</year>
+					<volume>28</volume>
+					<fpage>102</fpage>
+					<lpage>104</lpage>
+					<pub-id pub-id-type="pmid">1312644</pub-id>
+				</citation>
+			</ref>
+			<ref id="B23">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>M&#x000fc;ller</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Vos</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Selhorst</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Stiebling</surname>
+							<given-names>U</given-names>
+						</name>
+						<name>
+							<surname>Tackmann</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Schuster</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Neubert</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Conraths</surname>
+							<given-names>FJ</given-names>
+						</name>
+						<name>
+							<surname>Schl&#x000fc;ter</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<article-title>Is it possible to orally vaccinate juvenile red foxes against rabies in spring campaigns?</article-title>
+					<source>J Wildl Dis</source>
+					<year>2001</year>
+					<volume>37</volume>
+					<fpage>791</fpage>
+					<lpage>797</lpage>
+					<pub-id pub-id-type="pmid">11765716</pub-id>
+				</citation>
+			</ref>
+			<ref id="B24">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vuillaume</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Bruyere</surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>Aubert</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Comparison of the effectiveness of two protocols of antirabies bait distribution for foxes (Vulpes vulpes).</article-title>
+					<source>Vet Res</source>
+					<year>1998</year>
+					<volume>29</volume>
+					<fpage>537</fpage>
+					<lpage>546</lpage>
+					<pub-id pub-id-type="pmid">9851010</pub-id>
+				</citation>
+			</ref>
+			<ref id="B25">
+				<citation citation-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Matouch</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Jaros</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Vrzal</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<article-title>Oral vaccination of fox cubs against rabies in the vicinity of dens.</article-title>
+					<source>Vet Med Czech Republic</source>
+					<year>1998</year>
+					<volume>43</volume>
+					<fpage>245</fpage>
+					<lpage>248</lpage>
+				</citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
+
+

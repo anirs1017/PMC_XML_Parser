@@ -1,0 +1,51 @@
+T1  Caption  35178 35256 Table 1 : Descriptive statistics and ORs for selected subject characteristics.
+A1  Type  T1 Table
+A2  Num  T1  1
+
+T2  Reference  18061 18179 ResultsThe study population included 576 cases and 4,105 controls, with a male-to-female case ratio of 1.29 (Table 1).
+A3  RefType  T1 Direct
+A4  Type  T1 Table
+A5  Num  T1  1
+
+T3  Reference  18271 18408 The results of univariate logistic regression modeling of selected covariates (adjusted for age, sex, and province) are shown in Table 1.
+A6  RefType  T1 Direct
+A7  Type  T1 Table
+A8  Num  T1  1
+
+T4  Reference  27353 27486 Nor did our study find an increased risk among people who reported drinking higher numbers of glasses of tap water per day (Table 1).
+A9  RefType  T1 Direct
+A10  Type  T1 Table
+A11  Num  T1  1
+
+T5  Caption  40869 41044 Table 2 : ORs for pancreatic cancer in relation to the concentration of CDBPs in drinking water (based on the EHD data set, 30-year ETW, full OCMI imputation, 3-year latency).
+A13  Type  T5 Table
+A14  Num  T5  2
+
+T6  Reference  20737 21021 The mean CDBP levels were similar in the cases and controls: 24.3 versus 24.5 μg/L for THM, 19.5 versus 19.3 μg/L for TCM, and 3.1 versus 3.2 μg/L for BDCM.ORs for pancreatic cancer risk in relation to exposure to THMs, BDCMs, and TCMs based on the EHD data file are shown in Table 2.
+A15  RefType  T5 Direct
+A16  Type  T5 Table
+A17  Num  T5  2
+
+T7  Caption  42263 42459 Table 3 : ORs for pancreatic cancer in relation to THM concentrations in drinking water (based on the PMW data set, 30-year ETW, full OCMI imputation, varying latencies, mean THM exposure levels).
+A19  Type  T7 Table
+A20  Num  T7  3
+
+T8  Reference  21548 21657 ORs for pancreatic cancer risk in relationship to THM levels based on the PMW data file are shown in Table 3.
+A21  RefType  T7 Direct
+A22  Type  T7 Table
+A23  Num  T7  3
+
+T9  Caption  44928 45101 Table 4 : Effect of THM exposure on risk of pancreatic cancer (based on the PMW data set, full OCMI imputation, weighted by drinking water intake, mean THM exposure levels).
+A25  Type  T9 Table
+A26  Num  T9  4
+
+T10  Reference  21906 22045 The effect of weighting the level of THM exposure by a self-reported estimate of the amount of tap water drunk per day is shown in Table 4.
+A27  RefType  T9 Direct
+A28  Type  T9 Table
+A29  Num  T9  4
+
+T11  Reference  27195 27331 This weighted analysis did not yield statistically significant increases in pancreatic cancer risk in relation to CDBP intake (Table 4).
+A30  RefType  T9 Direct
+A31  Type  T9 Table
+A32  Num  T9  4
+
