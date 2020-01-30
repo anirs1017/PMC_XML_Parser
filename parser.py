@@ -58,8 +58,8 @@ class nxmlParser():
            
                 self.dict_markers_ids[marker_key].append(rid_key)
                 
-                if rid_key not in self.rids_dict:
-                    self.rids_dict[rid_key] = []
+#                if rid_key not in self.rids_dict:
+#                    self.rids_dict[rid_key] = []
     
     def showCaptions(self):
         for ref in soup.find_all('xref'):
