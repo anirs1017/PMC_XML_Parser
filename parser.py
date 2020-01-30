@@ -427,8 +427,8 @@ for subdir, dirs, files in os.walk(rootdir):
             parsed_doc_text = soup.get_text()
             curr_doc.segmentSentences(parsed_doc_text)
             
-            curr_doc.getCaptions()
             curr_doc.getDirectReferences()
+            curr_doc.getCaptions()
             
             # Verify that all three lists have the same size
 #            print (len(curr_doc.sent_ref_points), len(curr_doc.all_sent_parsed), len(curr_doc.all_sent_original) )
