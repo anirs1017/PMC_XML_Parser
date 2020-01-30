@@ -454,10 +454,10 @@ for subdir, dirs, files in os.walk(rootdir):
             curr_doc.createANNfile(currPath)
             print('\nFinished processing file: ', subdir + '/' + curr_file, '\n')
             print('----------------------------------------\n\n')
-#        elif curr_file.lower().endswith(img_ext):
-#            try:
-#                os.mkdir(subdir + '/images')
-#            except(FileExistsError):
-#                pass
-#            imgPath = subdir + '/images/'
-#            shutil.move(subdir + '/' + curr_file, imgPath)
+        elif curr_file.lower().endswith(img_ext):
+            try:
+                os.mkdir(subdir + '/images')
+            except(FileExistsError):
+                pass
+            imgPath = subdir + '/images/'
+            shutil.move(subdir + '/' + curr_file, imgPath)
