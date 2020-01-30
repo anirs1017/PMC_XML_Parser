@@ -104,23 +104,25 @@ class nxmlParser():
                 label = ""
                 store_caption = ""
                 if tag_id not in self.captions_dict:
-                    y = soup.find(key, {"id": tag_id})
+#                    y = soup.find(key, {"id": tag_id})
                     if key == 'fig' or key == 'table-wrap':
-                        lab = y.find('label')
-                        lab.string = lab.string#+ ': '
-                        lab.string = self.tokenizeCaption(lab.text)
-                        label = lab.text
-                        capt = y.find('caption')
-                        tokenized_caption = self.tokenizeCaption(capt.text)
-#                        print (tokenized_caption, '\n')
-                        if capt.string is not None:
-                            capt.string = tokenized_caption
-                        elif capt.findChild().string is not None:
-                            capt.findChild().string = tokenized_caption
-                        store_caption = y.find('label').text + ' ' + y.find('caption').text.replace('\n', '')
-
-                        self.captions_dict[tag_id] = store_caption
-                        self.dict_markers_ids[tag_id].append(label)
+                        y = soup.find(key, {"id": tag_id})
+                        if y is not None:
+                            lab = y.find('label')
+                            lab.string = lab.string#+ ': '
+                            lab.string = self.tokenizeCaption(lab.text)
+                            label = lab.text
+                            capt = y.find('caption')
+                            tokenized_caption = self.tokenizeCaption(capt.text)
+    #                        print (tokenized_caption, '\n')
+                            if capt.string is not None:
+                                capt.string = tokenized_caption
+                            elif capt.findChild().string is not None:
+                                capt.findChild().string = tokenized_caption
+                            store_caption = y.find('label').text + ' ' + y.find('caption').text.replace('\n', '')
+    
+                            self.captions_dict[tag_id] = store_caption
+                            self.dict_markers_ids[tag_id].append(label)
     
     '''Sentence segmentation of the files
     # 
