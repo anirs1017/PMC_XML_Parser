@@ -405,60 +405,60 @@ class nxmlParser():
 rootdir = 'sample_data/'
 img_ext = ('.jpg', '.gif', '.png', '.tif')
 
-#for subdir, dirs, files in os.walk(rootdir):
-#    for curr_file in files:
-#        if curr_file.lower().endswith('.nxml'):  
-#            print('Processing file: ', subdir + '/' + curr_file, '\n')
-#            infile = open(subdir + '/' + curr_file, "r")
-subdir = 'PMC3016212/'
-curr_file = '228_2010_Article_901.nxml'
-print('Processing file: ', subdir + '/' + curr_file, '\n')
-infile = open(subdir + '/' + curr_file, "r")
-soup = BeautifulSoup(infile, 'xml')
-soup_original = soup
-soup_copy = soup
-filename = os.path.splitext(curr_file)[0]
-
-curr_doc = nxmlParser()
-curr_doc.filename = filename
-
-curr_doc.addMarkersToXREF()
-#            curr_doc.addMarkersToCaptions()
-
-'''
-Segment the Sentences
-'''
-soup_copy = soup_original
-parsed_doc_text = soup.get_text()
-curr_doc.segmentSentences(parsed_doc_text)
-
-curr_doc.getDirectReferences()
-curr_doc.getCaptions()
-
-# Verify that all three lists have the same size
-#            print (len(curr_doc.sent_ref_points), len(curr_doc.all_sent_parsed), len(curr_doc.all_sent_original) )
-
-'''
-Creating the all_sentences.txt file. 
-Segment the sentences and dump each sentence on one line of the file.
-'''
-try: 
-    os.mkdir(subdir + "/annotation") 
-except(FileExistsError): 
-    pass
-currPath = subdir + '/annotation/'
-#            print(currPath,'\n')
-
-curr_doc.createAllSentencesFile(currPath)
-#            curr_doc.showCaptions()
-curr_doc.compileDRefCaptions(currPath)
-d = curr_doc.captions_DRef_dict
-print (d, '\n\n')
-
-curr_doc.createJSONFile(soup_original, currPath, subdir)
-curr_doc.createANNfile(currPath)
-print('\nFinished processing file: ', subdir + '/' + curr_file, '\n')
-print('----------------------------------------\n\n')
+for subdir, dirs, files in os.walk(rootdir):
+    for curr_file in files:
+        if curr_file.lower().endswith('.nxml'):  
+            print('Processing file: ', subdir + '/' + curr_file, '\n')
+            infile = open(subdir + '/' + curr_file, "r")
+#subdir = 'PMC3016212/'
+#curr_file = '228_2010_Article_901.nxml'
+#print('Processing file: ', subdir + '/' + curr_file, '\n')
+#infile = open(subdir + '/' + curr_file, "r")
+            soup = BeautifulSoup(infile, 'xml')
+            soup_original = soup
+            soup_copy = soup
+            filename = os.path.splitext(curr_file)[0]
+            
+            curr_doc = nxmlParser()
+            curr_doc.filename = filename
+            
+            curr_doc.addMarkersToXREF()
+            #            curr_doc.addMarkersToCaptions()
+            
+            '''
+            Segment the Sentences
+            '''
+            soup_copy = soup_original
+            parsed_doc_text = soup.get_text()
+            curr_doc.segmentSentences(parsed_doc_text)
+            
+            curr_doc.getDirectReferences()
+            curr_doc.getCaptions()
+            
+            # Verify that all three lists have the same size
+            #            print (len(curr_doc.sent_ref_points), len(curr_doc.all_sent_parsed), len(curr_doc.all_sent_original) )
+            
+            '''
+            Creating the all_sentences.txt file. 
+            Segment the sentences and dump each sentence on one line of the file.
+            '''
+            try: 
+                os.mkdir(subdir + "/annotation") 
+            except(FileExistsError): 
+                pass
+            currPath = subdir + '/annotation/'
+            #            print(currPath,'\n')
+            
+            curr_doc.createAllSentencesFile(currPath)
+            #            curr_doc.showCaptions()
+            curr_doc.compileDRefCaptions(currPath)
+            d = curr_doc.captions_DRef_dict
+            print (d, '\n\n')
+            
+            curr_doc.createJSONFile(soup_original, currPath, subdir)
+            curr_doc.createANNfile(currPath)
+            print('\nFinished processing file: ', subdir + '/' + curr_file, '\n')
+            print('----------------------------------------\n\n')
 #        elif curr_file.lower().endswith(img_ext):
 #            try:
 #                os.mkdir(subdir + '/images')
