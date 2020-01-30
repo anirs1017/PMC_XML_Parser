@@ -81,7 +81,7 @@ class nxmlParser():
                     print (y.find('label').text + y.find('caption').text, '\n')
                         
     def tokenizeCaption(self, caption_text):
-        caption_text = caption_text.replace(u'\xa0', u' ')
+#        caption_text = caption_text.replace(u'\xa0', u' ')
         tokenized_caption = self.sentenceTokenizer(caption_text)
         store_caption = ""
         for token in tokenized_caption:
@@ -132,9 +132,9 @@ class nxmlParser():
     '''
             
     def sentenceTokenizer(self, input_text):
-#        import unidecode
-#        original_content_text = unidecode.unidecode(input_text)
-        original_content_text = input_text
+        import unidecode
+        original_content_text = unidecode.unidecode(input_text)
+#        original_content_text = input_text
         content_text = re.sub('\s\s+', ' ', original_content_text)
         content_text = re.sub(' +', ' ', content_text)#' +', ' '
          
