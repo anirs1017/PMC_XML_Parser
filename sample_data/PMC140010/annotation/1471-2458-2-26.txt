@@ -88,7 +88,7 @@ Both groups shared similar referral profiles with liver disease being the most p
 In the HBV-positive group, 79 (13%) had acute infection and 537 (87%) had non-acute infection.
 The mean ages for the HBV-positive and the HBV-negative groups did not differ significantly and were 42 and 37, respectively.
 The mean ages for the HBV-positive subgroups were 32 for acute infection and 43 for non-acute infection (P < 0.0001).
-Table 1 summarizes age distribution among individuals infected with HBV according to their different infection status (acute infection versus non-acute infection).
+Table #T1-0#-1 summarizes age distribution among individuals infected with HBV according to their different infection status (acute infection versus non-acute infection).
 Table 1 Distribution of HBV infection according to age and clinical status Age Category (years)
 Acute
 Non-Acute Chronic
@@ -158,7 +158,7 @@ HBsAg was absent in 17/79 (22%) with IgM anti-HBc as the only indicator of activ
 Risk factors
 Differences in the distribution of risk factors were compared between the HBV-positive and -negative groups, with similarities observed for educational level, economic status, and residency (table 2).
 Higher frequencies were observed in the HBV-positive group for history of blood transfusion (15% versus 14%), surgery (40% versus 37%), hemodialysis (9% versus 8%), IDU (1% versus 0.5%), intranasal cocaine use (5% versus 3%), tattooing (4% versus 3%), STD (10% versus 7%), multiple sexual partners (12% versus 6%), and homosexuality (3% versus 2%).
-Adjusted prevalence ratios (table 2) demonstrated HBV-positivity to be associated with history of multiple partners when compared to the HBV-negative group.
+Adjusted prevalence ratios (table #T2-2#-2) demonstrated HBV-positivity to be associated with history of multiple partners when compared to the HBV-negative group.
 Although the associations between IDU and intranasal cocaine use and HBV-positivity were not statistically significant, a significant association was obtained when pooling these two variables in the analysis (PR = 1.8, 95% CI 1.1 – 3.0, p = 0.04).
 Table 2 Prevalence ratios* for risk factors in HBV-positive and HBV-negative groups.
 HBV-positive† (n = 616)

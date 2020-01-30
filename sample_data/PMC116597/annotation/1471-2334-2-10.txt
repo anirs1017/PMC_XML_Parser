@@ -99,7 +99,7 @@ The majority of the cub sera (369 of 499) had maAb titres below the threshold of
 A regression line was fitted to the data, with significant linear (p < 0.0001) decrease of log(maAb) with increasing age (Figure 2).
 Figure 2 Maternal antibody (maAb) titres (n= 499) of the combined data sets of the years 1998–2000 together with the linear regression line indicating the overall trend in the development of log(maAb) of cubs with age [days].
 The estimates of the models' parameters (1) are: a = 0.314, b = 0.329 and n = 0.0727.
-The model predictions are given in Figure 3.
+The model predictions are given in Figure #F3-2#-3.
 The calculated half-life of maAb against rabies is 9.34 days.
 Maternal antibodies of offspring whelped by vixens with high nAb-titres can be detected longer in RFFIT then those of offspring whelped by vixens with relatively low nAb-titres.
 Using equation (2) the critical mean age when cubs' titres equal 0.5 IU/ml in RFFIT was 23 days (range: 14 – 38 days) depending on the nAb-titre of the immunised vixen (Figure 4).
@@ -112,7 +112,7 @@ Obtaining blood samples from cubs at such an early age is not without risks.
 It is known that vixens are very sensitive during the first days after birth and frequent manipulations during this period can lead to behavioural disorders, which often results in the loss of complete litters.
 However, during this study it was shown that blood samples can be taken from cubs aged 6 days or older without complications.
 At first sight, the relatively low (<0.5 IU/ml) maAb titers observed during the first three weeks after birth were surprising.
-The great variance in individual maAb-titres during the first three weeks of cubs (Fig. 1) was similar to that observed in older fox cubs (Fig. 2).
+The great variance in individual maAb-titres during the first three weeks of cubs (Fig. #F1-4#-1) was similar to that observed in older fox cubs (Fig. #F2-5#-2).
 Large differences in maAb-titres were observed even among littermates; these could be a result of difference in suckling behaviour among the cubs [16].
 The initial level of maAb is influenced by many factors; e.g.
 quality and quantity of colostrum and milk-intake as well as body constitution (condition, birth-weight) [16-19].
@@ -127,7 +127,7 @@ A direct proportional relationship between the serum titre of the mother and her
 Our results indicate that the subsequent disappearance rate of maAb in fox cubs was independent of the nAb-titre of the vixen.
 The exponential decline of maAb against rabies in foxes corresponded with the maAb-decline observed for other viruses in canine animal species, whereby maAb persist for up to 8–10 weeks on average [12,13,16].
 The half-life of maAb against rabies in foxes was estimated to be 9.34 days, and is similar to that observed for maAb against canine distemper virus (8.4 days) and canine parvovirus (9.7 days) [13,21].
-However, the disappearance of maAb is also linked with the sensitivity of the serological techniques and the threshold to distinguish between positive and negative used (Fig. 4).
+However, the disappearance of maAb is also linked with the sensitivity of the serological techniques and the threshold to distinguish between positive and negative used (Fig. #F4-6#-4).
 At an international level nAb at concentrations < 0.5 U/ml representing an arbitrarily defined threshold are considered positive whilst such nAb below this threshold cannot be distinguished from unspecific reactions [10].
 Following rabies vaccination of female dogs, maAb in puppies could be detected up to 6–7 weeks post partum, on average [16].
 Taking an estimated mean time period of 23 days into account during which maAb can be distinguished from unspecific reactions in RFFIT (nAb-titre ≥ 0.5 IU/ml) after birth, there is evidence that maAb-titres in fox cubs are not as high as in puppies and therefore appear to decrease more quickly than in dogs.

@@ -1,9 +1,0 @@
-T1	Caption -1 808	Figure 1: A model for heterochromatin assembly at the S. pombe mating-type locus.RNA transcription, presumably from repeated sequences within the locus, produces dsRNA that is rapidly cleaved by Dicer to form siRNAs.The siRNAs target enzymes to the chromatin so as to methylate histone H3 at lysine 9 - H3K9(Me) on the figure.Histone methylation then recruits the Swi6 protein to the heterochromatin nucleation site.The binding of Swi6 to methylated lysine 9 of histone H3 in this nucleation region then promotes spreading of the silent heterochromatin structure into adjacent sequences by further methylation of H3 at lysine 9 and its association with Swi6, throughout the mating-type locus.Broadly similar mechanisms are likely to work in the centromere.Additional factors are discussed further in the text.
-A1	Type T1 Figure
-A2	Num T1 1
-
-T2	Reference 4993 5187	This allows the definition of a pathway of heterochromatin assembly that differentiates between factors required for the establishment and the propagation of a heterochromatin domain (Figure 1).
-A3	RefType T2 Direct
-A4	Type T2 Figure
-A5	Num T2 1
-

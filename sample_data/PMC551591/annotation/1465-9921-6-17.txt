@@ -1,75 +1,44 @@
 Respir Res
 Respiratory Research
 1465-9921
-1465-993X
-BioMed Central
-London
-15707485
+1465-993X BioMed Central
+London 15707485
 551591
 1465-9921-6-17
-10.1186/1465-9921-6-17
-Research
-Chronic pneumonia with Pseudomonas aeruginosa and impaired alveolar fluid clearance
-Boyer
-Sophie
-1
-boyer.s@voila.fr
-Faure
-Karine
-1
-karine-faure@invivo.edu
-Ader
-Florence
-1
-fader@ch-tourcoing.fr
-Husson
-Marie Odile
+10.1186/1465-9921-6-17 Research Chronic pneumonia with Pseudomonas aeruginosa and impaired alveolar fluid clearance Boyer
+Sophie 1
+boyer.s@voila.fr Faure
+Karine 1
+karine-faure@invivo.edu Ader
+Florence 1
+fader@ch-tourcoing.fr Husson
+Marie Odile 2
+MOHUSSON@chru-lille.fr Kipnis
+Eric 1
+ekipnis@mac.com Prangere
+Thierry 3
+t.prangere@voila.fr Leroy
+Xavier 4
+XAVIERLEROY1@aol.com Guery
+Benoit P 1
+bguery@invivo.edu 1Laboratoire de recherche en Pathologie Infectieuse, EA 2689.
+Faculté de Médecine de Lille, 59031 Lille Cedex, France 2Laboratoire de Bactériologie; Hôpital Calmette, CHRU de Lille, Lille, France 3Laboratoire de Biophysique, CHRU, Lille, France 4Laboratoire d'anatomo-pathologie, CHRU Lille, France 2005 11
 2
-MOHUSSON@chru-lille.fr
-Kipnis
-Eric
-1
-ekipnis@mac.com
-Prangere
-Thierry
-3
-t.prangere@voila.fr
-Leroy
-Xavier
-4
-XAVIERLEROY1@aol.com
-Guery
-Benoit P
-1
-bguery@invivo.edu
-1Laboratoire de recherche en Pathologie Infectieuse, EA 2689.
-Faculté de Médecine de Lille, 59031 Lille Cedex, France
-2Laboratoire de Bactériologie; Hôpital Calmette, CHRU de Lille, Lille, France
-3Laboratoire de Biophysique, CHRU, Lille, France
-4Laboratoire d'anatomo-pathologie, CHRU Lille, France
-2005
-11
-2
-2005
-6
+2005 6
 1
 17
-17
-21
+17 21
 10
-2004
-11
+2004 11
 2
-2005
-Copyright © 2005 Boyer et al; licensee BioMed Central Ltd.
+2005 Copyright © 2005 Boyer et al; licensee BioMed Central Ltd.
 2005
 Boyer et al; licensee BioMed Central Ltd.
 This is an Open Access article distributed under the terms of the Creative Commons Attribution License (), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
 Background
 While the functional consequences of acute pulmonary infections are widely documented, few studies focused on chronic pneumonia.
 We evaluated the consequences of chronic Pseudomonas lung infection on alveolar function.
-Methods
-P. aeruginosa, included in agar beads, was instilled intratracheally in Sprague Dawley rats.
+Methods P. aeruginosa, included in agar beads, was instilled intratracheally in Sprague Dawley rats.
 Analysis was performed from day 2 to 21, a control group received only sterile agar beads.
 Alveolar-capillary barrier permeability, lung liquid clearance (LLC) and distal alveolar fluid clearance (DAFC) were measured using a vascular (131I-Albumin) and an alveolar tracer (125I-Albumin).
 Results
@@ -82,8 +51,7 @@ Conclusions
 From these results, we observe an adequate initial alveolar response to increased permeability with an increase of DAFC.
 However, DAFC increase does not persist after the 5th day and remains unresponsive to stimulation.
 This impairment of DAFC may partly explain the higher susceptibility of chronically infected patients to subsequent lung injury.
-Introduction
-Pseudomonas aeruginosa is a Gram negative bacteria producing a wide array of virulence factors frequently responsible for chronic airway infections in cystic fibrosis (CF) or chronic obstructive pneumonia disease (COPD) patients, as well as acute nosocomial airway infections in intensive care units [1-3].
+Introduction Pseudomonas aeruginosa is a Gram negative bacteria producing a wide array of virulence factors frequently responsible for chronic airway infections in cystic fibrosis (CF) or chronic obstructive pneumonia disease (COPD) patients, as well as acute nosocomial airway infections in intensive care units [1-3].
 In acute P. aeruginosa pneumonia, the functional consequences, and particularly lung fluid movements, have been studied extensively.
 Lung fluid balance is the result of fluid movements following active ion transport by functional alveolar cells, and permeability of the alveolar capillary barrier.
 In P. aeruginosa-induced acute lung injury (ALI), distal airspace fluid clearance (DAFC) is typically increased at 24 hours through a TNF-α pathway [4].
@@ -96,8 +64,7 @@ Most of the work performed with this model has focused on immunological, inflamm
 To the best of our knowledge, no previous work has tried to evaluate alveolar permeability and lung fluid transport in P. aeruginosa chronic lung infection.
 In order to elucidate these functional aspects we studied lung fluid transport in an experimental model of chronic P. aeruginosa lung infection in the rat.
 After the validation of the experimental model, we studied alveolar function: alveolar-capillary barrier permeability, lung liquid clearance, distal airspace fluid clearance and its pharmacologic stimulation.
-Materials and Methods
-Animals
+Materials and Methods Animals
 Specific pathogen-free Sprague Dawley rats (n = 280) (230–270 g), (Depre, St Doulchard, France) were housed in the Lille University Animal Care Facility and allowed food and water ad lib.
 All experiments were performed with approval of the Lille Institutional Animal Care and Use Committee.
 Preparation of the bacterial inoculum
@@ -140,8 +107,7 @@ Blood and broncho-alveolar lavage fluid were collected on heparin/Na-metabisulfi
 The samples were centrifuged (2500 g, 4°C), supernatants were frozen (-80°C).
 Catecholamines are specifically fixed on alumina (pH = 8.7), the eluent is analyzed with an inversed phase H.P.L.C (Coulochem II ESA).
 The results are expressed in μg/L.
-Functional study
-Surgical preparation
+Functional study Surgical preparation
 Sprague-Dawley male rats were anesthetized with pentobarbital (Sanofi, Libourne, France).
 A catheter (PE-50) was inserted into the left carotid artery in order to monitor systemic arterial pressure (Acqknowledge Software v 3.7.1, Biopac systems, Santa Barbara, CA, USA) and obtain blood samples.
 An endotracheal tube (PE-220) was inserted through a tracheostomy.
@@ -191,65 +157,47 @@ Comparisons between two groups were made using an unpaired, two tailed Student's
 Comparisons between more than two groups were made using a one way analysis of variance with post hoc test for multiple comparisons.
 A value of p < 0.05 was considered as significant.
 The data are expressed as means ± SD.
-Results
-Pseudomonas beads instillation is associated with the development of a chronic infection
-Clinically, a major weight loss was observed from the second day in P. aeruginosa beads infected animals compared to the sterile beads groups (Figure 1).
+Results Pseudomonas beads instillation is associated with the development of a chronic infection
+Clinically, a major weight loss was observed from the second day in P. aeruginosa beads infected animals compared to the sterile beads groups (Figure #F1-0#-1).
 5% of the infected animals died within the first 48 hours after inoculation, none did in the sterile groups.
-&-$Star
+Figure 1 Evolution of animals' weight during the four weeks of the analysis.
 An initial weight loss is observed for the infected animals compared to the sterile beads group.
 Footnote: Data are mean (± SD).
 Comparisons between groups were made using analysis of variance.
 *p < 0.05 vs the Pn group.
-Pn: Pneumonic animals, St: animals which received only sterile beads
-Prior to the instillation, the size of the inoculum was 7.9 105 ± 1.5 105 CFU/mL.
+Pn: Pneumonic animals, St: animals which received only sterile beads Prior to the instillation, the size of the inoculum was 7.9 105 ± 1.5 105 CFU/mL.
 Lung bacterial load reached a peak on the second day of the infection; from the 5th day, a progressive decrease occurred to finally remain steady between the 15th day (8.25 ± 5.2 104 CFU/mL) and the 3rd week (1.67 ± 1.63 105 CFU/mL).
 Total broncho-alveolar lavage (BAL) cells slightly increased in the sterile beads group, the difference was however not statistically significant compared to the control group, the analysis showed that the number of cells peaked on the second day and was constituted, at that time, of 25% polymorphonuclear cells and 75% macrophages.
 The results were not statistically different over time and therefore pooled in Table 1.
 In the infected groups, alveolar cellularity was maximum on the 2nd day mostly polymorphonuclear's neutrophils (PMN).
 From the 8th day, the relative number of PMN progressively decreased as alveolar macrophages increased.
-All the results are summarized in Table 1.
-Table 1:
-Analysis of the bronchoalveolar lavage All the animals who received sterile beads were included in the sterile group and compared to the control and pneumonic groups at respectively 2, 5, 8, 15 and 21 days post instillation.
+All the results are summarized in Table #T1-2#-1.
+Table 1 Analysis of the bronchoalveolar lavage All the animals who received sterile beads were included in the sterile group and compared to the control and pneumonic groups at respectively 2, 5, 8, 15 and 21 days post instillation.
 Total cells (× 106)/mL
 PMNs (%)
-Macrophages (%)
-Ctr
+Macrophages (%) Ctr
 0.4 ± 0.1
 0.5 ± 0.4
-98.5 ± 0.5
-St
-3.2 ± 0.6
+98.5 ± 0.5 St 3.2 ± 0.6
 5.6 ± 4.4
-92.9 ± 4.4
-Pn 2
-10.5 ± 2.9*
+92.9 ± 4.4 Pn 2 10.5 ± 2.9*
 79.8 ± 5.2*
-19.0 ± 4.6*
-Pn 5
-7.9 ± 1.7*
+19.0 ± 4.6* Pn 5 7.9 ± 1.7*
 19.0 ± 8.0
-79.3 ± 8.4
-Pn 8
-4.9 ± 1.0
+79.3 ± 8.4 Pn 8 4.9 ± 1.0
 3.8 ± 0.7
-95.5 ± 1.0
-Pn 15
-4.0 ± 0.8
+95.5 ± 1.0 Pn 15 4.0 ± 0.8
 1.2 ± 0.6
-98.8 ± 0.6
-Pn 21
-4.9 ± 1.8
+98.8 ± 0.6 Pn 21 4.9 ± 1.8
 2.0 ± 0.6
-97.2 ± 0.6
-Footnote: Data are mean (± SD).
+97.2 ± 0.6 Footnote: Data are mean (± SD).
 Comparisons between groups were made using analysis of variance with post hoc for multiple comparisons.
 *p < 0.05 vs the other groups.
-PMNs: Polymorphonuclear neutrophils, Ctr: Control group, St: Sterile group, Pn: Pneumonic group
-Histologically, in the infected groups, from the 2nd day, large numbers of PMNs were observed, mostly centered on the alveoli (Figure 2C–D).
+PMNs: Polymorphonuclear neutrophils, Ctr: Control group, St: Sterile group, Pn: Pneumonic group Histologically, in the infected groups, from the 2nd day, large numbers of PMNs were observed, mostly centered on the alveoli (Figure 2C–D).
 Agar beads were clearly observed in the Pn2 group (Figure 2D).
 With time, increased extracellular material became more prominent (Figure 2G–L).
-The lung architecture of animals inoculated with sterile beads remained strictly normal (Figure 2A–B).
-&-$Star
+The lung architecture of animals inoculated with sterile beads remained strictly normal (Figure #F2-6#-2A–B).
+Figure 2 Histological analysis of the different groups, controls and sterile beads instilled animals are compared to pneumonic rats from the second to the 21st day post instillation.
 Coloration was performed with Hematoxyline-Eosine-Safran.
 A: Control group; B: Sterile beads; C-D: Pneumonia on the 2nd day (the arrow on panel D underlines infected beads); E-F: Pneumonia on the 5th day; G-H: Pneumonia on the 8th day; I-J: Pneumonia on the 15th day; K-L: Pneumonia on the 21st day.
 A transient increase of alveolar-capillary barrier permeability is observed on the second day post infection
@@ -259,43 +207,29 @@ This ratio came back to control values from the fifth to the 28th day.
 In the St group a moderate but significant increase of the Asp/plasma ratio was observed throughout the study (0.31 ± 0.04).
 Both lung liquid clearance and DAFC increased on the 2nd day post infection; DAFC increase is not related to a TNF-α or catecholamine dependent mechanism
 • Extra-vascular lung water and Lung liquid clearance (LLC)
-As shown in Table 2, no difference in wet to dry lung weight ratio was observed between the groups.
+As shown in Table #T2-7#-2, no difference in wet to dry lung weight ratio was observed between the groups.
 LLC increased in the pneumonic group on the second day after the infection (p = 0.02) to return to baseline on the 5th day.
 A moderate but not statistically significant increase was observed in the Pn15 group (p = 0.13).
-&-$Star
+Table 2 Lung liquid clearance (LLC) and lung wet to dry weight ratio (W/D).
 LLC increases on the second day post instillation and returns to baseline on the fifth day.
-.
+W/D remains constant over time.
 W/D
-LLC (%)
-Ctr
+LLC (%) Ctr
 4.33 ± 0.87
-22.24 ± 3.65
-St
-4.29 ± 0.24
-36.53 ± 4.95
-Pn 2
-4.66 ± 0.51
-45.51 ± 4.26 *
-Pn 5
-4.03 ± 0.27
-20.99 ± 5.94
-Pn 8
-3.47 ± 0.81
-23.01 ± 2.80
-Pn 15
-3.92 ± 0.29
-36.21 ± 8.23
-Pn 21
-4.31 ± 0.07
-22.37 ± 2.56
-Footnote: Data are mean (± SD).
+22.24 ± 3.65 St 4.29 ± 0.24
+36.53 ± 4.95 Pn 2 4.66 ± 0.51
+45.51 ± 4.26 * Pn 5 4.03 ± 0.27
+20.99 ± 5.94 Pn 8 3.47 ± 0.81
+23.01 ± 2.80 Pn 15 3.92 ± 0.29
+36.21 ± 8.23 Pn 21 4.31 ± 0.07
+22.37 ± 2.56 Footnote: Data are mean (± SD).
 Comparisons between groups were made using analysis of variance with post hoc for multiple comparisons.
 *p < 0,05 vs the other groups.
 Ctr: Control group, St: Sterile group, Pn: Pneumonic groups from the 2nd to the 21st days.
 • Distal alveolar fluid clearance
-Distal alveolar fluid clearance increased in the Pn2 group (Figure 3).
+Distal alveolar fluid clearance increased in the Pn2 group (Figure #F3-8#-3).
 This ratio decreased back to baseline on the 5th day and remained comparable to both the St and the Ctr groups.
-&-$Star
+Figure 3 Evolution of the DAFC over time in sterile and infected beads injected groups.
 We observe an increase on the 2nd day post infection, the clearance returns to a basal level on the 5th day.
 Footnote: Data are mean (± SD).
 Comparisons between groups were made using analysis of variance with post hoc for multiple comparisons.
@@ -304,21 +238,16 @@ DAFC: distal alveolar fluid clearance, Ctr: Control group, St: sterile beads inj
 We tested whether the increase in DAFC observed at 48 hours was related to a TNF-α or a catecholamine dependent mechanism.
 No TNF-α was detected between the 2nd and 21st days in the serum or the alveolar compartment.
 Similarly, neither epinephrine nor nor-epinephrine could be detected in the alveolar compartment at 48 hours.
-The levels recovered in the plasma were comparable between control and pneumonic animals on the 2nd and the 5th days (Table 3).
-&-$Star
+The levels recovered in the plasma were comparable between control and pneumonic animals on the 2nd and the 5th days (Table #T3-9#-3).
+Table 3 Plasma catecholamines measurement Plasma catecholamines were measured in pneumonic animals on the 2nd and the 5th day post instillation compared to the control group.
 No statistically significant difference could be observed.
 Ctr
 Pn2
-Pn5
-Epinephrine (μg/L)
-8.5 ± 2.1
+Pn5 Epinephrine (μg/L) 8.5 ± 2.1
 11.2 ± 4.9
-14.2 ± 3.5
-Norepinephrine (μg/L)
-5.8 ± 0.8
+14.2 ± 3.5 Norepinephrine (μg/L) 5.8 ± 0.8
 7.0 ± 2.2
-8.2 ± 1.9
-Footnote: Data are mean (± SD).
+8.2 ± 1.9 Footnote: Data are mean (± SD).
 Comparisons between groups were made using analysis of variance with post hoc for multiple comparisons.
 Ctr: Control group, St: Sterile group, Pn: Pneumonic groups.
 Distal airspace fluid clearance cannot be stimulated on the 5th day post infection even after bacterial eradication
@@ -328,7 +257,7 @@ This absence of the expected response led us to test the DAFC response, in each 
 • Terbutaline
 The administration of terbutaline is associated with an increase in DAFC in controls.
 Stimulation with terbutaline intratracheally could not increase DAFC on the 5th day post infection, the intraperitoneal injection also failed to increase DAFC (Figure 4).
-&-$Star
+Figure 4 Evaluation of DAFC in the control compared to the pneumonic groups on the fifth day post instillation at baseline and after stimulation with terbutaline.
 A last group received terbutaline after bacterial eradication with ceftazidime administered intraperitoneally.
 None of the pneumonic groups could increase DAFC after either stimulation or bacterial eradication.
 Footnote: Data are mean (± SD).
@@ -339,7 +268,7 @@ Ctr: Control group, Terbut: Control instilled with terbutaline (10-4 M), St + Te
 • Terbutaline after bacterial eradication
 In order to eliminate the possibility of a direct bacterial effect inhibiting the expected response in the chronically infected animals, we performed a comparable stimulation with terbutaline on 10 animals treated with ceftazidime initiated 24 hours after the infection.
 On the 5th day, all lungs were sterilized and measurement of ceftazidime levels showed a steady state level at 46.3 ± 4.8 μg/mL.
-However, even after the eradication of the pathogen, DAFC remained unresponsive to beta-adrenergic stimulation (Figure 4).
+However, even after the eradication of the pathogen, DAFC remained unresponsive to beta-adrenergic stimulation (Figure #F4-11#-4).
 Discussion
 In our study we validated an experimental model allowing us to explore alveolar function in chronic P. aeruginosa lung infection through measurements of lung liquid movements.
 In this model of chronic P. aeruginosa lung infection, after observing an initial increase of both alveolar permeability and lung fluid movements, we characterized an impairment of DAFC where, even though DAFC returned to baseline, it remained unresponsive to pharmacological stimuli.
@@ -399,519 +328,338 @@ XL performed all the histological analysis.
 BG was involved in the acquisition of the data, the design and the conception of the study as well as the drafting of the article.
 All the authors read and approved the final manuscript.
 Gibson
-RL
-Burns
-JL
-Ramsey
-BW
-Pathophysiology and management of pulmonary infections in cystic fibrosis
+RL Burns
+JL Ramsey
+BW Pathophysiology and management of pulmonary infections in cystic fibrosis
 Am J Respir Crit Care Med
 2003
 168
 918
 951
 14555458
-10.1164/rccm.200304-505SO
-Chastre
-J
-Fagon
-JY
-Ventilator-associated pneumonia
+10.1164/rccm.200304-505SO Chastre
+J Fagon
+JY Ventilator-associated pneumonia
 Am J Respir Crit Care Med
 2002
 165
 867
 903
-11934711
-Fagon
-JY
-Chastre
-J
-Domart
-Y
-Trouillet
-JL
-Gibert
-C
-Mortality due to ventilated-associated pneumonia or colonization with Pseudomonas or Acinetobacter species : assessment by quantitative culture of samples obtained by a protected specimen brush
+11934711 Fagon
+JY Chastre
+J Domart
+Y Trouillet
+JL Gibert
+C Mortality due to ventilated-associated pneumonia or colonization with Pseudomonas or Acinetobacter species : assessment by quantitative culture of samples obtained by a protected specimen brush
 Clin Infect Dis
 1996
 23
 538
 542
-8879777
-Rezaiguia
-S
-Garat
-C
-Delclaux
-C
-Fleury
-J
-Legrand
-P
-Matthay
-MA
-Jayr
-C
-Acute bacterial pneumonia in rats increases alveolar epithelial fluid clearance by a tumor necrosis factor-alpha-dependent mechanism
+8879777 Rezaiguia
+S Garat
+C Delclaux
+C Fleury
+J Legrand
+P Matthay
+MA Jayr
+C Acute bacterial pneumonia in rats increases alveolar epithelial fluid clearance by a tumor necrosis factor-alpha-dependent mechanism
 J Clin Invest
 1997
 99
 325
 335
-9006001
-Matthay
-MA
-Wiener-Kronish
-JP
-Intact epithelial barrier function is critical for the resolution of alveolar edema in humans
+9006001 Matthay
+MA Wiener-Kronish
+JP Intact epithelial barrier function is critical for the resolution of alveolar edema in humans
 Am Rev Respir Dis
 1990
 142
 1250
 1257
-2252240
-Ware
-LB
-Matthay
-MA
-Alveolar fluid clearance is impaired in the majority of patients with acute lung injury and the acute respiratory distress syndrome
+2252240 Ware
+LB Matthay
+MA Alveolar fluid clearance is impaired in the majority of patients with acute lung injury and the acute respiratory distress syndrome
 Am J Respir Crit Care Med
 2001
 163
 1376
 1383
-11371404
-Viget
-N
-Guery
-B
-Ader
-F
-Nevière
-R
-Alfandari
-S
-Creusy
-C
-Roussel-Delvallez
-M
-Foucher
-C
-Mason
-CM
-Beaucaire
-G
-Pittet
-JF
-Keratinocyte Growth Factor protects against Pseudomonas aeruginosa-induced lung injury
+11371404 Viget
+N Guery
+B Ader
+F Nevière
+R Alfandari
+S Creusy
+C Roussel-Delvallez
+M Foucher
+C Mason
+CM Beaucaire
+G Pittet
+JF Keratinocyte Growth Factor protects against Pseudomonas aeruginosa-induced lung injury
 Am J Physiol Lung Cell Mol Physiol
 2000
 279
 L1199
 L1209
-11076810
-Cash
-HA
-Woods
-DE
-McCullough
-B
-Johanson
-WGJ
-Bass
-JA
-A rat model of chronic respiratory infection with Pseudomonas aeruginosa
+11076810 Cash
+HA Woods
+DE McCullough
+B Johanson
+WGJ Bass
+JA A rat model of chronic respiratory infection with Pseudomonas aeruginosa
 Am Rev Respir Dis
 1979
 119
 453
 459
-109021
-Amano
-H
-Oishi
-K
-Sonoda
-F
-Senba
-M
-Wada
-A
-Nakagawa
-H
-Nagatake
-T
-Role of cytokine-induced neutrophil chemoattractant-2 (CINC-2) alpha in a rat model of chronic bronchopulmonary infections with Pseudomonas aeruginosa
+109021 Amano
+H Oishi
+K Sonoda
+F Senba
+M Wada
+A Nakagawa
+H Nagatake
+T Role of cytokine-induced neutrophil chemoattractant-2 (CINC-2) alpha in a rat model of chronic bronchopulmonary infections with Pseudomonas aeruginosa
 Cytokine
 2000
 12
 1662
 1668
 11052817
-10.1006/cyto.2000.0771
-Morissette
-C
-Skamene
-E
-Gervais
-F
-Endobronchial inflammation following Pseudomonas aeruginosa infection in resistant and susceptible strains of mice
+10.1006/cyto.2000.0771 Morissette
+C Skamene
+E Gervais
+F Endobronchial inflammation following Pseudomonas aeruginosa infection in resistant and susceptible strains of mice
 Infect Immun
 1995
 63
 1718
 1724
-7729877
-van Heeckeren
-AM
-Tscheikuna
-J
-Walenga
-RW
-Konstan
-MW
-Davis
-PB
-Erokwu
-B
-Haxhiu
-MA
-Ferkol
-TW
-Effect of Pseudomonas infection on weight loss, lung mechanics, and cytokines in mice
+7729877 van Heeckeren
+AM Tscheikuna
+J Walenga
+RW Konstan
+MW Davis
+PB Erokwu
+B Haxhiu
+MA Ferkol
+TW Effect of Pseudomonas infection on weight loss, lung mechanics, and cytokines in mice
 Am J Respir Crit Care Med
 2000
 161
 271
 279
-10619831
-van Heeckeren
-AM
-Schluchter
-MD
-Murine models of chronic Pseudomonas aeruginosa lung infection
+10619831 van Heeckeren
+AM Schluchter
+MD Murine models of chronic Pseudomonas aeruginosa lung infection
 Lab Anim
 2002
 36
 291
 312
 12144741
-10.1258/002367702320162405
-McElroy
-MC
-Wiener-Kronish
-JP
-Miyazaki
-H
-Sawa
-T
-Modelska
-K
-Dobbs
-LG
-Pittet
-JF
-Nitric oxide attenuates lung endothelial injury caused by sublethal hyperoxia in rats
+10.1258/002367702320162405 McElroy
+MC Wiener-Kronish
+JP Miyazaki
+H Sawa
+T Modelska
+K Dobbs
+LG Pittet
+JF Nitric oxide attenuates lung endothelial injury caused by sublethal hyperoxia in rats
 Am J Physiol
 1997
 272
 L631
 L638
-9142935
-Modelska
-K
-Matthay
-MA
-McElroy
-MC
-Pittet
-JF
-Upregulation of alveolar liquid clearance after fluid resuscitation for hemorrhagic shock in rats
+9142935 Modelska
+K Matthay
+MA McElroy
+MC Pittet
+JF Upregulation of alveolar liquid clearance after fluid resuscitation for hemorrhagic shock in rats
 Am J Physiol
 1997
 273
 L305
 L314
-9277441
-Pittet
-J
-Hashimoto
-S
-Pian
-M
-McElroy
-MC
-Nitenberg
-G
-Wiener-Kronish
-JP
-Exotoxin A stimulates fluid reabsorption from distal airspaces of lung in anesthetized rats
+9277441 Pittet
+J Hashimoto
+S Pian
+M McElroy
+MC Nitenberg
+G Wiener-Kronish
+JP Exotoxin A stimulates fluid reabsorption from distal airspaces of lung in anesthetized rats
 Am J Physiol
 1996
 270
 L232
 L241
-8779992
-Jayr
-C
-Garat
-C
-Meignan
-M
-Pittet
-J
-Harf
-A
-Matthay
-MA
-Basal and stimulated alveolar and lung liquid clearance in ventilated, anesthetized rats
+8779992 Jayr
+C Garat
+C Meignan
+M Pittet
+J Harf
+A Matthay
+MA Basal and stimulated alveolar and lung liquid clearance in ventilated, anesthetized rats
 J Appl Physiol
 1994
 76
 2636
 2642
 7928894
-10.1063/1.357560
-Graham
-LM
-Vasil
-A
-Vasil
-ML
-Voelkel
-NF
-Stenmark
-KR
-Decreased pulmonary vasoreactivity in an animal model of chronic Pseudomonas pneumonia
+10.1063/1.357560 Graham
+LM Vasil
+A Vasil
+ML Voelkel
+NF Stenmark
+KR Decreased pulmonary vasoreactivity in an animal model of chronic Pseudomonas pneumonia
 Am Rev Respir Dis
 1990
 142
 221
 229
-2368972
-Johansen
-HK
-Espersen
-F
-Pedersen
-SS
-Hougen
-HP
-Rygaard
-J
-Hoiby
-N
-Chronic Pseudomonas aeruginosa lung infection in normal and athymic rats
+2368972 Johansen
+HK Espersen
+F Pedersen
+SS Hougen
+HP Rygaard
+J Hoiby
+N Chronic Pseudomonas aeruginosa lung infection in normal and athymic rats
 APMIS
 1993
 101
 207
 225
-8507458
-Nacucchio
-MC
-Cerquetti
-MC
-Meiss
-RP
-Sordelli
-DO
-Short communication.
+8507458 Nacucchio
+MC Cerquetti
+MC Meiss
+RP Sordelli
+DO Short communication.
 Role of agar beads in the pathogenicity of Pseudomonas aeruginosa in the rat respiratory tract
 Pediatr Res
 1984
 18
 295
 296
-6728563
-Ishihara
-H
-Honda
-I
-Shimura
-S
-Sasaki
-H
-Takishima
-T
-Role of chronic Pseudomonas aeruginosa infection in airway mucosal permeability
+6728563 Ishihara
+H Honda
+I Shimura
+S Sasaki
+H Takishima
+T Role of chronic Pseudomonas aeruginosa infection in airway mucosal permeability
 Chest
 1991
 100
 1607
 1613
-1959404
-Pittet
-J
-Wiener-Kronish
-JP
-McElroy
-MC
-Folkesson
-HG
-Matthay
-MA
-Stimulation of lung epithelial liquid clearance by endogenous release of catecholamines in septic shock in anesthetized rats
+1959404 Pittet
+J Wiener-Kronish
+JP McElroy
+MC Folkesson
+HG Matthay
+MA Stimulation of lung epithelial liquid clearance by endogenous release of catecholamines in septic shock in anesthetized rats
 J Clin Invest
 1994
 94
 663
 671
-8040320
-Garat
-C
-Rezaiguia
-S
-Meignan
-M
-D'Ortho
-MP
-Harf
-A
-Matthay
-MA
-Jayr
-C
-Alveolar endotoxin increases alveolar liquid clearance in rats
+8040320 Garat
+C Rezaiguia
+S Meignan
+M D'Ortho
+MP Harf
+A Matthay
+MA Jayr
+C Alveolar endotoxin increases alveolar liquid clearance in rats
 J Appl Physiol
 1995
 79
 2021
 2028
-8847269
-Folkesson
-HG
-Pittet
-JF
-Nitenberg
-G
-Matthay
-MA
-Transforming growth factor-alpha increases alveolar liquid clearance in anesthetized ventilated rats
+8847269 Folkesson
+HG Pittet
+JF Nitenberg
+G Matthay
+MA Transforming growth factor-alpha increases alveolar liquid clearance in anesthetized ventilated rats
 Am J Physiol
 1996
 271
 L236
 L244
-8770062
-Sakuma
-T
-Folkesson
-HG
-Suzuki
-S
-Okaniwa
-G
-Fujimura
-S
-Matthay
-MA
-Beta-adrenergic agonist stimulated alveolar fluid clearance in ex vivo human and rat lungs
+8770062 Sakuma
+T Folkesson
+HG Suzuki
+S Okaniwa
+G Fujimura
+S Matthay
+MA Beta-adrenergic agonist stimulated alveolar fluid clearance in ex vivo human and rat lungs
 Am J Respir Crit Care Med
 1997
 155
 506
 512
-9032186
-Crandall
-E
-Heming
-TA
-Palombo
-RL
-Goodman
-B
-Effects of terbutaline on sodium transport in isolated perfused rat lung
+9032186 Crandall
+E Heming
+TA Palombo
+RL Goodman
+B Effects of terbutaline on sodium transport in isolated perfused rat lung
 J Appl Physiol
 1986
 60
 289
 294
-3944038
-Sakuma
-T
-Okaniwa
-G
-Nakada
-T
-Nishimura
-T
-Fujimura
-S
-Matthay
-MA
-Alveolar fluid clearance in the resected human lung
+3944038 Sakuma
+T Okaniwa
+G Nakada
+T Nishimura
+T Fujimura
+S Matthay
+MA Alveolar fluid clearance in the resected human lung
 Am J Respir Crit Care Med
 1994
 150
 305
 310
-8049807
-Nishikawa
-M
-Mak
-JC
-Shirasaki
-H
-Harding
-SE
-Barnes
-PJ
-Long-term exposure to norepinephrine results in down-regulation and reduced mRNA expression of pulmonary beta-adrenergic receptors in guinea pigs
+8049807 Nishikawa
+M Mak
+JC Shirasaki
+H Harding
+SE Barnes
+PJ Long-term exposure to norepinephrine results in down-regulation and reduced mRNA expression of pulmonary beta-adrenergic receptors in guinea pigs
 Am J Respir Cell Mol Biol
 1994
 10
 91
 99
-8292387
-Kume
-H
-Takagi
-K
-Inhibition of beta-adrenergic desensitization by KCa channels in human trachealis
+8292387 Kume
+H Takagi
+K Inhibition of beta-adrenergic desensitization by KCa channels in human trachealis
 Am J Respir Crit Care Med
 1999
 159
 452
 460
-9927357
-Georges
-H
-Leroy
-O
-Guery
-B
-Alfandari
-S
-Beaucaire
-G
-Predisposing factors for nosocomial pneumonia in patients receiving mechanical ventilation and requiring tracheotomy
+9927357 Georges
+H Leroy
+O Guery
+B Alfandari
+S Beaucaire
+G Predisposing factors for nosocomial pneumonia in patients receiving mechanical ventilation and requiring tracheotomy
 Chest
 2000
 118
 767
 774
 10988201
-10.1378/chest.118.3.767
-Leroy
-O
-Devos
-P
-Guery
-B
-Georges
-H
-Vandenbussche
-C
-Coffinier
-C
-Thevenin
-D
-Beaucaire
-G
-Simplified prediction rule for prognosis of patients with severe community-acquired pneumonia in ICUs
+10.1378/chest.118.3.767 Leroy
+O Devos
+P Guery
+B Georges
+H Vandenbussche
+C Coffinier
+C Thevenin
+D Beaucaire
+G Simplified prediction rule for prognosis of patients with severe community-acquired pneumonia in ICUs
 Chest
 1999
 116

@@ -20,7 +20,7 @@ Double-stranded RNA (dsRNA) amplified by RdRP is processed by the Dicer enzyme t
 The siRNAs then target the mRNA homologous to the siRNA for destruction.
 The RISC complex is thought to promote methylation of the DNA [17,18], which further inhibits transcription in the region.The two recent studies [6,7] implicate these same RNAi enzymes specifically in the initiation of chromatin silencing and heterochromatin assembly in S. pombe.
 These findings additionally indicate that maintenance of silencing requires other mechanisms, including Swi6-dependent spreading of heterochromatin.
-This allows the definition of a pathway of heterochromatin assembly that differentiates between factors required for the establishment and the propagation of a heterochromatin domain (Figure 1).
+This allows the definition of a pathway of heterochromatin assembly that differentiates between factors required for the establishment and the propagation of a heterochromatin domain (Figure #F1-0#-1).
 Homologs of the genes encoding Dicer (dcr1+), Argonaute (ago1+) and RdRP (rdp1+), identified by the fission yeast genome project [19], were cloned and disrupted.
 The mutants are viable but defective in chromosome transmission and centromeric silencing.
 A mechanism underlying the role for RNAi in these processes was suggested by the accumulation of RNA transcripts in the mutants that correspond to heterochromatic centromere repeat sequences.

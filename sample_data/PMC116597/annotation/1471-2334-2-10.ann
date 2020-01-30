@@ -1,51 +1,27 @@
-T1	Caption 8439 8593	Figure 1 Individual maternal antibody (maAb) titre (n = 282) of the 64 fox cubs born to vaccinated vixens during the experimental study conducted in 2000.
+T1	Caption 8424 8578	Figure 1 Individual maternal antibody (maAb) titre (n = 282) of the 64 fox cubs born to vaccinated vixens during the experimental study conducted in 2000.
 A1	Type T1 Figure
 A2	Num T1 1
 
-T2	Reference 8312 8438	This diminishing variance was particularly obvious in those cubs having maAb-titres above the threshold of 0.5 IU/ml (Fig. 1).
+T2	Reference 8297 8423	This diminishing variance was particularly obvious in those cubs having maAb-titres above the threshold of 0.5 IU/ml (Fig. 1).
 A3	RefType T2 Direct
 A4	Type T2 Figure
 A5	Num T2 1
 
-T3	Reference -1 153	The great variance in individual maAb-titres during the first three weeks of cubs (Fig. 1) was similar to that observed in older fox cubs (Fig. #F2-5#-2).
-A6	RefType T3 Direct
+T3	Caption 9137 9362	Figure 2 Maternal antibody (maAb) titres (n= 499) of the combined data sets of the years 1998–2000 together with the linear regression line indicating the overall trend in the development of log(maAb) of cubs with age [days].
 A7	Type T3 Figure
-A8	Num T3 1
+A8	Num T3 2
 
-T4	Caption -1 224	Figure 2 Maternal antibody (maAb) titres (n= 499) of the combined data sets of the years 1998–2000 together with the linear regression line indicating the overall trend in the development of log(maAb) of cubs with age [days].
+T4	Reference 9004 9136	A regression line was fitted to the data, with significant linear (p < 0.0001) decrease of log(maAb) with increasing age (Figure 2).
+A9	RefType T4 Direct
 A10	Type T4 Figure
 A11	Num T4 2
 
-T5	Reference 9023 9155	A regression line was fitted to the data, with significant linear (p < 0.0001) decrease of log(maAb) with increasing age (Figure 2).
-A12	RefType T5 Direct
+T5	Caption 10166 10312	Figure 4 Relation between the neutralizing antibody titre (nAb) of the vixen and the time (age) when maAb of cubs disappear (<0.5 IU/ml) in RFFIT.
 A13	Type T5 Figure
-A14	Num T5 2
+A14	Num T5 4
 
-T6	Reference 11313 11460	The great variance in individual maAb-titres during the first three weeks of cubs (Fig. 1) was similar to that observed in older fox cubs (Fig. 2).
+T6	Reference 9741 9920	Using equation (2) the critical mean age when cubs' titres equal 0.5 IU/ml in RFFIT was 23 days (range: 14 – 38 days) depending on the nAb-titre of the immunised vixen (Figure 4).
 A15	RefType T6 Direct
 A16	Type T6 Figure
-A17	Num T6 2
-
-T7	Caption -1 243	Figure 3 Non-linear regression model fitted to the combined data set (1998–2000) showing the maternal antibody (maAb) titre of cubs in dependency on the neutralizing antibody (nAb) titre of the mother animal (VT) and the age of the cubs (days).
-A19	Type T7 Figure
-A20	Num T7 3
-
-T8	Reference 9470 9514	The model predictions are given in Figure 3.
-A21	RefType T8 Direct
-A22	Type T8 Figure
-A23	Num T8 3
-
-T9	Caption 10184 10330	Figure 4 Relation between the neutralizing antibody titre (nAb) of the vixen and the time (age) when maAb of cubs disappear (<0.5 IU/ml) in RFFIT.
-A25	Type T9 Figure
-A26	Num T9 4
-
-T10	Reference -1 178	Using equation (2) the critical mean age when cubs' titres equal 0.5 IU/ml in RFFIT was 23 days (range: 14 – 38 days) depending on the nAb-titre of the immunised vixen (Figure 4).
-A27	RefType T10 Direct
-A28	Type T10 Figure
-A29	Num T10 4
-
-T11	Reference 13375 13553	However, the disappearance of maAb is also linked with the sensitivity of the serological techniques and the threshold to distinguish between positive and negative used (Fig. 4).
-A30	RefType T11 Direct
-A31	Type T11 Figure
-A32	Num T11 4
+A17	Num T6 4
 

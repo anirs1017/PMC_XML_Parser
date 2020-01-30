@@ -62,12 +62,13 @@ Nevertheless, when the fluorescence of DAF-2T is detected, the fluorescence of D
 As a consequence, in NO high-output systems the auto-fluorescence of DAF-2 is negligible since enough DAF-2 is converted to the high fluorescent DAF-2T.
 In systems with a low output of NO, however, low concentrations of formed DAF-2T may not be separable from the high DAF-2 auto-fluorescence background.
 These theoretic considerations were demonstrated experimentally, as shown in Figure 1: We employed increasing concentrations of DAF-2 (0.01-5 µM in PBS) to either a blank vial (no NO source) or to A23187-activated human endothelial EA.hy926 cells (low-output NO source) followed by fluorescence measurement (λex 495 nm, λem 515 nm).
-Figure 1 shows that the fluorescence intensity obtained from DAF-2/DAF-2T in the supernatants of NO-producing endothelial cells does not exceed significantly the level of the fluorescence intensity obtained from DAF-2 auto-flourescence (no NO source) when concentrations of DAF-2 > 1 µM were employed.
+Figure #F1-1#-1 shows that the fluorescence intensity obtained from DAF-2/DAF-2T in the supernatants of NO-producing endothelial cells does not exceed significantly the level of the fluorescence intensity obtained from DAF-2 auto-flourescence (no NO source) when concentrations of DAF-2 > 1 µM were employed.
 This suggests that concentrations < 1 µM DAF-2 should be employed measuring NO released from cNOS systems.In order to proof that concentrations < 1 µM DAF-2 are sufficient to trap all NO released from endothelial cells and that the correlation between NO concentration and measured fluorescence intensity is linear we created two standard curves: one for the fluorescence intensity obtained from increasing amounts of DAF-2T (Fig. 2A) and another one correlating increasing NO concentrations (liberated by the NO donor NOC-9 (22) in the presence of EA.hy 926 cells) to the fluorescence intensity measured after addition of 0.1 µM DAF-2 (Fig. 2B).
-As shown in Figure 2, employing up to 100 nM NOC-9 (corresponding to 200 nM NO) the correlation between NO concentration and fluorescence intensity is linear (r2 = 0.997).
+As shown in Figure #F2-4#-2, employing up to 100 nM NOC-9 (corresponding to 200 nM NO) the correlation between NO concentration and fluorescence intensity is linear (r2 = 0.997).
 In addition, the fluorescence intensity obtained from 100 nM NOC-9 (200 nM NO) consumed only 0.44 nM DAF-2 which is less than 1% of the employed DAF-2.
 These results show that 0.1 µM DAF-2 is sufficient and not rate-limiting for the detection of up to 200 nM NO.
-
+In addition, under these conditions the auto-fluorescence background stays nearly constant (> 99% DAF-2 is not consumed), which allows to subtract it from the measured total fluorescence.Fig.
+1The difference in measured fluorescence intensity of DAF-2 alone or after reaction with NO released from endothelial cells becomes more significant with lower DAF-2 concentrations.
 Blank vials (white bars) or EA.hy 926 cells (black bars) were incubated with PBS supplemented with 100 µM of L-arginine for 5 min at 37°C in the dark.
 Then DAF-2 at the indicated concentrations and the calcium ionophore A23187 (1 µM) were added.
 5 min later.
@@ -75,7 +76,8 @@ The fluorescence of the supernatants was measured as described in Materials and 
 All data are mean ± S.D.
 (n = 2 in triplicate).
 Differences between means were analyzed using Student’s t-test.
-
+*P< 0.05; **P< 0.01.Applying this method we were able to show that it is indeed suitable to detect small amounts of NO released from human endothelial cells (19, 23).Fig.
+2A: Dependency of fluorescence intensity on the concentration of DAF-2T.
 DAF-2T was added to PBS in the concentrations as indicated and fluorescence of the solution was determined.
 (n=4) Y=59.71x+0.466; R2=0.9997.
 B: Dependency of the fluorescence intensity on the concentration of NO in the presence of cells.
@@ -103,11 +105,12 @@ To improve the resolution it is possible to chose a smaller slit width for the e
 5 nm) or a lower excitation wavelength.
 The scattered light peak then shifts to the respective wavelength, too.
 However, as can be seen in Figure 3A, leaving the DAF-2T absorbance maximum (495 nm) for excitation the measured emission fluorescence intensity becomes smaller and thus the detection limit for NO increases.
-
+Thus, it is necessary to find an excitation wavelength which fits both, a) a satisfactory resolution of the scattered light peak from the DAF-2T emission light peak and b) an acceptable emission intensity.Fig.
+3A: Spectra of DAF-2T obtained by excitating at different wavelength (480-495 nm): Cells were grown to confluence and stimulated with PMA 2 nM for 18 h. Then, cells were washed with PBS and supplemented with L-arginine (100 µM) and kept in the dark (5 min, 37°C).
 Thereafter, DAF-2 (0.1 µM) and A23187 (1 µM) were added for 5 min in the dark at 37°C.
 Spectra of supernatants were measured at different excitation wavelength.
-
-Figure 3B demonstrates that the fluorescence intensity measured at 515 nm (λex 495 nm) decreased with the NO concentration to background levels.
+B: Spectra were measured at an excitation wavelength of 495 nm with different concentrations of NO liberated from the NO-donor NOC-9.In order to demonstrate that – in our system – the DAF-2T fluorescence is detectable independently of the Rayleigh scattered excitation light peak even at an excitation wave length of 495 nm we measured DAF-2T spectra obtained from different concentrations of NO (0.01-20 µM) liberated by the NO-donor NOC-9.
+Figure #F3-7#-3B demonstrates that the fluorescence intensity measured at 515 nm (λex 495 nm) decreased with the NO concentration to background levels.
 This shows that the measured fluorescence intensity is caused solely by DAF-2T and not by Rayleigh scattering of the excitation light.
 Such validation experiments have to be performed for every spectrofluorimeter before starting experiments.A further problem that limits NO quantification in general is the concurrent presence of reactive oxygen species (ROS).
 In the presence of NO ROS cause the generation of peroxynitrite which does not react with DAF-2 (14).
@@ -150,8 +153,7 @@ Seed cells in a density of 4 x 106 cells per well in 6-well plates.
 Stimulate cells at day 3, when they just reach confluence.
 Duration of stimulation depends on substances and experimental settings.
 If test compounds are dissolved in DMSO the final concentration should not exceed 0.1%.
-Preparations
-A: Prepare the following solutions:1.L-arginine stock solution: 100 mM L-arginine in H2O (0.021 g/ml)2.A23187 stock solution:10 mM A23187 in DMSO (1 mg in 191 µl of DMSO), store solution at -20°C3.DAF-2 stock solution: Shipped 5 mM in DMSO, aliquot and freeze at -80°C 4.PBS+Ca2+: KH2PO4
+Preparations A: Prepare the following solutions:1.L-arginine stock solution: 100 mM L-arginine in H2O (0.021 g/ml)2.A23187 stock solution:10 mM A23187 in DMSO (1 mg in 191 µl of DMSO), store solution at -20°C3.DAF-2 stock solution: Shipped 5 mM in DMSO, aliquot and freeze at -80°C 4.PBS+Ca2+: KH2PO4
 1.47 mM 0.4 g/2 LNa2HPO4 · 7 H2O9.57 mM 5.13 g/2 LNaCl137.00 mM16.00 g/2 LMgSO4 · 7 H2O0.49 mM0.24 g/2 LKCl2.68 mM 0.40 g/2 LCaCl2 · 2 H2O0.90 mM0.24 g/2 LSolve CaCl2 in 1 L and all other components in another 1 L H2O.
 Mix both solutions carefully and adjust pH to 7.4.
 The pH has to be strictly regarded since the fluorescence of the DAF derivatives is pH-dependent.

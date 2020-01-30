@@ -59,7 +59,7 @@ nonhomologous chromosome.
 Translocations are often reciprocal, exchanging two different DNA segments.
 The break point of a translocation event may occur within a gene, thus destroying its function or altering its expression pattern, for example, the Burkitt lymphoma.
 One such translocation, the Philadelphia chromosome (chromosome 9/22 translocation), which produces a BCR-ABL1 compound gene and results in chronic myelogenous leukemia.
-Two studies mapped the breakpoint of the Philadelphia chromosome and found that the translocation was mediated by a region of shared homology [31, 32] implicating HR as the mechanism.There are three basic mechanisms that may produce a DNA deletion event (see Figure 1), the replication slippage, intrachromosomal and interchromosomal recombination.
+Two studies mapped the breakpoint of the Philadelphia chromosome and found that the translocation was mediated by a region of shared homology [31, 32] implicating HR as the mechanism.There are three basic mechanisms that may produce a DNA deletion event (see Figure #F1-0#-1), the replication slippage, intrachromosomal and interchromosomal recombination.
 The replication slippage during DNA synthesis may produce a deletion, these deletions tend to be small [33, 34, 35, 36, 37] and most often occurin special regions where short tandemly reiterated sequences exist.
 The most common example of this is microsatellite instability, a phenomenon most prominent in hereditary nonpolyposis colon cancer.
 The causative mutations of this disease are in the mismatch repair genes resulting in a lack of replication proofreading [38, 39, 40, 41] and, therefore, an increased frequency of replication errors.Intrachromosomal deletions are the result of aberrant recombination, many times mediated by regions of homology and can remove very large regions of DNA.
@@ -148,7 +148,7 @@ With a wide variety of carcinogenic agents able to induce HR, it is easy to sugg
 As can be observed in those patients who have an up regulated level of HR, an increased frequency of HR events can be highly deleterious.
 In addition, the sensitivity of proliferating cells to HR is highly correlative with proliferating cells being more prone to cancer and fits with current models of replication/recombination.
 Finally, the HR is likely to play a major role in producing the observed heterogeneity in many tumours.
-
+All in all, HR may be much more prevalent during carcinogenesis than previously considered.Figures and TablesFigure 1Mechanisms of deletion.
 (a) Replication slippage, where DNA polymerase dissociates from its template and reanneals to homologous sequences nearby resulting in either a deletion (shown) or insertion (not shown) of sequences.
 These tend to be relatively small deletions or insertions and are usually in regions of repetitive DNA.
 (b) Intrachromosomal or intrachromatid deletion may be mediated by a number of different mechanisms, two of the most likely being a crossover event and single strand annealing.
@@ -158,7 +158,7 @@ Single strand annealing is another likely mechanism that requires a double stran
 A single strand exonuclease can degrade one strand at the DNA ends until homology is revealed allowing the broken ends to anneal and the intervening sequences to be clipped off.
 (c) Interchormatid deletion is most likely to result from an unequal crossover event, only occuring in G2 after the chromatid has been replicated but before they are segregated.
 Again, the event is mediated by a repeated region of homology, but in these events two products are formed, a deletion and a triplication on the two resultant recombinant chromosomes.
-
+(d) Interchromosomal deletion is similar to interchromatid deletion except that the interaction is between homologous chromosomes.ACKNOWLEDGMENTSThis work was supported by grants from the American Cancer Society No.
 RPG-95-076-04-MGO and the National Institute of
 Environmental Health Sciences, NIH, RO1 grant No ES09519 and KO2 award ES00299 (to R.H.
 Schiestl), and NIH RCDA Award No.
