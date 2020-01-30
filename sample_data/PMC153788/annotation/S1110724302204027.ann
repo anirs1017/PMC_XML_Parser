@@ -1,0 +1,96 @@
+T1	Caption 21894 21894	
+A1	Type T1 Figure
+A2	Num T1 1
+
+T2	Reference 4540 4617	The repair substrate is stably integrated into the cell's genome (Figure 1a).
+A3	RefType T2 Direct
+A4	Type T2 Figure
+A5	Num T2 1
+
+T3	Reference 6619 6832	However, it has not yet been established whether and how ATM and p53 influence the repair of the I-SceI breaks.Several important technical caveats should be considered when utilizing the I-SceI system (Figure 1a).
+A6	RefType T3 Direct
+A7	Type T3 Figure
+A8	Num T3 1
+
+T4	Reference 10547 10903	Consequentially, such an approach would involve variably cut extrachromosomal repair substrates, as no alternative to I-SceI generated chromosomal breaks is yet available.Plasmid assays containing extrachromosomal componentsThe role of ATM for extrachromosomal and integration-associated HR was investigated in our laboratory by Luo et al (Figure 1b) [18].
+A9	RefType T4 Direct
+A10	Type T4 Figure
+A11	Num T4 1
+
+T5	Reference 11514 11940	One conclusion derived from these data was that if the DNA termini are within or close to the recombination substrate, then the high frequency of extrachromosomal recombination in AT cells is offset by mis-repair of the recombining sequences.Figure 1c illustrates an assay modification, which utilizes stable chromosomal integration of pΔ2puro at a random site, transient transfection of pΔ3 and selection of gpt recombinants.
+A12	RefType T5 Direct
+A13	Type T5 Figure
+A14	Num T5 1
+
+T6	Reference 12213 12499	The results of this assay are consistent with other reports showing reduced homologous gene targeting in cells lacking BRCA2 or BRCA1 [16, 17].Purely extrachromosomal HR, that is, in the absence of any integration step, can be assessed by employing episomal shuttle vectors (Figure 1d).
+A15	RefType T6 Direct
+A16	Type T6 Figure
+A17	Num T6 1
+
+T7	Reference 12822 13205	Figure 1e illustrates a rapid plasmid reactivation assay which employs CAT or Luciferase reporters; however, it is unclear what the genetic determinants of this endpoint are.Translational research in the postgenome era may ultimately involve routine characterization of repair phenotypes in primary fibroblasts or tumor cells directly taken from patients with known genetic profiles.
+A18	RefType T7 Direct
+A19	Type T7 Figure
+A20	Num T7 1
+
+T8	Reference 13951 14217	At this stage of research, it appears that purely extrachromosomal HR proceeds independently of p53, at least in murine fibroblasts [30]; thus necessitating the use of integration-linked assays for analysis of p53-dependent HR (Figures 1b, #F1-9#-1c, and #F2-10#-2).
+A21	RefType T8 Direct
+A22	Type T8 Figure
+A23	Num T8 1
+
+T9	Reference 13951 14210	At this stage of research, it appears that purely extrachromosomal HR proceeds independently of p53, at least in murine fibroblasts [30]; thus necessitating the use of integration-linked assays for analysis of p53-dependent HR (Figures 1b, 1c, and #F2-10#-2).
+A24	RefType T9 Direct
+A25	Type T9 Figure
+A26	Num T9 1
+
+T10	Reference 25490 25623	Analogous to Figure 1a, I-SceI breaks are generated in an integrated HR substrate, but cells are plated without selection antibiotic.
+A27	RefType T10 Direct
+A28	Type T10 Figure
+A29	Num T10 1
+
+T11	Reference 26391 26517	Analogous to Figure 1d, recombination signal sequences flank a bacterial transcription stop signal upstream of a CAT reporter.
+A30	RefType T11 Direct
+A31	Type T11 Figure
+A32	Num T11 1
+
+T12	Caption 9667 9943	Typical limitations to the utilization of complex repair assays such as the I-SceI system are displayed in Table 1.Induction of chromosomal breaks by the I-SceI endonuclease generates a 4 bp staggered cut that leaves free 3′ hydroxy overhangs, which can be directly religated.
+A34	Type T12 Table
+A35	Num T12 1
+
+T13	Caption 24758 24758	
+A37	Type T13 Figure
+A38	Num T13 2
+
+T14	Reference 11072 11122	The gene arrangements are illustrated in Figure 2.
+A39	RefType T14 Direct
+A40	Type T14 Figure
+A41	Num T14 2
+
+T15	Reference 13951 14202	At this stage of research, it appears that purely extrachromosomal HR proceeds independently of p53, at least in murine fibroblasts [30]; thus necessitating the use of integration-linked assays for analysis of p53-dependent HR (Figures 1b, 1c, and 2).
+A42	RefType T15 Direct
+A43	Type T15 Figure
+A44	Num T15 2
+
+T16	Caption 25354 25354	
+A46	Type T16 Figure
+A47	Num T16 3
+
+T17	Reference 16934 17081	Previously, investigators have grown up 100 or more unselected colonies after induction of I-SceI breaks in an integrated HR substrate (Figure 3a).
+A48	RefType T17 Direct
+A49	Type T17 Figure
+A50	Num T17 3
+
+T18	Reference 17274 17453	The only available assay type that uses drug selection for NHEJ events involves measuring the frequency of random stable integration of a linearized plasmid substrate (Figure 3b).
+A51	RefType T18 Direct
+A52	Type T18 Figure
+A53	Num T18 3
+
+T19	Reference 17952 18018	Figure 3c illustrates a variation that we have used recently [32].
+A54	RefType T19 Direct
+A55	Type T19 Figure
+A56	Num T19 3
+
+T20	Reference 19066 19328	A more specific way to study the genetic determinants of NHEJ is to utilize Rag1- and Rag2-initiated site-specific V(D)J recombination as a functional endpoint, which tests for the functional presence of the DNA-PK complex, XRCC4, and ligase IV (Figure 3d) [34].
+A57	RefType T20 Direct
+A58	Type T20 Figure
+A59	Num T20 3
+

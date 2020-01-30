@@ -1,0 +1,170 @@
+Biol Proced OnlineBiological Procedures Online1480-9222Biological Procedures Online14569611162170m5510.1251/bpo55Research ArticleApplication of 4,5-diaminofluorescein to reliably measure nitric oxide released from endothelial cells in vitroRäthelThomas R.1LeikertJürgen F.1VollmarAngelika M.1DirschVerena M.11Department of Pharmacy, Center of Drug Research, University of Munich.
+Butenandtstr.
+5-13, D-81377 Munich.
+Germany.Verena M. Dirsch, Department of Pharmacy, Center of Drug Research, University of Munich.
+Butenandtstr.
+5-13, D-81377 Munich.
+Germany.
+Phone: +49-89-2180 77161.
+Fax: +49-89-2180 77173.
+Verena.Dirsch@cup.uni-muenchen.de
+200315620035136142http://www.biologicalprocedures.com252200331320031952003Copyright © June 06, 2003, TR Räthel et al.
+Published in Biological Procedures Online under
+license from the authors.
+Copying, printing, redistribution and storage permitted.2003Here we describe in more depth the previously published application of the fluorescent probe 4,5-diaminofluorescein (DAF-2) in order to reliably measure low levels of nitric oxide (NO) as released from human endothelial cells in vitro.
+The used approach is based on the following considerations a) use low concentrations of DAF-2 (0.1 µM) in order to reduce the contribution of DAF-2 auto-fluorescence to the measured total fluorescence, and b) subtract the DAF-2 auto-fluorescence from the measured total fluorescence.
+The advantage of this method is the reliable quantification of NO in a biological system in the nanomolar range once thoroughly validated.
+Here we focus in addition to the previous publication (Leikert et al., FEBS Lett 2001, 506:131-134) on aspects of validation procedures as well as limitations and pitfalls of this method.Investigative TechniquesBiological AssayNitric-Oxide SynthaseIntroductionDue to its pivotal biological activities nitric oxide (NO) is a molecule of high interest.
+It is produced as a free radical by different isoforms of the enzyme nitric oxide synthase (NOS).
+These enzymes produce NO by catalyzing the oxidation of a guanidino nitrogen of L-arginine, thereby converting L-arginine to L-citrulline.
+NO-synthases are either constitutively expressed or are induced e.g.
+by cytokines during inflammation.
+The inducible NO-synthase (iNOS, NOS II) produces NO in the nano- up to the micromolar range.
+Constitutive NO-synthases (cNOS), in contrast, such as the endothelial NO-synthase (eNOS, NOS III) or the neuronal NO-synthase (nNOS, NOS I) produce NO in pico- up to nanomolar concentrations (1, 2).
+NO is involved in various physiological, as well as pathophysiological processes, such as neurotransmission, the immune defence and the maintenance of the vascular homeostasis (1, 3-7).
+Thus, reliable quantification of NO in various biological systems is highly desired by scientists in applied as well as in basic medical research.Quantification of NO produced by the constitutive isoforms of NOS is, however, challenging due to the low output of NO.
+To handle these problems, different approaches were taken during the last few years (8), each with its specific assets and drawback.
+Major drawbacks of most methods are the lack of specificity for NO or the low sensitivity that does not allow the detection of NO released from cNOS-systems.
+In addition, often the expenses for material, instruments or even know-how (e.g.
+ESR-specialist) are too high for an average biomedical laboratory.
+The ideal method should be 1) able to detect low levels of NO as e.g.
+derived from endothelial cells, 2) easy to handle, 3) and not require specific equipment that is normally not available in a biomedical laboratory.
+The approach that comes close to these requirements is the use of fluorescence probes (9-17).
+The most common probe is 4,5-diaminofluorescein, DAF-2, a fluorescein derivative.
+DAF-2 reacts with an oxidation product of NO to the highly fluorescent triazolofluorescein DAF-2T by a known reaction mechanism (12, 15, 18).
+The probe is used to measure NO extracellularly (13-17).
+Although the fluorescence probe DAF-2 is commercially available its use is by far not as prevalent as could be assumed from the amount of research going on in the field of nitric oxide.
+This was the reason why we recently put much effort into this method in order to validate its reliable use to detect low levels of NO as released from cNOS systems (19): First, we lowered the DAF-2 concentration to 0.1 µM in order to limit DAF-2 auto-fluorescence.
+In addition, we subtracted the DAF-2 auto-fluorescence from the total measured fluorescence.
+Due to several inquiries we focus here in more detail on aspects of validation procedures as well as on limitations and pitfalls of this method.
+We also provide a detailed experimental protocol.Materials and Methods
+Chemicals
+DAF-2, DAF-2T, the calcium ionophore A23187 and the NO donor MAHMA·NONOate (NOC-9) were purchased from Alexis® Biochemicals (Grünberg, Germany).
+L-arginine hydrochloride, dimethylsulfoxide, Superoxide dimutase-polyethylene glycol-coupled (PEG:SOD) and horseradish peroxidase were purchased from Sigma (Deisenhofen, Germany).
+Mn TBAP was purchased from OXIS Research (Portland, USA).
+Cell culture
+The human endothelial cell line EA.hy 926 (kindly provided by Dr.
+Edgell, University of North Carolina, NC, USA) (20) was cultivated as described (19).
+For experiments, cells were seeded in six-well plates at a density of 0.4 x 106 cells per well.
+Assays were performed exactly 4 days after seeding to ensure equal cell growth conditions for all experiments.
+Spectrofluorimetric determination of NO released from endothelial cells
+Cells were treated as described in (19).
+Then, the fluorescence of supernatants was measured at room temperature using a spectrofluorimeter (RF 1501, Shimadzu) with excitation wavelength set at 495 nm and emission wavelength at 515 nm.
+The bandwidth was 10 nm for excitation and for emission.
+The sensitivity was programmed on high (see also Protocols section).
+Data analysis
+Analysis of data (column statistic, linear regression, statistical analysis) was performed using the software GraphPad PRISM® (Graph Pad Software, inc., San Diego, CA, USA).Results and Discussion
+Why using DAF-2 < 1 µM and subtracting the auto-fluorescence background?
+DAF-2, the fluorescent probe, and DAF-2T, the reaction product formed from DAF-2 and NO in the presence of O2 (15, 21), have an almost identical absorbance maximum and a nearly identical emission maximum as well.
+They, however, differ strongly in their fluorescence intensity.
+The quantum yield of the DAF-2T fluorescence is more than 180-fold higher than that of DAF-2 (13, 15).
+Nevertheless, when the fluorescence of DAF-2T is detected, the fluorescence of DAF-2 is measured as background as well.
+As a consequence, in NO high-output systems the auto-fluorescence of DAF-2 is negligible since enough DAF-2 is converted to the high fluorescent DAF-2T.
+In systems with a low output of NO, however, low concentrations of formed DAF-2T may not be separable from the high DAF-2 auto-fluorescence background.
+These theoretic considerations were demonstrated experimentally, as shown in Figure 1: We employed increasing concentrations of DAF-2 (0.01-5 µM in PBS) to either a blank vial (no NO source) or to A23187-activated human endothelial EA.hy926 cells (low-output NO source) followed by fluorescence measurement (λex 495 nm, λem 515 nm).
+Figure 1 shows that the fluorescence intensity obtained from DAF-2/DAF-2T in the supernatants of NO-producing endothelial cells does not exceed significantly the level of the fluorescence intensity obtained from DAF-2 auto-flourescence (no NO source) when concentrations of DAF-2 > 1 µM were employed.
+This suggests that concentrations < 1 µM DAF-2 should be employed measuring NO released from cNOS systems.In order to proof that concentrations < 1 µM DAF-2 are sufficient to trap all NO released from endothelial cells and that the correlation between NO concentration and measured fluorescence intensity is linear we created two standard curves: one for the fluorescence intensity obtained from increasing amounts of DAF-2T (Fig. 2A) and another one correlating increasing NO concentrations (liberated by the NO donor NOC-9 (22) in the presence of EA.hy 926 cells) to the fluorescence intensity measured after addition of 0.1 µM DAF-2 (Fig. 2B).
+As shown in Figure 2, employing up to 100 nM NOC-9 (corresponding to 200 nM NO) the correlation between NO concentration and fluorescence intensity is linear (r2 = 0.997).
+In addition, the fluorescence intensity obtained from 100 nM NOC-9 (200 nM NO) consumed only 0.44 nM DAF-2 which is less than 1% of the employed DAF-2.
+These results show that 0.1 µM DAF-2 is sufficient and not rate-limiting for the detection of up to 200 nM NO.
+
+Blank vials (white bars) or EA.hy 926 cells (black bars) were incubated with PBS supplemented with 100 µM of L-arginine for 5 min at 37°C in the dark.
+Then DAF-2 at the indicated concentrations and the calcium ionophore A23187 (1 µM) were added.
+5 min later.
+The fluorescence of the supernatants was measured as described in Materials and Methods.
+All data are mean ± S.D.
+(n = 2 in triplicate).
+Differences between means were analyzed using Student’s t-test.
+
+DAF-2T was added to PBS in the concentrations as indicated and fluorescence of the solution was determined.
+(n=4) Y=59.71x+0.466; R2=0.9997.
+B: Dependency of the fluorescence intensity on the concentration of NO in the presence of cells.
+EA.hy926 cells were grown to confluence, washed with PBS and incubated for 5 min in PBS supplemented with 100 µM L-arginine.
+Then 0.1 µM of DAF-2 and the indicated concentrations of the NO-donor NOC-9 were added.
+After 5 min reaction time in the dark at 37°C the fluorescence was measured.
+Auto-fluorescence of DAF-2 in cell supernatants without NOC-9 was subtracted.
+(n=6).
+Y=0.2714x-0.2947; R2=0.9981To proof that the used method specifically detects cell derived NO, we employed the NOS inhibitor L-NMMA.
+The inhibitor completely abolished the 2.5-fold increase of NO release from EA.hy926 cells in response to PMA (2 nM) in the absence and in the presence of the calcium ionophore A23187 (19).EA.hy926 is a hybridoma cell line derived by fusing primary human umbilical vein endothelial cells (HUVEC) with the permanent human cell line A549 (lung carcinoma).
+In order to verify that NO released from primary endothelial cells can also be quantified by DAF-2 we employed HUVEC in a recent study showing that a red wine polyphenol extract induces active eNOS in human endothelial cells (23).
+The data obtained from EA.hy926 and HUVEC were very well comparable.
+The NO production in both cell types could be inhibited by NG-amino-L-arginine.Since so far the data collected in our laboratory from the modified DAF-2 method were limited to pharmacological agents, a future aim will be to examine the value of the method with respect to endothelial cells stimulated with insulin (24-26) or bradykinin (27, 28) as physiological stimuli.
+What are the limitations and pitfalls of this method?
+The following things should be considered: First, the number of cells delivering NO should not be chosen too small in relation to the volume of supernatant.
+Otherwise, the differences in NO concentrations of e.g.
+activated or non-activated cells may not be detectable.
+We found confluent cells in a 6-well plate with a 2 ml supernatant workable.
+2 ml supernatant is enough for a convenient measurement in a standard cuvette.
+Another limitation is given by the spectrofluorimeter itself.
+In order to measure NO from low-output systems the sensitivity and resolution of the spectrofluorimeter has to be adequately high.
+We use a Shimadzu RF-1501 with the sensitivity programmed on high.
+Since the excitation maximum of DAF-2T is at 495 nm and the emission maximum at 515 nm, in instruments with low resolutions, the shoulder of the peak caused by Rayleigh light scatter (495 nm) may overlap with the maximum of the DAF-2T emission peak (515 nm) (Fig. 3A).
+To improve the resolution it is possible to chose a smaller slit width for the excitation beam (e.g.
+5 nm) or a lower excitation wavelength.
+The scattered light peak then shifts to the respective wavelength, too.
+However, as can be seen in Figure 3A, leaving the DAF-2T absorbance maximum (495 nm) for excitation the measured emission fluorescence intensity becomes smaller and thus the detection limit for NO increases.
+
+Thereafter, DAF-2 (0.1 µM) and A23187 (1 µM) were added for 5 min in the dark at 37°C.
+Spectra of supernatants were measured at different excitation wavelength.
+
+Figure 3B demonstrates that the fluorescence intensity measured at 515 nm (λex 495 nm) decreased with the NO concentration to background levels.
+This shows that the measured fluorescence intensity is caused solely by DAF-2T and not by Rayleigh scattering of the excitation light.
+Such validation experiments have to be performed for every spectrofluorimeter before starting experiments.A further problem that limits NO quantification in general is the concurrent presence of reactive oxygen species (ROS).
+In the presence of NO ROS cause the generation of peroxynitrite which does not react with DAF-2 (14).
+One conceivable way to cope with this problem is to scavange ROS, such as superoxide or peroxide (29).
+As superoxide scavanger we used PEG:SOD (100 U/ml, 250 U/ml, 500 U/ml, 20 h preincubation) and the cell-permeable SOD mimic Mn TBAP (100 µM, 300 µM, 24 h preincubation) (30, 31).
+PEG:SOD was not able to enhance the measured fluorescence intensity compared to controls without SOD (data not shown).
+Also Mn TBAB failed to enhance measured fluorescence intensity of supernatants of EA.hy 926 cells and HUVECs after PMA (2 nM, 20 h) stimulation compared to controls without Mn TBAP (data not shown).
+Moreover, Mn TBAP itself shows fluorescence activity at 515 nm clearly limiting its use.
+In order to reduce peroxide we also added purified horseradish peroxidase (HRP) to our system (10 U/ml, 100 U/ml, 500 U/ml, 10 min preincubation).
+However, HRP itself, an iron-containing hem protein, seems to react with NO or other compounds from endothelial cells resulting in a highly fluorescent product (data not shown).
+Thus, neither PEG:SOD nor Mn TBAP or HRP seem to be a suitable tool to increase free and thus detectable levels of NO in the DAF-2 assay.
+Another approach would be the application of catalase.
+However, catalase is also an iron-containing heme protein probably reacting with NO.
+Thus, more thorough investigations are needed to find the right compound, concentration and incubation conditions to definitely show whether ROS scavenging will improve our test system by increasing the output of free NO.Considering the fact that DAF-2 does not react with NO itself but with an active intermediate formed during the oxidation of NO in the presence of O2, the method is prone to errors caused by redox-active compounds (32).
+In fact, we did not see enhanced amounts of NO in supernatants of cells treated with ascorbic acid (33) although we detected a clear increase in L-citrulline when employing ascorbic acid to a L-arginine/L-citrulline conversion assay as described (23) (data not shown).
+L-citrulline emerges in eqimolar concentrations to NO as a result of the NOS-catalyzed oxidation of a guanidino nitrogen of L-arginine.
+This suggests that ascorbic acid increases eNOS activity in our cell system.
+The increase in NO release, however, cannot be detected by DAF-2.
+It seems likely that reducing compounds, such as ascorbic acid, may prevent the formation of the DAF-2-reactive oxidation product of NO and, thus, lead to false negative results.
+Redox-active compounds should, therefore, be evaluated by at least one additional technique or assay system, such as the L-arginine/L-citrulline conversion assay (23).A further point that needs to be considered is a putative auto-fluorescence of test compounds detectable at 515 nm.
+In order to avoid false positive results it is necessary to check this eventuality for every substance employed to this assay.
+Although cells are washed before DAF-2 addition and NO measurement there may be fluorescent remains that may influence the measured DAF-2T fluorescence.
+We ourselves tried to cope with this phenomenon several times by intensive cell washing, however, in vain.
+We, therefore, conclude that substances with an auto-fluorescence around 515 nm are not applicable in the DAF-2 assay system.Finally, some attention should be paid to the fact that the concentrations of divalent cations like Ca2+ or Mg2+ affect the fluorescence of DAF-2 (34).
+However, extracellular concentrations of ions are not subject to high fluctuations in in vitro assay systems.
+Thus, the measurement of extracellular NO should not be susceptible to this phenomenon.
+At last, it is strictly required to work in a darkened room when handling DAF-2 and DAF-2T samples.
+We found a decrease in fluorescence of samples if they were not protected from light even for a few minutes.
+This bleaching event occurs also when samples are measured more than once.ReferencesMocandaSPalmerRMJHiggsEANitric oxide: physiology, pathophysiology and pharmacology.Pharmacol Rev1991431091421949471AldertonWKCooperCEKnowlesRGNitric oxide synthases: structure, function and inhibition.Biochem J20013575936151146333210.1042/0264-6021:3570593LiHFörstermannUNitric oxide in the pathogenesis of vascular disease.J Pathol20001902442541068505910.1002/(SICI)1096-9896(200002)190:3<244::AID-PATH575>3.0.CO;2-8WinkDAVodovotzYLavalJLavalFDewhirstMWMitchellJBThe multifaceted roles of nitric oxide in cancer.Carcinogenesis199819711721985335310.1093/carcin/19.5.711O'DonnellVBFreemanBAInteractions between nitric oxide and lipid oxidation pathways.
+Implications for vascular disease.Circ Res200188122111139468FeronODessyCMoniotteSDesagerJPBalligandJLHypercholesterolemia decreases nitric oxide production by promoting the interaction of caveolin and endothelial nitric oxide synthase.J Clin Invest199910389790510079111ChenPYSandersPWRole of nitric oxide synthesis in salt-sensitive hypertension in Dahl/Rapp rats.Hypertension1993228128187503951NaganoTYoshimuraTBioimaging of nitric oxide.Chem Rev20021024123512701194279510.1021/cr010152sKojimaHSakuraiKKikuchiKKawaharaSKirinoYNagoshiHHirataYAkaikeTMaedaHNaganoTDevelopment of a fluorescent indicator for the bioimaging of nitric oxide.Biol Pharm Bull199720122912329448093KojimaHHirotaniMNakatsuboNKikuchiKUranoYHiguchiTHirataYNaganoTBioimaging of nitric oxide with fluorescence indicators based on the rhodamine chromophore.Anal Chem200173196719731135447710.1021/ac001136iNakatsuboNKojimaHSakuraiKKikuchiKNagoshiHHirataYAkaikeTMaedaHUranoYHiguchiTNaganoTImproved nitric oxide detection using 2,3-diaminonaphthalene and ist application to the evaluation of novel nitric oxide synthase inhibitors.Biol Pharm Bull199821124712509881632KojimaHUranoYKikuchiKHiguchiTHirataYNaganoTFluorescent indicators for imaging nitric oxide production.
+Angew Chem 1999; Int.
+Ed.
+38:3209-3212.KojimaHSakuraiKKikuchiKKawaharaSKirinoYNagoshiHHirataYNaganoTDevelopment of a fluorescent indicator for nitric oxide based on the fluorescein chromophore.
+Chem Pharm Bull (Tokyo) 1998; 46:373-375.KojimaHNakatsuboNKikuchiKKawaharaSKirinoYNagoshiHHirataYNaganoTDetection and imaging of nitric oxide with novel fluorescence indicators: diaminofluoresceins.Anal Chem19987024462453966671910.1021/ac9801723NakatsuboNKojimaHKikuchiKNagoshiHHirataYMaedaDImaiYIrimuraTNaganoTDirect evidence of nitric oxide production from bovine aortic endothelial cells using new fluorescence indicators: diaminofluoresceins.FEBS Lett1998427263266960732410.1016/S0014-5793(98)00440-2KojimaHNakatsuboNKikuchiKUranoYHiguchiTTanakaJKudoYNaganoTDirect evidence of NO production in rat hippocampus and cortex using a new fluorescence indicator.
+DAF-2DA.Neuroreport19989334533489855277ItohYMaFHHoshiHOkaMNodaKUkaiYKojimaHNaganoTTodaNDetermination and bioimaging method for nitric oxide in biological specimens by diaminofluorescein fluorometry.Anal Biochem20002872032091111226510.1006/abio.2000.4859NaganoTTakizawaHHirobeMReactions of nitric oxide with amines in the presence of dioxygen.Tetrahedron Letters19953682398242LeikertJFRäthelTRMüllerCVollmarAMDirschVMReliable in vitro measurement of nitric oxide released from endothelial cells using low concentrations of the fluorescent probe 4,5-diaminofluorescein.FEBS Lett20015061311341159138610.1016/S0014-5793(01)02901-5EdgellCJMcDonaldCCGrahamJBPermanent cell line expressing human factor VIII-related antigen established by hybridization.Proc Natl Acad Sci USA19838012373437376407019NaganoTTakizawaHHirobeMReactions of nitric oxide with amines in the presence of dioxygene.Tetrahedron Letters19953682398242KeeferLKNimsRWDaviesKMWinkDA“NONOates” (1-substituted diazen-1-ium-12-diolates) as nitric oxide donors: convenient nitric oxide dosage forms.Methods Enzymol19962682812938782594LeikertJFRäthelTRWohlfahrtPCheynierVVollmarAMDirschVMRed wine polyphenols enhance endothelial nitric oxide synthase expression and subsequent nitric oxide release from endothelial cells.Circulation2002106161416171227085110.1161/01.CIR.0000034445.31543.43ZengGQuonMJInsulin-stimulated production of nitric oxide is inhibited by wortmannin.
+Direct measurement in vascular endothelial cells.J Clin Invest1996988948988770859MontagnaniMChenHBarrVAQuonMJInsulin-stimulated activation of eNOS is independent of Ca2+ but requires phosphorylation by Akt at Ser1179.J Biol Chem200127630392303981140204810.1074/jbc.M103702200ZengGNystromFHRavichandranLVCongLNKirbyMMostowskiHQuonMJRoles for insulin receptor, PI3-kinase and Akt in insulin-signaling pathways related to production of nitric oxide in human vascular endothelial cells.Circulation20001011539154510747347HarrisMBJuHVenemaVJLiangHZouRMichellBJChenZPKempBEVenemaRCReciprocal phodphorylation and regulation of endothelial nitric oxide synthase in response to bradykinin stimulation.J Biol Chem200127616587165911134008610.1074/jbc.M100229200ZhuPZauggCESimperDHornsteinPAllegriniPRBuserPTBradykinin improves postischaemic recovery in the rat heart: role of high energy phosphates, nitric oxide, and prostacyclin.Cardiovascular Research1995658663KikuchiKNaganoTHayakawaHHirataYHirobeMDetection of nitric oxide production from a perfused organ by a luminol-H2O2 system.Anal Chem199365179417998368532FaulknerKMLiochevSIFridovichsIStable Mn(III) porphyrins mimic superoxide dismutase in vitro and substitute for it in vivo.J Biol Chem199426923471234768089112SzaboCDayBJSalzmanALEvaluation of the relative contribution of nitric oxide and peroxynitrite to the suppression of mitochondrial respiration in immunostimulated macrophages using a manganese mesoporphyrin superoxide dismutase mimetic and peroynitrite scavenger.FEBS Letters199638182868641445NagataNMomoseKIshidaYInhibitory effects of catecholamines and anti-oxidants on the fluorescence reaction of 4,5-diaminofluorescein, DAF-2, a novel indicator of nitric oxide.J Biochem199912565866110101276HuangAVitaJAVenemaRCKeaneyJAscorbis acid enhances endothelial nitric-oxide synthase activity by increasing intracellular tetrahydrobiopterin.J Biol Chem200027517399174061074987610.1074/jbc.M002248200BroilletMRandinOChattonJPhotoactivation and calcium sensitivity of the fluorescent NO indicator 4,5-diaminofluorescein (DAF-2): implications for cellular NO imaging.FEBS Lett20014912272321124013210.1016/S0014-5793(01)02206-2AppendixProtocols
+Cell culture (optimized for EA.hy 926 endothelial cells):
+Grow cells in Dulbeco’s Modified Eagle’s Medium (DMEM) without phenol red containing 584 mg/ml L-glutamine (Bio Whittaker Europe, Belgium) supplemented with 100 U/ml benzylpenicillin, 100 µg/ml streptomycin (PAN Biotech, Germany), HAT supplement (100 µM hypoxanthine, 0.4 µM aminopterin, 16 µM thymidine) and 10% fetal bovine serum (Life Technologies, Germany).
+Seed cells in a density of 4 x 106 cells per well in 6-well plates.
+Stimulate cells at day 3, when they just reach confluence.
+Duration of stimulation depends on substances and experimental settings.
+If test compounds are dissolved in DMSO the final concentration should not exceed 0.1%.
+Preparations
+A: Prepare the following solutions:1.L-arginine stock solution: 100 mM L-arginine in H2O (0.021 g/ml)2.A23187 stock solution:10 mM A23187 in DMSO (1 mg in 191 µl of DMSO), store solution at -20°C3.DAF-2 stock solution: Shipped 5 mM in DMSO, aliquot and freeze at -80°C 4.PBS+Ca2+: KH2PO4
+1.47 mM 0.4 g/2 LNa2HPO4 · 7 H2O9.57 mM 5.13 g/2 LNaCl137.00 mM16.00 g/2 LMgSO4 · 7 H2O0.49 mM0.24 g/2 LKCl2.68 mM 0.40 g/2 LCaCl2 · 2 H2O0.90 mM0.24 g/2 LSolve CaCl2 in 1 L and all other components in another 1 L H2O.
+Mix both solutions carefully and adjust pH to 7.4.
+The pH has to be strictly regarded since the fluorescence of the DAF derivatives is pH-dependent.
+B. Before starting the assay
+Warm up the water bath and a drying chamber/incubator to 37°C.Prepare a PBS+Ca2+ that is supplemented with 100 µM L-arginine by adding the L-arginine stock solution (100 mM) 1:1000.
+Warm up the solution in a 37°C water bath.Dilute your A23187 stock solution (10 mM) 1:5 in DMSO.Dilute your DAF-2 stock solution (5 mM) 1:250 in PBS+Ca2+supplemented with L-arginine (as prepared under 2.)
+and keep it on ice in a light-protected box until use.Start your spectrofluorimeter software.Bring cuvettes, rinsing water and a waste jar to your spectrofluorimeter in a dark room to prepare your samples.
+Assay performance
+Please note: perform all operations with DAF-2 in a darkened room!
+Make sure that samples are protected from light while being transported to the spectrofluorimeter!
+Remove cell supernatants and wash cells twice in 1 ml PBS+Ca2+.Incubate cells with 2 ml PBS+Ca2+ supplemented with L-arginine for 5 min at 37°C to let them equilibrate with a defined concentration of L-arginine.Add 1 µl of the diluted A23187 solution as prepared under B,3 (final concentration of 1 µM).Add 10 µl of the diluted DAF-2 solution as prepared under B,4 (final concentration of 0.1 µM).Incubate cells again for 5 min at 37°C in the dark.
+NO released during this time will react with DAF-2 to DAF-2T.Transfer cell supernatants into 2 ml plastic caps quickly to assure that the reaction time for all samples will be the same.Measure the fluorescence of cell supernatants in a standard cuvette as fast as possible.
+Make sure that all samples are well protected from light until measurement is done.
+Measurement should be done at an excitation wavelength between 490 and 495 nm, as individually validated, and an emission wavelength at 515 nm.
+Slit width for emission and excitation: 10 nm.
+Sensitivity should be chosen as high as possible.Measure also wells without cells in order to calculate the DAF-2 auto-fluorescence.

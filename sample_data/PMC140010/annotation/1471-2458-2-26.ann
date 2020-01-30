@@ -1,0 +1,24 @@
+T1	Caption -1 74	Table 1: Distribution of HBV infection according to age and clinical status
+A1	Type T1 Table
+A2	Num T1 1
+
+T2	Reference 8998 9161	Table 1 summarizes age distribution among individuals infected with HBV according to their different infection status (acute infection versus non-acute infection).
+A3	RefType T2 Direct
+A4	Type T2 Table
+A5	Num T2 1
+
+T3	Caption -1 84	Table 2: Prevalence ratios* for risk factors in HBV-positive and HBV-negative groups.
+A7	Type T3 Table
+A8	Num T3 2
+
+T4	Reference 9973 10186	Risk factors
+Differences in the distribution of risk factors were compared between the HBV-positive and -negative groups, with similarities observed for educational level, economic status, and residency (table 2).
+A9	RefType T4 Direct
+A10	Type T4 Table
+A11	Num T4 2
+
+T5	Reference 10536 10692	Adjusted prevalence ratios (table 2) demonstrated HBV-positivity to be associated with history of multiple partners when compared to the HBV-negative group.
+A12	RefType T5 Direct
+A13	Type T5 Table
+A14	Num T5 2
+

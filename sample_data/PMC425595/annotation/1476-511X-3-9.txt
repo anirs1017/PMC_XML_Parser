@@ -1,0 +1,486 @@
+Lipids Health Dis
+Lipids in Health and Disease
+1476-511X
+BioMed Central
+London
+15140259
+425595
+1476-511X-3-9
+10.1186/1476-511X-3-9
+Research
+Assessing compliance of cardiologists with the national cholesterol education program (NCEP) III guidelines in an ambulatory care setting
+Aliyu
+Zakari Y
+1
+3
+zyaliyu@cs.com
+Yousif
+Sohair B
+1
+s_joseph7@yahoo.com
+Plantholt
+Kate
+2
+kateplantholt@comcast.net
+Salihu
+Hamisu M
+4
+hsalihu@uab.edu
+Erinle
+Ayodele
+1
+erinmd@comcast.net
+Plantholt
+Steve
+2
+splantholt@stagnes.org
+1Department of internal medicine, St.
+Agnes hospital, Baltimore, MD 21229, USA
+2Division of cardiology, St.
+Agnes hospital, Baltimore, MD 21229, USA
+3Department of global health, George Washington University, Washington, DC, USA
+4Department of maternal and child health, University of Alabama, Birmingham, Alabama, USA
+2004
+12
+5
+2004
+3
+9
+9
+6
+3
+2004
+12
+5
+2004
+Copyright © 2004 Aliyu et al; licensee BioMed Central Ltd.
+This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.
+2004
+Aliyu et al; licensee BioMed Central Ltd.
+This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.
+Introduction
+The NCEP III -ATP guidelines provide clear clinical directives for lipid management especially statins therapy in appropriate patient groups.
+Compliance of primary care physicians with these guidelines especially in ambulatory care settings has been shown to be poor.
+The compliance of cardiologist to these guidelines is less documented.
+Methods
+A retrospective chart review of 386 patients managed in a large urban cardiology practice was undertaken.
+Patients with documented contraindications to use of statins were excluded from the study.
+Only patients with two or more years of follow-up in the practice were included.
+Demographic variables and medical history including CAD or its equivalent and its major risk factors were identified.
+The proportion of patients on statins and adequacy of statins therapy were recorded.
+The lipid profiles of all patients were also analyzed.
+Results
+Fifteen patients with documented contraindications to statins therapy including persistent/severe LFT abnormalities, allergies, and gastrointestinal intolerance were excluded.
+A total of 371 patients were included in the analysis.
+The mean age for patients in the study was 65 years (range: 42–84).
+236 (64%) were males while 141 (36%) were females.
+161 (43%) patients were on statins while 210 (57%) weren't.
+88 (62%) of females were on stain compared to 116 (49%) of males (p = 0.001).
+68% of patients below the age of 50 yrs were not on statins compared with 55% of those greater than 50 yrs (p = 0.01).
+38% of patients on statins therapy had sub-optimal lipid profile despite greater than two years of therapy.
+No statistically significant differences in race and use of satins were noted.
+Conclusion
+This study demonstrates a higher than expected prevalence of sub-optimal management of dyslipidemia among patients with established coronary heart disease without contraindications to statins managed by cardiologists.
+Cardiology and primary care practices require similar comprehensive routine lipid management program that is assiduously maintained and evaluated at both in-patient and out patient settings to ensure most patients receive optimal therapy with statins and other lipid lowering agents.
+Background
+HMG-CoA reductase inhibitors (Statins) are used widely for the treatment of hypercholesterolemia.
+They inhibit HMG-CoA reductase competitively; reduce LDL levels more than other cholesterol-lowering drugs, modestly increase HDL, and lower triglyceride levels in hypertriglyceridemic patients.
+Statins are well tolerated and have an excellent safety record [1-5].
+Clinical trials in patients with and without coronary heart disease and with and without high cholesterol have demonstrated consistently that statins reduce the relative risk of major coronary events by [almost equal to] 30% and produce a greater absolute benefit in patients with higher baseline risk [2,5,6].
+Proposed mechanisms include favorable effects on plasma lipoproteins, endothelial function, plaque architecture and stability, thrombosis, and inflammation.
+Mechanisms independent of LDL lowering may play an important role in the clinical benefits conferred by these drugs and may ultimately broaden their indication from lipid-lowering to anti-atherogenic agents [6].
+The National Cholesterol Education Program (NCEP) released its third Adult Treatment Report in 2001.
+This report once again recommended a low-density lipoprotein (LDL-C) level lower than 100 mg/dL for all patients with coronary artery disease its equivalent.
+Trials demonstrating a 22% to 42% reduction in risk of fatal coronary heart disease (CHD) with the use of cholesterol treatment support the NCEP recommendation that patients with CHD and other forms of atherosclerosis be treated to an LDL-C goal level lower than 100 mg/dL [7,8].
+Despite continued physician and public education, treatment goals for individuals with CHD are not being met.
+Multiple surveys assessing physician compliance with the guidelines have found only 11% to 25% of patients with CHD at the recommended LDL-C goal [9,10].
+A review of the National Registry of Myocardial Infarction reported that in the year 2000 only 31.7% of more than 130,000 patients discharged with the diagnosis of acute myocardial infarction were prescribed cholesterol medications [11].
+Unfortunately, this public health problem is not limited to the United States.
+A two-part survey of nine European countries known as EUROASPIRE found that although cholesterol medications use had increased from 21% to 49% among patients with hyperlipidemia, most patients with CHD were not at goal cholesterol levels [12,13].
+Our study was designed to assess the compliance of cardiologists to the NCEP III guidelines in an ambulatory care setting.
+Methods
+A retrospective chart review of 386 patients managed in a large urban cardiology practice was undertaken.
+Patients with documented contraindications to use of statins were excluded from the study.
+Only patients with two or more years of follow-up in the practice were included.
+Demographic variables and medical history including CAD or its equivalent and its major risk factors for CAD were identified.
+The proportion of patients on statins and adequacy of therapy with statins was recorded.
+The lipid profiles of all patients were also reviewed.
+Results
+Fifteen patients with documented contraindications/intolerance to statins including persistent/severe LFT abnormalities, allergies, and gastrointestinal intolerance were excluded.
+A total of 371 patients were included in the analysis.
+The mean age for patients in the study was 65 years (range: 42–84).
+236 (64%) were males while 141 (36%) were females.
+161 (43%) patients were on statins while 210 (57%) weren't.
+88 (62%) of females were on statins compared to 116 (49%) of males (p = 0.001).
+68% of patients below the age of 50 yrs were not on statins compared with 55% of those greater than 50 yrs (p = 0.01).
+38% of patients on statins therapy had sub-optimal lipid profile despite greater than two years of therapy.
+No statistically significant difference in race and adequacy of therapy with statins was noted.
+Discussion
+Evidence suggests that cholesterol treatment, particularly with statins, provide the largest event reductions associated with any of the medication interventions after CHD events.
+A randomized controlled trial found that patients with acute coronary syndromes who received atorvastatin within 96 hours of admission had a significantly lower risk of symptomatic ischemia with emergency re-hospitalization during 16 weeks of follow-up evaluation [13].
+Additionally, a prospective Swedish study demonstrated a reduction in 1-year mortality when patients were discharged with a statins after an acute myocardial infarction [5].
+Statins and other cholesterol medications also have anti-inflammatory action and beneficial effects on endothelial function, independent of cholesterol levels [15,16].
+The reasons for the persistent poor physician compliance with lipid lowering guidelines are unclear.
+Strategies for improving physician compliance with the NCEP III guidelines include identifying high risk patients, calculating global risks, determining goals, initiating therapy, motivating and educating patients and physicians to maintain compliance and patient/ physician tracking of progress.
+Other strategies include teaching physicians to implement lipid treatment strategies, using reminders to promptly remind physicians to attend to lipid guidelines, identifying patients advocate such as a nurse case manager to help deliver to prompt care [7,8].
+The many patients discharged without prescriptions for statins may either be lost to medical follow-up or do not eventually receive prescriptions for statins from their primary care providers.
+The Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (ATP III), which constitutes the updated clinical guidelines of the National Cholesterol Education Program (NCEP), recommends that lipid-lowering drug therapy be initiated at hospital discharge [7,8].
+The NCEP ATP III also provides important information on the goals of lipid-lowering therapy in patients after ACS.
+The challenge for the specialist is to establish a pre-discharge plan that includes maximal dosing to achieve aggressive target goals and to work with the patient's primary care provider to maintain these goals long-term.
+A great deal of attention has been focused on the poor adherence of primary care physicians to adequate therapy with statins and the NCEP-ATP guidelines.
+Cardiologists intuitively appear to be more aggressive in managing dyslipidemia especially among patients with CAD or its equivalent.
+The finding of poor compliance with the NCEP III guidelines in a pure cardiology based practice fully affiliated with a very active internal medicine residency program is therefore unexpected.
+This study demonstrates only 43% of patients (all with documented coronary heart disease) in this practice were on statins and of those on statins only 62% were at target goal of the LDL cholesterol, HDL cholesterol and triglycerides despite two or more years of follow up.
+This demonstrates a global poor performance by urban cardiologist.
+Reasons for this poor physician specialist compliance are hard to advance.
+Health care financing and medical insurance coverage always play a cardinal role in determining compliance to medications on both the side of physicians and patients.
+All patients in this study had medical insurance coverage for there general medical care.
+A particularly important factor to consider however is the lack of prescription coverage for patients on Medicare (those above the age of 65).
+The mean age for patients in this study was 65 years and 42% of patients were above the age of 65.
+These elderly patients are more likely to have multiple co-morbid conditions, already spending a sizable part of there meager income on several other medications and therefore unable to afford the cost of statins.
+A few cardiologists have expressed concern related to this.
+In this practice, a sizable number of patients are on "samples" of statins provided by various drug companies at no cost to the patients.
+The supply of these samples is rather erratic and might lead to frequent change of various types of statins depending on availability.
+The statistically significant lower proportion of patients above the age of 50 years who were on statins further confirms this assertion.
+Additionally, the study further demonstrates females were more likely to be on statins compared to males regardless of the age groups considered.
+A probable explanation is the increasing frequency with which women ask about their test results and "cholesterol" and is what is been done about it.
+The role of media campaigns especially television commercials on "ask you doctor" about various medications and diseases might contribute to the active involvement of more women than men on their health care and more women asking why or why not they should be on such medications.
+Conclusion
+Our findings demonstrate a high prevalence of sub-optimal management of dyslipdemia among patients without clear contraindication to use of statins managed by cardiologists.
+The poor compliance with the NCEP III guidelines persists even in patients with recent myocardial infarction.
+Our study therefore suggests that patients with CHD might not necessarily get to target LDL-C, HDL-C and triglycerides goal levels even when managed in a pure cardiology specialty practice.
+A routine discharge or disease management program that is assiduously maintained and evaluated at both in in-patient and out patient settings is needed to ensure most patients receive optimal cholesterol therapy notably with statins.
+If these findings are placed within context of the findings of the recent TIMI 22 study which indicate that patients with recent myocardial infarction benefit from early and continued lowering of LDL cholesterol to levels substantially below current target levels, the challenges of implementation becomes even more enormous and the prospects for excellent compliance with the standard of care for lipid management appear rather dismal without concerted efforts by patients, and all relevant health care providers and their associates[17,18].
+Swift national health policy changes that would incorporate adequate prescription coverage are needed also to ease the hardship of cost of medications especially among elderly patients.
+Physicians must also actively engage (albeit the limitation of time) in soliciting for medication assistance programs and favorable health care policy changes on behalf of their patients from pharmaceutical companies and the various tiers of government.
+Competing interests
+Partial funding for this work was provided by AstraZeneca, Inc.
+to the St.
+Agnes Foundation through an educational grant.
+Dr.
+ZY Aliyu is on the speakers' bureau of Pfizer, Inc.
+This paper was presented at the American College of Physicians, Maryland Associates Meeting.
+May 2003 and has been submitted for presentation at the Southern Medical Association, annual scientific meeting, 2004.
+Authors' contributions
+ZY Aliyu, study concept, design, data analysis, initial and final manuscript preparations.
+S. Yousif, study concept, data collection and initial manuscript preparation.
+K. Plantholt, data collection and analysis.
+H. Salihu, study design, data management, and final manuscript revisions.
+A. Erinle, initial and final manuscript preparation.
+S. Plantholt, study concept and design.
+Illingworth
+DR
+Tobert
+JA
+A review of clinical trials comparing HMG-CoA reductase inhibitors
+Clin Ther
+1994
+16
+366
+385
+7923304
+Kostner
+GM
+Gavish
+D
+Leopold
+B
+Bolzano
+K
+Weintraub
+MS
+Breslow
+JL
+HMG-CoA reductase inhibitors lower LDL cholesterol without reducing Lp(a) levels
+Circulation
+1989
+80
+1313
+1319
+2530005
+Shepherd
+J
+Cobbe
+SM
+Ford
+I
+Isles
+CG
+Lorimer
+AR
+Macfarlane
+PW
+McKillop
+JH
+Packard
+CJ
+Prevention of coronary heart disease with pravastatin in men with hypercholesterolemia
+N Engl J Med
+1995
+333
+1301
+1307
+7566020
+10.1056/NEJM199511163332001
+Sacks
+FM
+Pfeffer
+MA
+Moye
+LA
+Rouleau
+JL
+Rutherford
+JD
+Cole
+TG
+Brown
+L
+Warnica
+JW
+Arnold
+JM
+Wun
+CC
+Davis
+BR
+Braunwald
+E
+The effect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels
+N Engl J Med
+1996
+335
+1001
+1009
+8801446
+10.1056/NEJM199610033351401
+The Scandinavian Simvastatin Survival Study Group
+Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S)
+Lancet
+1994
+344
+1383
+1389
+7968073
+10.1016/S0140-6736(94)90566-5
+Bradford
+RH
+Shear
+CL
+Chremos
+AN
+Dujovne
+C
+Downton
+M
+Franklin
+FA
+Gould
+AL
+Hesney
+M
+Higgins
+J
+Hurley
+DP
+Langendorfer
+A
+Nash
+DT
+Pool
+JL
+Schnaper
+H
+Expanded clinical evaluation of lovastatin (EXCEL) study results, I: efficacy in modifying plasma lipoproteins and adverse event profile in 8245 patients with moderate hypercholesterolemia
+Arch Intern Med
+1991
+151
+43
+49
+1985608
+10.1001/archinte.151.1.43
+National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III).
+Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) final report.
+Circulation
+2002
+106
+3143
+421
+12485966
+Davidson
+MH
+Strategies to improve Adult Treatment Panel III guideline adherence and patient compliance
+Am J Cardiol
+2002
+89
+8C
+20C
+11900713
+10.1016/S0002-9149(02)02223-3
+Eaton
+CB
+Stamp
+MJ
+National Cholesterol Education Program 9NCEP) – The Adult Treatment Panel III Guidelines.
+Practice patterns related to the AdultTreatment Panel III guidelines in primary care
+Am J Cardiol
+90
+687
+2002 Sep 15
+12231113
+10.1016/S0002-9149(02)02739-X
+Fedder
+DO
+Koro
+CE
+L'Italien
+GJ
+New National Cholesterol Education Program III guidelines for primary prevention lipid-lowering drug therapy: projected impact on the size, sex, and age distribution of the treatment-eligible population
+Circulation
+105
+152
+6
+2002 Jan 15
+11790693
+10.1161/hc0202.101971
+Hoekstra
+JW
+Pollack
+CV
+Roe
+MT
+Improving the care of patients with non-ST-elevation acute coronary syndromes in the emergency department: the CRUSADE initiative
+Acad Emerg Med
+2002
+9
+1146
+55
+12414463
+10.1197/aemj.9.11.1146
+De Bacquer
+G
+Evidence-based goals versus achievement in clinical practice in secondary prevention of coronary heart disease: findings in EUROASPIRE II
+Atheroscler Suppl
+2002
+2
+13
+6
+discussion 16-7.
+Review
+11976072
+10.1016/S1567-5688(01)00017-4
+De Bacquer
+D
+De Backer
+G
+Ostor
+E
+Simon
+J
+Prorala
+K
+EUROASPIRE 1 Study Group: Predictive value of classical risk factors and their control in coronary patients: a follow-up of the EUROASPIRE I cohort
+Eur J Cardiovasc Prev Rehabil
+2003
+10
+289
+95
+14555885
+Stein
+EA
+Davidson
+MH
+Dobs
+AS
+Schrott
+H
+Dujovne
+CA
+Bays
+H
+Weiss
+SR
+Melino
+MR
+Stepanavage
+ME
+Mitchel
+YB
+Efficacy and safety of simvastatin 80 mg/day in hypercholesterolemic patients
+Am J Cardiol
+1998
+82
+311
+316
+9708659
+10.1016/S0002-9149(98)00421-4
+Stein
+E
+Cerivastatin in primary hyperlipidemia: a multicenter analysis of efficacy and safety
+Am J Cardiol
+1998
+82
+40J
+46J
+9737645
+10.1016/S0002-9149(98)00436-6
+Balk
+EM
+Lau
+J
+Goudas
+LC
+Jordan
+HS
+Kupelnick
+B
+Kim
+LU
+Kara
+RH
+Effects of statins on nonlipid serum markers associated with cardiovascular disease: a systematic review
+Ann Intern Med
+2003
+139
+670
+82
+14568856
+Cannon
+CP
+Braunwald
+E
+McCabe
+CH
+Rader
+DJ
+Rouleau
+JL
+Belder
+R
+Joyal
+SV
+Hill
+KA
+Pfeffer
+MA
+Skene
+AM
+Pravastatin or Atorvastatin Evaluation and Infection Therapy-Thrombolysis in Myocardial Infarction 22 Investigators.
+Intensive versus moderate lipid lowering with statins after acute coronary syndromes
+N Engl J Med
+350
+1495
+504
+2004 Apr 8; Epub 2004 Mar 08
+15007110
+10.1056/NEJMoa040583
+Topol
+EJ
+Intensive statin therapy – a sea change in cardiovascular prevention
+N Engl J Med
+2004
+350
+1562
+4
+15007111
+10.1056/NEJMe048061

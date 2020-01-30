@@ -1,0 +1,478 @@
+BMC Public Health
+BMC Public Health
+1471-2458 BioMed Central
+London 12445329
+140010
+1471-2458-2-26
+10.1186/1471-2458-2-26 Research Article Risk factors for hepatitis B virus infection in Rio de Janeiro, Brazil Lewis-Ximenez
+Lia L 1
+2
+lllewis@gene.dbbm.fiocruz.br do Ó
+Kycia MR 1
+klr@compuland.com.br Ginuino
+Cleber F 1
+cleber@ioc.fiocruz.br Silva
+Jucimara C 1
+maracs@brfree.com.br Schatzmayr
+Hermann G 1
+hermann@ioc.fiocruz.br Stuver
+Sherri 2
+sstuver@hsph.harvrad.edu Yoshida
+Clara FT 1
+yoshida@ioc.fiocruz.br 1National Reference Center for Viral Hepatitis, Department of Virology, Oswaldo Cruz Institute, FIOCRUZ, Ministry of Health, Rio de Janeiro, RJ, Brazil 2Department of Epidemiology, Harvard School of Public Health, Boston, Ma, USA 2002 22
+11
+2002 2
+26
+26 21
+3
+2002 22
+11
+2002 Copyright © 2002 Lewis-Ximenez et al; licensee BioMed Central Ltd.
+This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.
+2002
+Lewis-Ximenez et al; licensee BioMed Central Ltd.
+This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.
+Background
+Despite international efforts to prevent hepatitis B virus (HBV) infection through global vaccination programs, new cases are still being reported throughout the world.
+Methods
+To supply data that might assist in improving preventive measures and national surveillance for HBV infection, a cross-sectional study was conducted among individuals referred to the Brazilian National Reference Center for Viral Hepatitis (Rio de Janeiro) during a two-year period.
+Reported risk factors among infected subjects ("HBV-positive") were compared to those of subjects never exposed ("HBV-negative") to HBV.
+Two subgroups were further identified within the HBV-positive group, "acute" infection and "non-acute" infection.
+Results
+A total of 1,539 subjects were tested for HBV, of which 616 were HBV-positive (79 acute infection and 537 non-acute infection).
+HBV-positive subjects were more likely to be of male gender (63% versus 47%); and to report multiple sexual partners (12% versus 6%) and illicit drug use (IDU and/or intranasal cocaine use) (6% versus 3%).
+Among the HBV-positive subgroups, age differed significantly, with 48% being under 30 years of age in subjects acutely infected compared to 17% in those with non-acute infection.
+Conclusions
+The association of multiple sexual partners with past HBV infection and the age distribution of currently infected subjects suggest that sexual transmission played a major role in the transmission of HBV in this study population.
+Thus, vaccination during adolescence should be considered.
+Background
+Hepatitis B, a global but preventable disease, is estimated to affect at least 300 million individuals throughout the world.
+National vaccination programs have been encouraged since 1989 [1], and many countries have already shown the impact of these programs in preventing chronic hepatitis B virus (HBV) infection, and consequently hepatocellular carcinoma [2-4], as well as their possible cost effectiveness [5,6].
+Not all countries, however, have been able to implement hepatitis B vaccination on a national level, and only in 1998 has it been included in Brazil's national infant immunization calendar.
+In 1997, the Brazilian National Reference Center for Viral Hepatitis (BNRCVH), located in the coastal Southeastern region of Brazil (Rio de Janeiro), established a patient referral site in response to the gradual increase of referred individuals from public and private hospitals and clinics, and blood banks.
+The referral site has been engaged in diagnostic testing for viral hepatitis, obtaining data from epidemiologic questionnaires, and tracking partners and household members at risk of hepatitis infection since its establishment.
+In the present paper, major risk factors of HBV infection are described based on subjects seen at the BNRCVH, with the objective of providing data that might help to improve preventive measures and national surveillance.
+Methods Study population
+The study population consisted of all subjects registered at the BNRCVH's patient referral site between September 1997 and September 1999, who were tested for HBV serological markers.
+Interviewers used standardized questionnaires to obtain data on demographic characteristics and risk factors for parenteral and sexual exposure to HBV.
+Ten risk factors queried in the questionnaire were selected for analysis and included history of: blood transfusion, surgery, hemodialysis, occupation as a health professional, intravenous drug use (IDU), intranasal cocaine use, tattoos, sexually transmitted diseases (STD), multiple sexual partners (more than five sexual partners/year), and male homosexuality.
+Demographic variables such as gender, age, educational and economic status, and residency were also assessed.
+Age was categorized by decades into eight groups, with the youngest group being under eleven years and the oldest group over 60 years.
+Educational status was categorized into two groups: those that were illiterate or had at most completed primary education and those who had studied beyond primary school.
+Economic status also was categorized into two groups: individuals with a monthly income of less than three minimum Brazilian salaries, which is equivalent to approximately U$ 225, and those with higher wages.
+Residency was dichotomised as those living in the mostly densely populated region of Rio de Janeiro County (northern region) and those living elsewhere.
+Laboratory testing
+Testing for present or past HBV infection included hepatitis B surface antigen (HBsAg), antibody to HBsAg (anti-HBs), antibodies to hepatitis B core (IgM anti-HBc, total anti-HBc), hepatitis B e antigen (HBeAg), and antibody to HBeAg (anti-HBe) (Organon Teknika, Boxtel, The Netherlands; and Bio-Manguinhos, FIOCRUZ, Brazil).
+Testing of alanine aminotransferase (ALT) levels was also performed.
+HBV infection status: groups and subgroups
+To evaluate the potential risk factors in subjects with different HBV infection status, individuals were categorized into two groups, HBV-positive and HBV-negative groups.
+The HBV-positive group was comprised of subjects who tested positive for any HBV marker and the HBV-negative group tested negative for all markers.
+Individuals who had isolated anti-HBs were excluded since it may represent hepatitis B vaccine response.
+To identify current trends in transmission routes of HBV infection the HBV-positive group was subsequently divided into two subgroups: those with acute HBV infection and those with non-acute HBV infection.
+The acute infection subgroup included individuals with present infection, who tested positive for IgM anti-HBc with or without HBsAg.
+The non-acute infection subgroup comprised of subjects with chronic or past infection who were negative for IgM anti-HBc.
+Chronic infection was confirmed by HBsAg positivity and past infection with anti-HBc.
+Subjects with clinical symptoms (i.e., jaundice, choluria) were classified as symptomatic, and those with very mild or no symptoms were considered asymptomatic.
+Statistical analysis
+Mean values for age and median values for ALT (non-normal distribution) were compared between the HBV groups using the t-test and the Kruskal-Wallis test, as appropriate.
+The Chi-square test was used to evaluate gender distribution differences.
+To assess the association between risk factors and HBV infection status, a multivariate analysis was used to adjust for age (continuous) and gender.
+The adjusted prevalence ratios were estimated through a binomial regression model using the log-link function in STATA 6 (Stata Corporation, College Station, Texas) [7].
+Results Demographics
+During these two years (1997 – 1999), the BNRCVH registered 1,539 subjects who were tested for HBV infection.
+The mean age of these subjects was 38 years (range: 19 days – 86 years).
+Almost 67 percent had at most a primary school education, and 55 percent received a monthly income of less than three minimum salaries.
+Most subjects living in Rio de Janeiro County were from the highly populated area located in the northern region, and those from other counties lived mostly in neighbourhood counties that bordered this region.
+Among the 1,539 subjects evaluated, 616 (40%) were HBV-positive and 923 (60%) were HBV-negative.
+Both groups shared similar referral profiles with liver disease being the most predominant motive.
+In the HBV-positive group, 79 (13%) had acute infection and 537 (87%) had non-acute infection.
+The mean ages for the HBV-positive and the HBV-negative groups did not differ significantly and were 42 and 37, respectively.
+The mean ages for the HBV-positive subgroups were 32 for acute infection and 43 for non-acute infection (P < 0.0001).
+Table 1 summarizes age distribution among individuals infected with HBV according to their different infection status (acute infection versus non-acute infection).
+Table 1 Distribution of HBV infection according to age and clinical status Age Category (years)
+Acute
+Non-Acute Chronic
+Past Infection n
+%
+n
+%
+n
+% < 1–10
+7
+8.9
+7
+4.8
+7
+1.8 11–20
+9
+11.4
+5
+3.4
+5
+1.3 21–30
+22
+27.8
+25
+17.1
+42
+10.7 31–40
+14
+17.7
+41
+28.1
+89
+22.8 41–50
+16
+20.2
+33
+22.6
+99
+23.3 51–60
+7
+8.8
+22
+15.1
+71
+16.2 > 60
+2
+2.5
+9
+6.2
+56
+14.3 Unknown
+2
+2.5
+4
+2.7
+22
+5.6 Total
+79
+100.0
+146
+100.0
+391
+100.0 Acute HBV infection
+Seventy nine subjects were acutely infected with HBV, 52 males (66%) and 27 females (34%), with an average age of 32 (± 14).
+Among the cases of acute hepatitis, 77% (61/79) were symptomatic with the remaining detected during family tracking.
+HBsAg was absent in 17/79 (22%) with IgM anti-HBc as the only indicator of active infection on at least two different samples tested.
+Risk factors
+Differences in the distribution of risk factors were compared between the HBV-positive and -negative groups, with similarities observed for educational level, economic status, and residency (table 2).
+Higher frequencies were observed in the HBV-positive group for history of blood transfusion (15% versus 14%), surgery (40% versus 37%), hemodialysis (9% versus 8%), IDU (1% versus 0.5%), intranasal cocaine use (5% versus 3%), tattooing (4% versus 3%), STD (10% versus 7%), multiple sexual partners (12% versus 6%), and homosexuality (3% versus 2%).
+Adjusted prevalence ratios (table 2) demonstrated HBV-positivity to be associated with history of multiple partners when compared to the HBV-negative group.
+Although the associations between IDU and intranasal cocaine use and HBV-positivity were not statistically significant, a significant association was obtained when pooling these two variables in the analysis (PR = 1.8, 95% CI 1.1 – 3.0, p = 0.04).
+Table 2 Prevalence ratios* for risk factors in HBV-positive and HBV-negative groups.
+HBV-positive† (n = 616)
+HBV-negative §(n = 933)
+HBV-positive Versus HBV-negative* n
+%
+n
+%
+PR
+95% CI
+P Male gender'
+389
+63
+437
+47
+1.4
+1.24 – 1.50
+< .0001 Blood transfusion
+94
+15
+132
+14
+1.0
+0.79 – 1.29
+0.90 Surgery
+249
+40
+343
+37
+1.1
+0.93 – 1.18
+0.42 Health-care professional
+46
+8
+73
+8
+1.3
+0.87 – 1.84
+0.21 Hemodialysis
+55
+9
+69
+8
+1.3
+0.84 – 1.97
+0.27 IDU
+7
+1
+5
+0.5
+1.9
+0.58 – 5.90
+0.31 Intranasal cocaine use
+28
+5
+24
+3
+1.6
+0.93 – 2.74
+0.11 Tattoo
+24
+4
+25
+3
+1.5
+0.85 – 2.63
+0.17 STD
+61
+10
+65
+7
+1.1
+0.75 – 1.46
+0.78 Multiple sexual partners
+72
+12
+58
+6
+1.5
+1.06 – 2.07
+0.02 Homosexuality
+20
+3
+20
+2
+1.1
+0.58 – 1.95
+0.87 Non or incomplete schooling
+363
+59
+536
+58
+1.00
+0.89 – 1.05
+0.47 Monthly wage (< 225 U$)
+284
+46
+447
+48
+0.95
+0.86 – 1.06
+0.39 Living in AP3 region
+210
+34
+311
+34
+1.00
+0.86–1.15
+0.96 *adjusted for age and gender †HBV-positive = positive for HBsAg and/or IgM anti-HBc and/or total anti-HBc §HBV-negative = HBsAg and anti-HBc negative PR = prevalence ratio (adjusted); P = p value; CI = confidence interval Risk factors compared between the acute and non-acute HBV infection subgroups were similar (data not shown).
+Sexual or household contact was reported in 26 (33%) subjects with acute infection.
+Other routes of transmission reported among those acutely infected were: intranasal cocaine use (8%), being a hemodialysis patient (5%), and being a health professional without previous vaccination (5%).
+Discussion
+Brazil, the fifth largest country in the world, is divided into five geographic regions which carry different endemic patterns for HBV infection with a prevalence increasing from south to north [8].
+The Southeast region occupies only 11% of the national territory but nevertheless, 43% of the population, and has a low endemic pattern for HBV infection [9,10].
+In low-risk areas the highest incidence of HBV infection is observed in adolescents and young adults, while in more endemic areas most infections occur in children.
+In the present study, the significant age difference observed between the acute and non-acute HBV infection subgroups, suggests the low endemic pattern in which adolescents and young adults have a lower frequency of HBV antibodies and are more prone to infection via sexual activity and high-risk behaviours such as drug use.
+In 1996, the highest number of HBV cases notified to the Brazilian National Health Foundation was between the ages 20 and 49 years [11].
+An identical age distribution was observed at the BNRCVH among subjects acutely infected with HBV, with the highest numbers occurring in the age groups 21 to 50 years.
+Multiple sexual partners or history of STD was not uncommonly reported (22%) in these age groups, which suggests a role for sexual transmission of HBV in this population.
+Even though fewer cases of current infection were observed in subjects in the 11 to 20 age category, they had a higher proportion (64%) of acute cases when compared to older age groups, whose proportions ranged from 18% to 46%.
+Male gender also seemed to play an important role in the acquisition of HBV infection.
+There were approximately twice as many males as females with acute HBV infection.
+Previous studies have demonstrated that men are more likely to become chronic HBV carriers than women [12].
+However, the gender difference in the acute cases might also reflect the increased frequency of high-risk behavior, such as multiple sexual partners and drug use among men compared to women.
+The lack of association observed with IDU and HBV infection may have been due to under reporting.
+Intranasal use of cocaine alone may be a transmission route since it is not uncommon for a few to have reported nasal bleeding following the procedure.
+Even though the study was not population-based our findings are in accordance with published data, such as having multiple sex partners and illicit drug use [13-16].
+Due to the high concentration of circulating HBV and the virus's ability to remain viable on environmental surfaces for more than a week [17], hemodialysis patients are especially at high risk of acquiring HBV infection.
+This was demonstrated again in this study where even though most of our hemodialysis patients with documented HBV infection were chronic carriers, four were acutely infected.
+The continued association between hemodialysis and HBV infection suggests that some hemodialysis facilities have failed to completely implement the recommended infection control measures.
+Sporadic outbreaks are still being and will continue to be reported in these facilities [18].
+Conclusions
+In summary, the age categories in which most new cases of HBV infection occurred together with the associations observed between multiple sexual partners and HBV infection strongly suggest that unsafe sexual behavior plays a major role in transmitting HBV infection in this study group.
+Moreover, since hemodialysis facilities may still be hazardous environments for acquiring blood-borne diseases, infection control practices should be intensified jointly with continuous education of health-care workers.
+The results from this study also support the extension of HBV vaccination to early adolescence to prevent sexual transmission.
+Authors' contributions
+Author 1 (LLL-X) designed and coordinated the study, performed the statistical analysis and drafted the manuscript.
+Author 2 (KMRO) participated in attending the patients and was responsible for obtaining confidential information from the questionnaires.
+Author 3 (CFG) carried out the immunoassays and interviewed patients.
+Author 4 (JCS) carried out the immunoassays and interviewed patients.
+Author 5 (HGS) participated in drafting the manuscript.
+Author 6 (SS) participated in the design of the questionnaires, statistical analysis and in the drafting of the manuscript.
+Author 7 (CFTY) participated in the design of the study.
+All authors read and approved the final manuscript.
+Competing interests
+None declared.
+Pre-publication history
+The pre-publication history for this paper can be accessed here: Acknowledgements
+We are indebted to the Evandro Chagas Hospital/FIOCRUZ for providing the rooms for blood withdrawals and interviews, and for performing the ALT testing for all referred subjects.
+This study was supported in part in Brazil by FAPERJ, CNPq, and COLAB/MS and in the USA by a grant (TW00918) from the Fogarty International Institute of the National Institutes of Health.
+Maynard
+JE Kane
+MA Hadler
+SC Global control of hepatitis B through vaccination: role of hepatitis B vaccine in the Expanded Programme on Immunization.
+Rev Infect Dis
+1989
+11
+S574
+S578
+2527402 Wu
+JS Hwang
+LY Goodman
+KJ Beasley
+RP Hepatitis B vaccination in high-risk infants: 10-year follow-up.
+J Infect Dis
+1999
+179
+1319
+1325
+10228050
+10.1086/314768 Da Villa
+G Rationale for the infant and adolescent vaccination programmes in Italy.
+Vaccine
+2000
+18
+S31
+S34
+10683541
+10.1016/S0264-410X(99)00459-4 Huang
+K Lin
+S Nationwide vaccination: A success story in Taiwan.
+Vaccine
+2000
+18
+S35
+S38
+10683542
+10.1016/S0264-410X(99)00460-0 Mulley
+AG Silverstein
+MD Dienstag
+JL Indications for use of hepatitis B vaccine, based on cost-effectiveness analysis,
+N Engl J Med
+1982
+307
+644
+652
+6810170 Lahaye
+D Strauss
+P Baleux
+C van Ganse
+W Cost-benefit analysis of hepatitis-B vaccination,
+Lancet
+1987
+2
+441
+443
+2887738
+10.1016/S0140-6736(87)90971-8 Skov
+T Deddens
+J Petersen
+MR Endahl
+L Prevalence proportion ratios: estimation and hypothesis testing.
+Int J Epidemiol
+1998
+27
+91
+95
+9563700
+10.1093/ije/27.1.91 Juarez
+E do Amaral Junior
+C Pinheiro
+F Biellik
+R Hepatitis B and delta vaccination program in the western Amazon region of Brazil.
+Prog Clin Biol Res
+1991
+364
+343
+349
+1826955 Martelli
+CMT Turchi
+MD Souto
+FJ Sáez-Alquézar
+A Andrade
+ALSS Zicker
+F Anti-HBc testing for blood donors in areas with intermediate hepatitis B endemicity.
+Rev Panam Salud Publica
+1999
+6
+69
+73
+10446516 Silveira
+TR da Fonseca
+JC Rivera
+L Hepatitis B seroprevalence in Latin America.
+Rev Panam Salud Publica
+1999
+6
+378
+383
+10659668 Ministério da Saúde/Fundação Nacional da Saúde/CENEPI/Vigilância Epidemiológica Szmuness
+W Harley
+EJ Ikram
+H Stevens
+CE Vyas GN, Cohen SN, Schmid R Sociodemographic aspects of the epidemiology of hepatitis B.
+Viral hepatitis
+1978
+Philadelphia: Franklin Institute Press
+279
+320 Szmuness
+W Much
+I Prince
+AM On the role of sexual behavior in the spread of hepatitis B infection.
+Ann Intern Med
+1975
+83
+489
+495
+1166979 Nordenfelt
+E Lindholm
+T Dahlquist
+E A hepatitis epidemic in a dialysis unit.
+Occurrence and persistence of Australia-antigen among patients and staff.
+Acta Pathol Microbiol Scand [B] Microbiol Immunol
+1970
+78
+692
+700
+5278889 Knight
+AH Fox
+RA Baillod
+RA Niazi
+SP Sherlock
+S Moorhead
+JF Hepatitis-associated antigen and antibody in haemodialysis patients and staff.
+Br Med J
+1970
+3
+603
+606
+5470086 Seow
+SS Hepatitis in drug dependents.
+Aust Fam Physician
+1981
+10
+294, 296, 298
+7247866 Favero
+MS Bond
+WW Petersen
+NJ Berquist
+KR Maynard
+JE Detection methods for study of the stability of hepatitis B antigen on surfaces.
+J Infect Dis
+1974
+129
+210
+212
+4810942 Lewis-Ximenez
+LL Oliveira
+JM Mercadante
+LAC Serological and Vaccination Profile of Hemodialysis Patients during an Outbreak of Hepatitis B Virus Infection.
+Nephron
+2001
+87
+19
+26
+11174022
+10.1159/000045880

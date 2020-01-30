@@ -1,0 +1,47 @@
+T1	Caption 9736 9736	
+A1	Type T1 Fig.
+A2	Num T1 1
+
+T2	Reference 7124 7456	These theoretic considerations were demonstrated experimentally, as shown in Figure 1: We employed increasing concentrations of DAF-2 (0.01-5 µM in PBS) to either a blank vial (no NO source) or to A23187-activated human endothelial EA.hy926 cells (low-output NO source) followed by fluorescence measurement (λex 495 nm, λem 515 nm).
+A3	RefType T2 Direct
+A4	Type T2 Fig.
+A5	Num T2 1
+
+T3	Reference 7465 7766	Figure 1 shows that the fluorescence intensity obtained from DAF-2/DAF-2T in the supernatants of NO-producing endothelial cells does not exceed significantly the level of the fluorescence intensity obtained from DAF-2 auto-flourescence (no NO source) when concentrations of DAF-2 > 1 µM were employed.
+A6	RefType T3 Direct
+A7	Type T3 Fig.
+A8	Num T3 1
+
+T4	Caption 7775 8428	This suggests that concentrations < 1 µM DAF-2 should be employed measuring NO released from cNOS systems.In order to proof that concentrations < 1 µM DAF-2 are sufficient to trap all NO released from endothelial cells and that the correlation between NO concentration and measured fluorescence intensity is linear we created two standard curves: one for the fluorescence intensity obtained from increasing amounts of DAF-2T (Fig. 2A) and another one correlating increasing NO concentrations (liberated by the NO donor NOC-9 (22) in the presence of EA.hy 926 cells) to the fluorescence intensity measured after addition of 0.1 µM DAF-2 (Fig. #F2-3#-2B).
+A10	Type T4 Fig.
+A11	Num T4 2
+
+T5	Reference 7775 8421	This suggests that concentrations < 1 µM DAF-2 should be employed measuring NO released from cNOS systems.In order to proof that concentrations < 1 µM DAF-2 are sufficient to trap all NO released from endothelial cells and that the correlation between NO concentration and measured fluorescence intensity is linear we created two standard curves: one for the fluorescence intensity obtained from increasing amounts of DAF-2T (Fig. 2A) and another one correlating increasing NO concentrations (liberated by the NO donor NOC-9 (22) in the presence of EA.hy 926 cells) to the fluorescence intensity measured after addition of 0.1 µM DAF-2 (Fig. 2B).
+A12	RefType T5 Direct
+A13	Type T5 Fig.
+A14	Num T5 2
+
+T6	Reference 8437 8608	As shown in Figure 2, employing up to 100 nM NOC-9 (corresponding to 200 nM NO) the correlation between NO concentration and fluorescence intensity is linear (r2 = 0.997).
+A15	RefType T6 Direct
+A16	Type T6 Fig.
+A17	Num T6 2
+
+T7	Caption 13893 13893	
+A19	Type T7 Fig.
+A20	Num T7 3
+
+T8	Reference 12534 12802	Since the excitation maximum of DAF-2T is at 495 nm and the emission maximum at 515 nm, in instruments with low resolutions, the shoulder of the peak caused by Rayleigh light scatter (495 nm) may overlap with the maximum of the DAF-2T emission peak (515 nm) (Fig. 3A).
+A21	RefType T8 Direct
+A22	Type T8 Fig.
+A23	Num T8 3
+
+T9	Reference 13027 13234	However, as can be seen in Figure 3A, leaving the DAF-2T absorbance maximum (495 nm) for excitation the measured emission fluorescence intensity becomes smaller and thus the detection limit for NO increases.
+A24	RefType T9 Direct
+A25	Type T9 Fig.
+A26	Num T9 3
+
+T10	Reference 14344 14488	Figure 3B demonstrates that the fluorescence intensity measured at 515 nm (λex 495 nm) decreased with the NO concentration to background levels.
+A27	RefType T10 Direct
+A28	Type T10 Fig.
+A29	Num T10 3
+

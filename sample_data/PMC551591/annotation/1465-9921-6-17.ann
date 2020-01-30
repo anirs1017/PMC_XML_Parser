@@ -1,0 +1,95 @@
+T1	Caption 14329 14336	&-$Star
+A1	Type T1 Figure
+A2	Num T1 1
+
+T2	Reference 13960 14210	Results
+Pseudomonas beads instillation is associated with the development of a chronic infection
+Clinically, a major weight loss was observed from the second day in P. aeruginosa beads infected animals compared to the sterile beads groups (Figure 1).
+A3	RefType T2 Direct
+A4	Type T2 Figure
+A5	Num T2 1
+
+T3	Caption 15738 15971	Table 1:
+Analysis of the bronchoalveolar lavage All the animals who received sterile beads were included in the sterile group and compared to the control and pneumonic groups at respectively 2, 5, 8, 15 and 21 days post instillation.
+A7	Type T3 Table
+A8	Num T3 1
+
+T4	Reference 15367 15454	The results were not statistically different over time and therefore pooled in Table 1.
+A9	RefType T4 Direct
+A10	Type T4 Table
+A11	Num T4 1
+
+T5	Reference 15687 15729	All the results are summarized in Table 1.
+A12	RefType T5 Direct
+A13	Type T5 Table
+A14	Num T5 1
+
+T6	Caption 16984 16991	&-$Star
+A16	Type T6 Figure
+A17	Num T6 2
+
+T7	Reference 16468 16704	PMNs: Polymorphonuclear neutrophils, Ctr: Control group, St: Sterile group, Pn: Pneumonic group
+Histologically, in the infected groups, from the 2nd day, large numbers of PMNs were observed, mostly centered on the alveoli (Figure 2C–D).
+A18	RefType T7 Direct
+A19	Type T7 Figure
+A20	Num T7 2
+
+T8	Reference 16713 16775	Agar beads were clearly observed in the Pn2 group (Figure 2D).
+A21	RefType T8 Direct
+A22	Type T8 Figure
+A23	Num T8 2
+
+T9	Reference 16784 16864	With time, increased extracellular material became more prominent (Figure 2G–L).
+A24	RefType T9 Direct
+A25	Type T9 Figure
+A26	Num T9 2
+
+T10	Reference 16873 16975	The lung architecture of animals inoculated with sterile beads remained strictly normal (Figure 2A–B).
+A27	RefType T10 Direct
+A28	Type T10 Figure
+A29	Num T10 2
+
+T11	Caption 18959 18960	.
+A31	Type T11 Table
+A32	Num T11 2
+
+T12	Reference 18232 18545	Both lung liquid clearance and DAFC increased on the 2nd day post infection; DAFC increase is not related to a TNF-α or catecholamine dependent mechanism
+• Extra-vascular lung water and Lung liquid clearance (LLC)
+As shown in Table 2, no difference in wet to dry lung weight ratio was observed between the groups.
+A33	RefType T12 Direct
+A34	Type T12 Table
+A35	Num T12 2
+
+T13	Caption 19711 19718	&-$Star
+A37	Type T13 Figure
+A38	Num T13 3
+
+T14	Reference 19485 19589	• Distal alveolar fluid clearance
+Distal alveolar fluid clearance increased in the Pn2 group (Figure 3).
+A39	RefType T14 Direct
+A40	Type T14 Figure
+A41	Num T14 3
+
+T15	Caption 20704 20711	&-$Star
+A43	Type T15 Table
+A44	Num T15 3
+
+T16	Reference 20568 20695	The levels recovered in the plasma were comparable between control and pneumonic animals on the 2nd and the 5th days (Table 3).
+A45	RefType T16 Direct
+A46	Type T16 Table
+A47	Num T16 3
+
+T17	Caption 22094 22101	&-$Star
+A49	Type T17 Figure
+A50	Num T17 4
+
+T18	Reference 21914 22084	Stimulation with terbutaline intratracheally could not increase DAFC on the 5th day post infection, the intraperitoneal injection also failed to increase DAFC (Figure 4).
+A51	RefType T18 Direct
+A52	Type T18 Figure
+A53	Num T18 4
+
+T19	Reference 23781 23903	However, even after the eradication of the pathogen, DAFC remained unresponsive to beta-adrenergic stimulation (Figure 4).
+A54	RefType T19 Direct
+A55	Type T19 Figure
+A56	Num T19 4
+
