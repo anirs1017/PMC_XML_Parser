@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python
+# coding: utf-8
 """
 Created on Thu Jan 23 16:09:55 2020
 
@@ -80,6 +81,7 @@ class nxmlParser():
                     print (y.find('label').text + y.find('caption').text, '\n')
                         
     def tokenizeCaption(self, caption_text):
+        caption_text = caption_text.replace(u'\xa0', u' ')
         tokenized_caption = self.sentenceTokenizer(caption_text)
         store_caption = ""
         for token in tokenized_caption:
@@ -105,21 +107,21 @@ class nxmlParser():
                     y = soup.find(key, {"id": tag_id})
                     if key == 'fig' or key == 'table-wrap':
                         lab = y.find('label')
+                        lab.string = lab.string#+ ': '
                         label = lab.text
-                        lab.string = lab.string + ' '#+ ': '
+                        lab.string = self.tokenizeCaption(label)
+    
                         capt = y.find('caption')
                         tokenized_caption = self.tokenizeCaption(capt.text)
+#                        print (tokenized_caption, '\n')
                         if capt.string is not None:
                             capt.string = tokenized_caption
                         elif capt.findChild().string is not None:
                             capt.findChild().string = tokenized_caption
-                        store_caption = y.find('label').text + y.find('caption').text.replace('\n', '')
-                    elif key == 'supplementary-material':
-                        store_caption = y.text
-                    else:
-                        store_caption = y.text
-                    self.captions_dict[tag_id] = store_caption
-                    self.dict_markers_ids[tag_id].append(label)
+                        store_caption = y.find('label').text + ' ' + y.find('caption').text.replace('\n', '')
+
+                        self.captions_dict[tag_id] = store_caption
+                        self.dict_markers_ids[tag_id].append(label)
     
     '''Sentence segmentation of the files
     # 
@@ -129,7 +131,10 @@ class nxmlParser():
     # 3. While segmenting the original text, create another list that stores the character length of each sentence at the corresponding index, sent_ref_points
     '''
             
-    def sentenceTokenizer(self, original_content_text):
+    def sentenceTokenizer(self, input_text):
+#        import unidecode
+#        original_content_text = unidecode.unidecode(input_text)
+        original_content_text = input_text
         content_text = re.sub('\s\s+', ' ', original_content_text)
         content_text = re.sub(' +', ' ', content_text)#' +', ' '
          
@@ -400,64 +405,64 @@ class nxmlParser():
 rootdir = 'sample_data/'
 img_ext = ('.jpg', '.gif', '.png', '.tif')
 
-for subdir, dirs, files in os.walk(rootdir):
-    for curr_file in files:
-        if curr_file.lower().endswith('.nxml'):  
-            print('Processing file: ', subdir + '/' + curr_file, '\n')
-            infile = open(subdir + '/' + curr_file, "r")
-#subdir = 'sample_data/PMC116597/'
-#curr_file = '1471-2334-2-10.nxml'
-#print('Processing file: ', subdir + '/' + curr_file, '\n')
-#infile = open(subdir + '/' + curr_file, "r")
-            soup = BeautifulSoup(infile, 'xml')
-            soup_original = soup
-            soup_copy = soup
-            filename = os.path.splitext(curr_file)[0]
-            
-            curr_doc = nxmlParser()
-            curr_doc.filename = filename
-            
-            curr_doc.addMarkersToXREF()
-            #            curr_doc.addMarkersToCaptions()
-            
-            '''
-            Segment the Sentences
-            '''
-            soup_copy = soup_original
-            parsed_doc_text = soup.get_text()
-            curr_doc.segmentSentences(parsed_doc_text)
-            
-            curr_doc.getDirectReferences()
-            curr_doc.getCaptions()
-            
-            # Verify that all three lists have the same size
-#            print (len(curr_doc.sent_ref_points), len(curr_doc.all_sent_parsed), len(curr_doc.all_sent_original) )
-            
-            '''
-            Creating the all_sentences.txt file. 
-            Segment the sentences and dump each sentence on one line of the file.
-            '''
-            try: 
-                os.mkdir(subdir + "/annotation") 
-            except(FileExistsError): 
-                pass
-            currPath = subdir + '/annotation/'
-            #            print(currPath,'\n')
-            
-            curr_doc.createAllSentencesFile(currPath)
-#            curr_doc.showCaptions()
-            curr_doc.compileDRefCaptions(currPath)
-            d = curr_doc.captions_DRef_dict
-            print (d, '\n\n')
+#for subdir, dirs, files in os.walk(rootdir):
+#    for curr_file in files:
+#        if curr_file.lower().endswith('.nxml'):  
+#            print('Processing file: ', subdir + '/' + curr_file, '\n')
+#            infile = open(subdir + '/' + curr_file, "r")
+subdir = 'PMC3016212/'
+curr_file = '228_2010_Article_901.nxml'
+print('Processing file: ', subdir + '/' + curr_file, '\n')
+infile = open(subdir + '/' + curr_file, "r")
+soup = BeautifulSoup(infile, 'xml')
+soup_original = soup
+soup_copy = soup
+filename = os.path.splitext(curr_file)[0]
 
-            curr_doc.createJSONFile(soup_original, currPath, subdir)
-            curr_doc.createANNfile(currPath)
-            print('\nFinished processing file: ', subdir + '/' + curr_file, '\n')
-            print('----------------------------------------\n\n')
-        elif curr_file.lower().endswith(img_ext):
-            try:
-                os.mkdir(subdir + '/images')
-            except(FileExistsError):
-                pass
-            imgPath = subdir + '/images/'
-            shutil.move(subdir + '/' + curr_file, imgPath)
+curr_doc = nxmlParser()
+curr_doc.filename = filename
+
+curr_doc.addMarkersToXREF()
+#            curr_doc.addMarkersToCaptions()
+
+'''
+Segment the Sentences
+'''
+soup_copy = soup_original
+parsed_doc_text = soup.get_text()
+curr_doc.segmentSentences(parsed_doc_text)
+
+curr_doc.getDirectReferences()
+curr_doc.getCaptions()
+
+# Verify that all three lists have the same size
+#            print (len(curr_doc.sent_ref_points), len(curr_doc.all_sent_parsed), len(curr_doc.all_sent_original) )
+
+'''
+Creating the all_sentences.txt file. 
+Segment the sentences and dump each sentence on one line of the file.
+'''
+try: 
+    os.mkdir(subdir + "/annotation") 
+except(FileExistsError): 
+    pass
+currPath = subdir + '/annotation/'
+#            print(currPath,'\n')
+
+curr_doc.createAllSentencesFile(currPath)
+#            curr_doc.showCaptions()
+curr_doc.compileDRefCaptions(currPath)
+d = curr_doc.captions_DRef_dict
+print (d, '\n\n')
+
+curr_doc.createJSONFile(soup_original, currPath, subdir)
+curr_doc.createANNfile(currPath)
+print('\nFinished processing file: ', subdir + '/' + curr_file, '\n')
+print('----------------------------------------\n\n')
+#        elif curr_file.lower().endswith(img_ext):
+#            try:
+#                os.mkdir(subdir + '/images')
+#            except(FileExistsError):
+#                pass
+#            imgPath = subdir + '/images/'
+#            shutil.move(subdir + '/' + curr_file, imgPath)
