@@ -27,7 +27,7 @@ Agnes hospital, Baltimore, MD 21229, USA 3Department of global health, George Wa
 3
 2004 12
 5
-2004 Copyright © 2004 Aliyu et al; licensee BioMed Central Ltd.
+2004 Copyright (c) 2004 Aliyu et al; licensee BioMed Central Ltd.
 This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.
 2004
 Aliyu et al; licensee BioMed Central Ltd.
@@ -46,7 +46,7 @@ The lipid profiles of all patients were also analyzed.
 Results
 Fifteen patients with documented contraindications to statins therapy including persistent/severe LFT abnormalities, allergies, and gastrointestinal intolerance were excluded.
 A total of 371 patients were included in the analysis.
-The mean age for patients in the study was 65 years (range: 42–84).
+The mean age for patients in the study was 65 years (range: 42-84).
 236 (64%) were males while 141 (36%) were females.
 161 (43%) patients were on statins while 210 (57%) weren't.
 88 (62%) of females were on stain compared to 116 (49%) of males (p = 0.001).
@@ -82,7 +82,7 @@ The lipid profiles of all patients were also reviewed.
 Results
 Fifteen patients with documented contraindications/intolerance to statins including persistent/severe LFT abnormalities, allergies, and gastrointestinal intolerance were excluded.
 A total of 371 patients were included in the analysis.
-The mean age for patients in the study was 65 years (range: 42–84).
+The mean age for patients in the study was 65 years (range: 42-84).
 236 (64%) were males while 141 (36%) were females.
 161 (43%) patients were on statins while 210 (57%) weren't.
 88 (62%) of females were on statins compared to 116 (49%) of males (p = 0.001).
@@ -241,7 +241,7 @@ Am J Cardiol
 11900713
 10.1016/S0002-9149(02)02223-3 Eaton
 CB Stamp
-MJ National Cholesterol Education Program 9NCEP) – The Adult Treatment Panel III Guidelines.
+MJ National Cholesterol Education Program 9NCEP) - The Adult Treatment Panel III Guidelines.
 Practice patterns related to the AdultTreatment Panel III guidelines in primary care
 Am J Cardiol
 90
@@ -346,7 +346,7 @@ N Engl J Med
 2004 Apr 8; Epub 2004 Mar 08
 15007110
 10.1056/NEJMoa040583 Topol
-EJ Intensive statin therapy – a sea change in cardiovascular prevention
+EJ Intensive statin therapy - a sea change in cardiovascular prevention
 N Engl J Med
 2004
 350
