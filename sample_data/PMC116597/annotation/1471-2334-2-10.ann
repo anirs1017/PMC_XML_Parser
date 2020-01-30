@@ -1,26 +1,26 @@
-T1	Caption 8424 8578	Figure 1 Individual maternal antibody (maAb) titre (n = 282) of the 64 fox cubs born to vaccinated vixens during the experimental study conducted in 2000.
+T1	Caption 8433 8587	Figure 1 Individual maternal antibody (maAb) titre (n = 282) of the 64 fox cubs born to vaccinated vixens during the experimental study conducted in 2000.
 A1	Type T1 Figure
 A2	Num T1 1
 
-T2	Reference 8297 8423	This diminishing variance was particularly obvious in those cubs having maAb-titres above the threshold of 0.5 IU/ml (Fig. 1).
+T2	Reference 8306 8432	This diminishing variance was particularly obvious in those cubs having maAb-titres above the threshold of 0.5 IU/ml (Fig. 1).
 A3	RefType T2 Direct
 A4	Type T2 Figure
 A5	Num T2 1
 
-T3	Caption 9137 9362	Figure 2 Maternal antibody (maAb) titres (n= 499) of the combined data sets of the years 1998–2000 together with the linear regression line indicating the overall trend in the development of log(maAb) of cubs with age [days].
+T3	Caption 9146 9371	Figure 2 Maternal antibody (maAb) titres (n= 499) of the combined data sets of the years 1998-2000 together with the linear regression line indicating the overall trend in the development of log(maAb) of cubs with age [days].
 A7	Type T3 Figure
 A8	Num T3 2
 
-T4	Reference 9004 9136	A regression line was fitted to the data, with significant linear (p < 0.0001) decrease of log(maAb) with increasing age (Figure 2).
+T4	Reference 9013 9145	A regression line was fitted to the data, with significant linear (p < 0.0001) decrease of log(maAb) with increasing age (Figure 2).
 A9	RefType T4 Direct
 A10	Type T4 Figure
 A11	Num T4 2
 
-T5	Caption 10166 10312	Figure 4 Relation between the neutralizing antibody titre (nAb) of the vixen and the time (age) when maAb of cubs disappear (<0.5 IU/ml) in RFFIT.
+T5	Caption 10175 10321	Figure 4 Relation between the neutralizing antibody titre (nAb) of the vixen and the time (age) when maAb of cubs disappear (<0.5 IU/ml) in RFFIT.
 A13	Type T5 Figure
 A14	Num T5 4
 
-T6	Reference 9741 9920	Using equation (2) the critical mean age when cubs' titres equal 0.5 IU/ml in RFFIT was 23 days (range: 14 – 38 days) depending on the nAb-titre of the immunised vixen (Figure 4).
+T6	Reference 9750 9929	Using equation (2) the critical mean age when cubs' titres equal 0.5 IU/ml in RFFIT was 23 days (range: 14 - 38 days) depending on the nAb-titre of the immunised vixen (Figure 4).
 A15	RefType T6 Direct
 A16	Type T6 Figure
 A17	Num T6 4

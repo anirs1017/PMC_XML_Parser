@@ -82,6 +82,8 @@ class nxmlParser():
                         
     def tokenizeCaption(self, caption_text):
 #        caption_text = caption_text.replace(u'\xa0', u' ')
+        import unidecode
+        caption_text = unidecode.unidecode(caption_text)
         tokenized_caption = self.sentenceTokenizer(caption_text)
         store_caption = ""
         for token in tokenized_caption:
@@ -402,7 +404,7 @@ class nxmlParser():
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
 '''        
-rootdir = 'sample_data/'
+rootdir = 'data/'
 img_ext = ('.jpg', '.gif', '.png', '.tif')
 
 for subdir, dirs, files in os.walk(rootdir):

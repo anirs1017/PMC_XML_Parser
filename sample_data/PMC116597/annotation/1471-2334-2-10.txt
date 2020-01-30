@@ -4,7 +4,7 @@ BMC Infectious Diseases
 London 12069694
 116597
 1471-2334-2-10
-10.1186/1471-2334-2-10 Research Article Kinetics of maternal immunity against rabies in fox cubs (Vulpes vulpes) Müller
+10.1186/1471-2334-2-10 Research Article Kinetics of maternal immunity against rabies in fox cubs (Vulpes vulpes) Muller
 Thomas 1
 thomas.mueller@wus.bfav.de Selhorst
 Thomas 2
@@ -16,7 +16,7 @@ ad.vos@idt-direct.de Wenzel
 Ulf 4
 drhelgawenzel@aol.com Neubert
 Andreas 3
-andreas.neubert@idt-direct.de 1Institute for epidemiological Diagnostics, Federal Research Centre for Virus Diseases of Animals, WHO Collaborating Centre for Rabies Surveillance and Research, D-16868 Wusterhausen, Germany 2Institute for Epidemiology, Federal Research Centre for Virus Diseases of Animals, WHO Collaborating Centre for Rabies Surveillance and Research, D-16868 Wusterhausen, Germany 3IDT GmbH, PO Box 214, D-06855 Rosslau, Germany 4Fur Animal Breeding station, Nerzfarm Gleinermühle, D-06774 Söllichau, Germany 2002 11
+andreas.neubert@idt-direct.de 1Institute for epidemiological Diagnostics, Federal Research Centre for Virus Diseases of Animals, WHO Collaborating Centre for Rabies Surveillance and Research, D-16868 Wusterhausen, Germany 2Institute for Epidemiology, Federal Research Centre for Virus Diseases of Animals, WHO Collaborating Centre for Rabies Surveillance and Research, D-16868 Wusterhausen, Germany 3IDT GmbH, PO Box 214, D-06855 Rosslau, Germany 4Fur Animal Breeding station, Nerzfarm Gleinermuhle, D-06774 Sollichau, Germany 2002 11
 6
 2002 2
 10
@@ -24,10 +24,10 @@ andreas.neubert@idt-direct.de 1Institute for epidemiological Diagnostics, Federa
 3
 2002 11
 6
-2002 Copyright © 2002 Müller et al; licensee BioMed Central Ltd.
+2002 Copyright (c) 2002 Muller et al; licensee BioMed Central Ltd.
 This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.
 2002
-Müller et al; licensee BioMed Central Ltd.
+Muller et al; licensee BioMed Central Ltd.
 This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.
 Background
 In previous experiments, it was demonstrated that maternal antibodies (maAb) against rabies in foxes (Vulpes vulpes) were transferred from the vixen to her offspring.
@@ -58,18 +58,18 @@ By merging these results on rabies virus neutralising antibodies (nAb) with thos
 This decline was examined in relation to one of the most important parameters influencing the initial level of maAb: the rabies nAb-titre of the mother animal.
 Furthermore, we tried to answer the question at which age maAb are no longer distinguishable from unspecific reactions in the seroneutralisation test used.
 Material and methods
-In Spring 2000, 64 cubs whelped by 19 vixens at the Fur Animal Breeding station 'Gleinermühle' (Söllichau, Germany) were included in this study.
+In Spring 2000, 64 cubs whelped by 19 vixens at the Fur Animal Breeding station 'Gleinermuhle' (Sollichau, Germany) were included in this study.
 The vixens were orally vaccinated with the attenuated rabies virus vaccine, SAD B19, shortly before mating or during early pregnancy.
-All vixens received 1.5 – 2.0 ml SAD B19 (106.7 FFU/ml) by direct oral instillation.
-The cubs and vixens were marked individually by electronic identification (Indexel® Iso Transponder, Rhone-Merieux GmbH, Laupheim, Germany).
+All vixens received 1.5 - 2.0 ml SAD B19 (106.7 FFU/ml) by direct oral instillation.
+The cubs and vixens were marked individually by electronic identification (Indexel(r) Iso Transponder, Rhone-Merieux GmbH, Laupheim, Germany).
 Blood samples (n = 281) were taken up to 6 times per cub at different ages ranging from day 3 to 43 days post partum.
 The study was performed according to the German Animal Welfare Act (Tierschutzgesetz) of 25 May 1998 and the experimental design was approved by the appropriate authorities.
 For ethical reasons, depending on the general constitution of the new-born cubs, only a small number of cubs (n = 6) were bled between day 3 to 5 post partum.
-These six animals were euthanised using 1 ml of a 105 mg/ml barbiturate, Eunarcon® (Parke-Davis, Freiburg; Germany).
+These six animals were euthanised using 1 ml of a 105 mg/ml barbiturate, Eunarcon(r) (Parke-Davis, Freiburg; Germany).
 From those animals, blood samples were taken from the heart during necropsy whilst from the others blood samples were taken by puncturing of the Vena safena.
 The serum samples were tested for the presence of nAb using the Rapid Fluorescence Focus Inhibition Test (RFFIT) as described by Smith et al.
 [7], with the modifications of that method as described by Cox & Schneider [8].
-Prior to testing, sera were heat inactivated for 30 minutes at 56°C.
+Prior to testing, sera were heat inactivated for 30 minutes at 56degC.
 The nAb-titres were determined as described elsewhere [9] and were converted to International Units (IU) by comparison with an international standard immunoglobulin (2nd human rabies immunoglobulin preparation, National Institute for Standards and Control, Potters Bar, UK) adjusted to 0.5 IU/ml which served as a positive control [10].
 The obtained data was pooled with the results obtained during 1998 and 1999.
 A Kruskal Wallis Test [11] was performed to test if these data sets could be merged.
@@ -88,22 +88,22 @@ Results
 Prior to whelping, the Geometric Mean Titre (GMT) of the 19 vaccinated vixens (21 days post vaccination) was 11.32 IU/ml.
 In Spring 2000, of the 64 cubs born of rabies-immune vixens, 61, 57, 58, 56, 34 and 15 of the 64 cubs born of rabies-immune vixens were bled 1, 2, 3, 4, 5 and 6 times, respectively, during the first 43 days post partum.
 Serum samples of 3 cubs could not be assigned to the respective litters due to dysfunction of the transponder.
-Ninety (32.02%) of 281 sera had maAb-titres ≥ 0.5 IU/ml; the GMT of all blood samples collected was 0.41 IU/ml.
+Ninety (32.02%) of 281 sera had maAb-titres >= 0.5 IU/ml; the GMT of all blood samples collected was 0.41 IU/ml.
 There was a great individual variation in maAb-titres of cubs, especially in the first days of their life ranging from 0.1 to 10 IU/ml.
 However, this variance in maAb-titers declined with age up to 43 days.
 This diminishing variance was particularly obvious in those cubs having maAb-titres above the threshold of 0.5 IU/ml (Fig. 1).
 Figure 1 Individual maternal antibody (maAb) titre (n = 282) of the 64 fox cubs born to vaccinated vixens during the experimental study conducted in 2000.
-The comparison of the serological data of the 13-day overlap period (day 31–43 post partum) of the studies conducted in 1998–2000 showed that they were not statistically different (Kruskal-Wallis Test, P> 0.09).
+The comparison of the serological data of the 13-day overlap period (day 31-43 post partum) of the studies conducted in 1998-2000 showed that they were not statistically different (Kruskal-Wallis Test, P> 0.09).
 The data was therefore pooled and comprised of 499 serum samples taken from 249 cubs whelped by 54 rabies-immune vixens.
 The majority of the cub sera (369 of 499) had maAb titres below the threshold of 0.5 IU/ml.
 A regression line was fitted to the data, with significant linear (p < 0.0001) decrease of log(maAb) with increasing age (Figure 2).
-Figure 2 Maternal antibody (maAb) titres (n= 499) of the combined data sets of the years 1998–2000 together with the linear regression line indicating the overall trend in the development of log(maAb) of cubs with age [days].
+Figure 2 Maternal antibody (maAb) titres (n= 499) of the combined data sets of the years 1998-2000 together with the linear regression line indicating the overall trend in the development of log(maAb) of cubs with age [days].
 The estimates of the models' parameters (1) are: a = 0.314, b = 0.329 and n = 0.0727.
 The model predictions are given in Figure #F3-2#-3.
 The calculated half-life of maAb against rabies is 9.34 days.
 Maternal antibodies of offspring whelped by vixens with high nAb-titres can be detected longer in RFFIT then those of offspring whelped by vixens with relatively low nAb-titres.
-Using equation (2) the critical mean age when cubs' titres equal 0.5 IU/ml in RFFIT was 23 days (range: 14 – 38 days) depending on the nAb-titre of the immunised vixen (Figure 4).
-Figure 3 Non-linear regression model fitted to the combined data set (1998–2000) showing the maternal antibody (maAb) titre of cubs in dependency on the neutralizing antibody (nAb) titre of the mother animal (VT) and the age of the cubs (days).
+Using equation (2) the critical mean age when cubs' titres equal 0.5 IU/ml in RFFIT was 23 days (range: 14 - 38 days) depending on the nAb-titre of the immunised vixen (Figure 4).
+Figure 3 Non-linear regression model fitted to the combined data set (1998-2000) showing the maternal antibody (maAb) titre of cubs in dependency on the neutralizing antibody (nAb) titre of the mother animal (VT) and the age of the cubs (days).
 Figure 4 Relation between the neutralizing antibody titre (nAb) of the vixen and the time (age) when maAb of cubs disappear (<0.5 IU/ml) in RFFIT.
 Discussion
 Detailed knowledge of the kinetics of maAb in fox cubs against rabies was missing, but is essential to optimise the timing of oral rabies vaccination campaigns in spring in order to achieve maximum vaccination coverage of the fox population [14].
@@ -125,15 +125,15 @@ This effect, however, could not be observed in foxes [9].
 The model presented here clearly identified another important parameter determining maAb-levels: the nAb-titre of the mother animal.
 A direct proportional relationship between the serum titre of the mother and her offspring has been identified in many studies on maternally derived immunity [18,20-22].
 Our results indicate that the subsequent disappearance rate of maAb in fox cubs was independent of the nAb-titre of the vixen.
-The exponential decline of maAb against rabies in foxes corresponded with the maAb-decline observed for other viruses in canine animal species, whereby maAb persist for up to 8–10 weeks on average [12,13,16].
+The exponential decline of maAb against rabies in foxes corresponded with the maAb-decline observed for other viruses in canine animal species, whereby maAb persist for up to 8-10 weeks on average [12,13,16].
 The half-life of maAb against rabies in foxes was estimated to be 9.34 days, and is similar to that observed for maAb against canine distemper virus (8.4 days) and canine parvovirus (9.7 days) [13,21].
 However, the disappearance of maAb is also linked with the sensitivity of the serological techniques and the threshold to distinguish between positive and negative used (Fig. #F4-6#-4).
 At an international level nAb at concentrations < 0.5 U/ml representing an arbitrarily defined threshold are considered positive whilst such nAb below this threshold cannot be distinguished from unspecific reactions [10].
-Following rabies vaccination of female dogs, maAb in puppies could be detected up to 6–7 weeks post partum, on average [16].
-Taking an estimated mean time period of 23 days into account during which maAb can be distinguished from unspecific reactions in RFFIT (nAb-titre ≥ 0.5 IU/ml) after birth, there is evidence that maAb-titres in fox cubs are not as high as in puppies and therefore appear to decrease more quickly than in dogs.
+Following rabies vaccination of female dogs, maAb in puppies could be detected up to 6-7 weeks post partum, on average [16].
+Taking an estimated mean time period of 23 days into account during which maAb can be distinguished from unspecific reactions in RFFIT (nAb-titre >= 0.5 IU/ml) after birth, there is evidence that maAb-titres in fox cubs are not as high as in puppies and therefore appear to decrease more quickly than in dogs.
 Further considering spring whelping activity, maternal immunity against rabies in young foxes is very difficult to detect under field conditions.
-Thus, the percentage of 9–20% of young foxes having nAb following spring vaccination campaigns [23-25], may result exclusively from active immunization by bait-uptake.
-It has been shown, however, that the detection of rabies maAb by immunoblotting is much more sensitive than the RFFIT, and consequently, by using the former method, maAb could be detected for a longer period of time (Müller, unpublished results).
+Thus, the percentage of 9-20% of young foxes having nAb following spring vaccination campaigns [23-25], may result exclusively from active immunization by bait-uptake.
+It has been shown, however, that the detection of rabies maAb by immunoblotting is much more sensitive than the RFFIT, and consequently, by using the former method, maAb could be detected for a longer period of time (Muller, unpublished results).
 The relatively longevity of maAb at a low level results in an interference between passively and actively acquired immunity up to 8 weeks post partum which affected more severely the ability of fox cubs to resist a virus challenge [9].
 Taking this into account, concerning spring vaccination campaigns baits should not be distributed in previously baited areas before most cubs are more than 8 weeks of age.
 Therefore, to reach optimal immune response in young foxes, depending on the geographical region vaccination campaigns should be adjusted accordingly.
@@ -149,26 +149,26 @@ TM was responsible for the examination of the blood samples and for the final in
 TS carried out the statistical analysis.
 PS conceived the study and collected the blood samples together with UW, who was furthermore responsible for the care taking of the animals.
 AV and AN participated in the design of the study and in the evaluation of the results.
-Table 1 Number of fox cubs born to vaccinated vixens and the blood sampling scheme used in the years 1998–2000.
+Table 1 Number of fox cubs born to vaccinated vixens and the blood sampling scheme used in the years 1998-2000.
 Year
 Vixens (n)
 Cubs (n)
 Blood sampling (days post partum) 1998
 21
 114
-31–60 1999
+31-60 1999
 14
 71
-23–71 2000
+23-71 2000
 19
 64
-3–43 Total
+3-43 Total
 54
 249
-3–71 Pre-publication history
+3-71 Pre-publication history
 The pre-publication history for this paper can be accessed here: Acknowledgements
 The authors wish to thank Jeanette Burow, Astrid Schameitat, Elke Pommerening, Kathrin Teske and Doris Balan for their skilful technical assistance and patience during these long lasting experiments.
-Stöhr
+Stohr
 K Meslin
 FX Progress and setbacks in the oral immunisation of foxes against rabies in Europe.
 Vet Rec
@@ -176,9 +176,9 @@ Vet Rec
 139
 32
 35
-8839488 Müller
-T Schlüter
-H Oral immunization of red foxes (Vulpes vulpes) in Europe – A review.
+8839488 Muller
+T Schluter
+H Oral immunization of red foxes (Vulpes vulpes) in Europe - A review.
 J Etlik Vet Microbiol
 1998
 9
@@ -203,14 +203,14 @@ Vet Res
 339
 345
 10863950
-10.1051/vetres:2000123 Müller
+10.1051/vetres:2000123 Muller
 T Schuster
 P Wenzel
 U Vos
 A Selhorst
 T Neubert
 A Maternal immunity and the immune response of fox cubs (Vulpes vulpes) to oral vaccination against rabies.
-Proceedings of the 10th Annual Rabies in the Americas Meeting, Novenber 14–19, San Diego, USA.
+Proceedings of the 10th Annual Rabies in the Americas Meeting, Novenber 14-19, San Diego, USA.
 1999
 83 Cliquet
 F Barrat
@@ -218,7 +218,7 @@ J Brochier
 B Pastoret
 PP Aubert
 MFA Kinetics of rabies immune response of young foxes (Vulpes vulpes) orally vaccinated with VRG vaccine.
-Proceedings of the 11th International Meeting on Research Advances and Rabies Control in the Americas, October 18–21, Lima, Peru.
+Proceedings of the 11th International Meeting on Research Advances and Rabies Control in the Americas, October 18-21, Lima, Peru.
 2000
 50 Smith
 JS Yager
@@ -236,7 +236,7 @@ J Clin Microbiol
 3
 96
 101
-1254722 Müller
+1254722 Muller
 T Schuster
 P Vos
 A Selhorst
@@ -274,24 +274,24 @@ J Inf Dis
 605
 608
 659917 Vos
-A Müller
+A Muller
 T Selhorst
 T Schuster
 P Neubert
-A Schlüter
+A Schluter
 H Optimising of spring oral vaccination campaigns of foxes against rabies.
-Dtsch tierärztl Wschr
+Dtsch tierarztl Wschr
 2001
 108
 55
-59 Müller
+59 Muller
 T Vos
 A Selhorst
 T Schuster
 P Wenzel
 U Neubert
 A Dynamics of SAD B19 derived maternal immunity in fox cubs (Vulpes vulpes).
-Proceedings of the 11th International Meeting on Research Advances and Rabies Control in the Americas, October 18–21, Lima, Peru
+Proceedings of the 11th International Meeting on Research Advances and Rabies Control in the Americas, October 18-21, Lima, Peru
 2000
 50
 51 Winters
@@ -311,8 +311,8 @@ Saunders, Philadelphia,
 193
 204 Schunck
 B Truyen
-U Fallbeschreibung: Einfluβ maternaler Antikörper auf die Impfung gegen das canine Parvovirus.
-Tierärztl Praxis
+U Fallbeschreibung: Einflub maternaler Antikorper auf die Impfung gegen das canine Parvovirus.
+Tierarztl Praxis
 1995
 23
 185
@@ -352,7 +352,7 @@ J Wildl Dis
 28
 102
 104
-1312644 Müller
+1312644 Muller
 T Vos
 A Selhorst
 T Stiebling
@@ -360,7 +360,7 @@ U Tackmann
 K Schuster
 P Neubert
 A Conraths
-FJ Schlüter
+FJ Schluter
 H Is it possible to orally vaccinate juvenile red foxes against rabies in spring campaigns?
 J Wildl Dis
 2001
