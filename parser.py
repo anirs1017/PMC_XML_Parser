@@ -18,6 +18,8 @@ from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 nlp = spacy.load('en_core_web_sm')
 
 def writeToLogFile(filePath, filename, ref_dict, caption_dict):
+    fig_count = 0
+    table_count = 0
     for key in ref_dict:
          write_text = ""
          write_text = filePath + ' , ' + filename + ' , '  + 'Reference'
@@ -30,10 +32,16 @@ def writeToLogFile(filePath, filename, ref_dict, caption_dict):
          write_text = ""
          write_text = write_text = filePath + ' , ' + filename + ' , '  + 'Caption'
          for item in caption_dict[key]:
+             if item == 'Figure':
+                 fig_count += 1
+             elif item == 'Table':
+                 table_count += 1
              write_text = write_text + ' , ' + str(item) #+ ','
          write_text = write_text + '\n'
          log_file.write(write_text)
-    
+    log_file.write('\n\n')
+    log_file.write (filePath + ' , ' + filename + ' , ' + 'Total # Figures' + ' , ' + str(fig_count) + '\n')
+    log_file.write(filePath + ' , ' + filename + ' , ' + 'Total # Tables' + ' , ' + str(table_count) + '\n')
     log_file.write('\n-------------------------------------------------------------------------------------------------\n')
 
 class nxmlParser():
