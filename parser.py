@@ -17,11 +17,34 @@ from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 
 nlp = spacy.load('en_core_web_sm')
 
+def writeToLogFile(filePath, filename, ref_dict, caption_dict):
+    for key in ref_dict:
+         write_text = ""
+         write_text = filePath + ' , ' + filename + ' , '  + 'Reference'
+         for item in ref_dict[key]:
+             write_text = write_text + ' , ' + str(item) #+ ','
+         write_text = write_text + '\n'
+         log_file.write(write_text)
+         
+    for key in caption_dict:
+         write_text = ""
+         write_text = write_text = filePath + ' , ' + filename + ' , '  + 'Caption'
+         for item in caption_dict[key]:
+             write_text = write_text + ' , ' + str(item) #+ ','
+         write_text = write_text + '\n'
+         log_file.write(write_text)
+    
+    log_file.write('\n-------------------------------------------------------------------------------------------------\n')
+
 class nxmlParser():
     
     def __init__(self):
         self.filename = ''
         self.tags_list = ['fig', 'table']
+        
+        self.log_file_caption = {}
+        self.log_file_references = {}
+        
         self.ref_marker_length = 0
         self.rids_dict = {}  # Save rids with uniquely added numbers as marker-keys and the corresponding direct references as values.
         self.captions_dict = {}  # Save keys as rids and values with Start and End markers with the captions.
@@ -39,6 +62,40 @@ class nxmlParser():
         self.curr_ref_points = 0
         self.sent_ref_points = []
         self.all_sent_original = []
+    
+    def createLogFileDicts(self):
+        for key in self.dict_markers_ids:
+            if key not in self.log_file_caption:
+                self.log_file_caption[key] = []
+            
+            caption_type = self.dict_markers_ids[key][0]
+            caption_id = self.dict_markers_ids[key][-1]
+            num_caption_references = len(self.dict_markers_ids[key]) - 2
+            self.log_file_caption[key].append(caption_type)
+            self.log_file_caption[key].append(caption_id)
+            self.log_file_caption[key].append(num_caption_references)
+        
+        count = 0
+        for key in self.updated_rids_dict:
+            count += 1
+            if key not in self.log_file_references:
+                self.log_file_references[key] = []
+            
+            for id_key in self.dict_markers_ids:
+                if key in self.dict_markers_ids[id_key]:
+#                    ref_type = self.dict_markers_ids[id_key][0]
+                    ref_to_capt_id = self.dict_markers_ids[id_key][-1]
+                    
+#                    self.log_file_references[key].append(ref_type)
+                    self.log_file_references[key].append(ref_to_capt_id)
+            
+            self.log_file_references[key].append(count)
+            ref_text_span_start = self.updated_rids_dict[key][1][0]
+            if ref_text_span_start > 0:
+                self.log_file_references[key].append(1)
+            else:
+                self.log_file_references[key].append(-1)
+
     
     def addMarkersToXREF(self):
         count = 0
@@ -173,6 +230,9 @@ class nxmlParser():
         
         for key in self.rids_dict:
             all_sent_indx = self.rids_dict[key]
+            if key not in self.updated_rids_dict:
+                self.updated_rids_dict[key] = []
+                
             self.updated_rids_dict[key] = self.all_sent_parsed[all_sent_indx]
         
     '''
@@ -226,7 +286,7 @@ class nxmlParser():
                             self.captions_DRef_dict[marker_keys].append(object_caption)
                             self.captions_DRef_dict[marker_keys].append(object_caption_len)
 
-                    direct_ref_text = self.updated_rids_dict[key]
+                    direct_ref_text = self.updated_rids_dict[key][0]
 #                    ref_start_span = read_text.find(direct_ref_text)
 #                    ref_end_span = ref_start_span + len(direct_ref_text)
                     ref_start_span, ref_end_span = self.findSpanInSentence(read_text, direct_ref_text)
@@ -407,6 +467,7 @@ class nxmlParser():
 '''        
 rootdir = 'data/'
 img_ext = ('.jpg', '.gif', '.png', '.tif')
+log_file = open('log_file.txt', 'w+', encoding = "utf8")
 
 for subdir, dirs, files in os.walk(rootdir):
     for curr_file in files:
@@ -458,6 +519,9 @@ for subdir, dirs, files in os.walk(rootdir):
             d = curr_doc.captions_DRef_dict
             print (d, '\n\n')
             
+            curr_doc.createLogFileDicts()
+            writeToLogFile(currPath, curr_doc.filename, curr_doc.log_file_references, curr_doc.log_file_caption)
+
             curr_doc.createJSONFile(soup_original, currPath, subdir)
             curr_doc.createANNfile(currPath)
             print('\nFinished processing file: ', subdir + '/' + curr_file, '\n')
@@ -469,3 +533,5 @@ for subdir, dirs, files in os.walk(rootdir):
 #                pass
 #            imgPath = subdir + '/images/'
 #            shutil.move(subdir + '/' + curr_file, imgPath)
+
+log_file.close()
