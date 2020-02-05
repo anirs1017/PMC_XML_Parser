@@ -14,17 +14,19 @@ if not os.path.exists("./oa_file_list.csv"):
 
 with open("./oa_file_list.csv", 'r') as csvfile:
     csv_content = csv.reader(csvfile, delimiter = ',', quotechar = "|")
-    i = 0
+    count = 0
     for row in csv_content:
-        if i != 0:
+        if count != 0:
             file_list.append(row[0])
         
-        i += 1
+        count += 1
 
-file_list = random.sample(file_list, 500)
+n_files = 500
+file_list = random.sample(file_list, n_files)
 
 def downloader(file_path, des_path):
-    url = os.path.join("https://ftp.ncbi.nlm.nih.gov/pub/pmc/", file_path)
+	web_address = "https://ftp.ncbi.nlm.nih.gov/pub/pmc/"
+    url = os.path.join(web_address, file_path)
     wget.download(url=url, out=des_path)
 
 def extractor(file_path, des_path):
